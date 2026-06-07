@@ -26,7 +26,7 @@ Nachdem er daselbst etwa 4 Wochen gearbeitet, kam er hierher in hiesige
 Gemeinde der er sich auch alsobald anschloß.
 
 Am 31 Mai 1856 verheirathete er sich hieselbst mit Jungfrau Christine
-Sophie Eleonore Krückeberg, der 2ten Tochter von Johann Heinrich Krückeberg
+Sophie Eleonore Krückeberg, der 2ten Tochter von [Johann Heinrich Krückeberg](DEC-BIO-Krueckeberg-01.md)
 und Caroline Sophie neé Weÿland, (siehe Seite 32, Kind No. 2)
 
 Kinder dieser Ehe sind:
@@ -74,8 +74,8 @@ worked there for 4 weeks, he arrived here and, soon after, joined the
 parish community.
 
 On 31 Mai 1856, he married the maiden Christine Sophie Eleonore
-Krückeberg, the 2nd daughter of [Johann Heinrich Krückeberg](image18.md) and
-Caroline Sophie neé Weÿland (see page 32, child No. 2).
+Krückeberg, the 2nd daughter of [Johann Heinrich Krückeberg](DEC-BIO-Krueckeberg-01.md)
+and Caroline Sophie neé Weÿland (see page 32, child No. 2).
 
 Children from this marriage are:
 
