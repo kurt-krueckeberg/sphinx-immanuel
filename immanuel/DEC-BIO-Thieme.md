@@ -26,7 +26,7 @@ Nachdem er daselbst etwa 4 Wochen gearbeitet, kam er hierher in hiesige
 Gemeinde der er sich auch alsobald anschloß.
 
 Am 31 Mai 1856 verheirathete er sich hieselbst mit Jungfrau Christine
-Sophie Eleonore Krückeberg, der 2ten Tochter von Johann Heinrich Krückeberg
+Sophie Eleonore Krückeberg, der 2ten Tochter von xref:image18.adoc[Johann Heinrich Krückeberg]
 und Caroline Sophie neé Weÿland, (siehe Seite 32, Kind No. 2)
 
 Kinder dieser Ehe sind:

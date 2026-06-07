@@ -1,95 +1,46 @@
-# Johann Andreas Thieme Biography
+# Abraham Stendler Biography
 
-```{image} images/22.jpg
+## Image
+
+```{image} images/34.jpg
 :class: image-override
 ```
 
-## Transliteration from old German script
+## Citation
 
-```{code-block} text
+The biography of Johann Heinrich Philipp Bleeke is {ref}`image 34 <DEC-BIO-Stendler>` of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
-page 36
+## Transliteration
 
-                    Johann Andreas Thieme                                                   No. 6
+Ehelicher Sohn von Jakob Stendler und Maria Elisabeth geborene Alexander
+geboren in Klingen Kanton Bergzabern Königreich Bayern den 22 November
+und getauft im selben Monat 1831, konfirmiert im März 1845. Er wanderte
+ein in dieses Land im März 1860, arbeitete anfangs in Ohio, zog alsdann
+hierher woselbst er sich alsbald der Gemeinde anschloß, und
+verheirathete sich den 30 December 1862mit Jungfrau Maria Belz, eine
+Tochter von Peter Belz und Elisabeth geb. Bibelheimer, geboren in
+West-Penn to Schuylkill Co. Pa. den 2 Juli 1838, confirmiert den 4 Apr
+1852.
 
-Sohn von Johann Andreas Thieme und Johanne Rosine geb. Haugk, geboren
-den 2 Januar und getauft im selben Monat 1833 zu Niederfranken
-(Niederfrankenhain) bei Gaitham (Geithain), Königreich Sachsen. Getauft
-in der ev. luth. Kirche zu Niederfranken (Niederfrankenhein),
-desgleichen auch confirmiert in derselben Kirche von Pastor Voigt um
-Michaelis 1846. Seine Taufpathen waren Gotthelf Hammer und Fridrich
-August Haugk.
+## Translation
 
-Er wanderte aus nach den Vereinigten Staaten von Nord-Amerika im August
-1855, und kam am 28 September desselben Jahres in Fort Wayne Ind. an.
-Nachdem er daselbst etwa 4 Wochen gearbeitet, kam er hierher in hiesige
-Gemeinde der er sich auch alsobald anschloß.
+legitimate son of Jakob Stendler and Maria Elisabeth neé Alexander, was
+bon in Klingen, Kanton (district) Bergzabern, in the Kingdom of Bavaria,
+on November 22nd 1831. He was baptized in the same month. He was
+confirmed in March 1845.
 
-Am 31 Mai 1856 verheirathete er sich hieselbst mit Jungfrau Christine
-Sophie Eleonore Krückeberg, der 2ten Tochter von xref:image18.adoc[Johann Heinrich Krückeberg]
-und Caroline Sophie neé Weÿland, (siehe Seite 32, Kind No. 2)
+He immigrated in this country in March of 1860. He first worked in Ohio
+but then later moved here, were he joined the community (parish) and
+married on December 30th 1862 the maiden Maria Belz, a daughter of
+Peter Belz and Elisabeth neé Bibelheimer. Maria Belz had been born on
+July 2nd 1838 in West Pennsylvania, in Schuylkill County, Pa. She was
+confirmed on April 4th 1852.
 
-Kinder dieser Ehe sind:
+## Citations
 
-(insert in pencil on the side: Carl Wilhelm Christian, see baptismal
-register No. 17)
+(DEC-BIO-Stendler)=
 
-1. Johann Fridrich, geboren den 1 Okober und getauft den 10 Oktober
-\1858. SeineTaufpathen sind: Johann Gottlieb Thieme und Heinrich
-Krückeberg
-
-2. Fridrich Wilhelm, geboren den 16 Juli und getauft den 29 Juli
-\1860. Seine Taufpathen sind: Wilhelm Weiland und Carl Krückeberg.
-
-3. Caroline Sophie Louise, geboren den 18 Februar und getauft den
-2 März 1862. Ihre Taufpathen sind: Caroline Grote und Sophie Thieme
-
-4. Christine Marie, geboren den 23 Januar und getauft den 7
-Februar 1864. 1863. Ihre Taufpathen sind: Philippine Caroline Schamerloh
-und Maria Bleeke.
-
-5. Caroline Philippine, geboren den 20 Oktober und getauft den 29
-Oktober 1865. Ihre Taufpathen sind: Philippine Weÿland und Philippine
-Christine Koldewey.
-```
-
-## English Translation
-
-page 36
-
-No. 6
-
-Johann Andreas Thieme
-
-Son of Johann Andreas Thieme and Johanne Rosine neé. Haugk, born in
-Niederfranken (Niederfrankenhain) near Gaitham (Geithain), Kingdom of
-Saxonia, on 2 January 1833. He was baptized in the same month at the
-Protestant Lutheran Church in Niederfranken (Niederfrankenhein). He was
-confirmed in the same church by Pastor Voigt at Michaelmas 1846. His
-godparents were Gotthelf Hammer and Fridrich August Haugk.
-
-He emigrated to the United States of North America in August 1855, and
-arrived on September 28th of the same year in Fort Wayne, IN. After he
-worked there for 4 weeks, he arrived here and, soon after, joined the
-parish community.
-
-On 31 Mai 1856, he married the maiden Christine Sophie Eleonore
-Krückeberg, the 2nd daughter of [Johann Heinrich Krückeberg](image18.md) and
-Caroline Sophie neé Weÿland (see page 32, child No. 2).
-
-Children from this marriage are:
-
-1. Johann Fridrich, born on 1 October, and baptized on 10 October
-\1858. His godparents are: Johann Gottlieb Thieme and Heinrich
-Krückeberg.
-2. Fridrich Wilhelm, born on 16 July and baptized on 29 July
-\1860. His godparents are: Wilhelm Weiland and Carl Krückeberg.
-3. Caroline Sophie Louise, born on 18 February, and baptized on 2
-March 1862. Her godparents are: Caroline Grote and Sophie Thieme.
-4. Christine Marie, born on 23 January, and baptized on 7
-February 1864. 1863. Her godparents are: Philippine Caroline Schamerloh
-and Maria Bleeke.
-5. Caroline Philippine, born on 20 October, and baptized on 29
-October 1865. Her godparents are: Philippine Weÿland and Philippine
-Christine Koldewey.
+[DEC-BIO-Stendler] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 34 of 242.
 

@@ -8,7 +8,7 @@
 
 ## Citation
 
-The biography of Heinrich Jacob Rücklos Sr. is [image 29](DEC-BIO-Rücklos-02.md) of 242 from digital
+The biography of Heinrich Jacob Rücklos Sr. is [image 29](DEC-BIO-Ruecklos-02) of 242 from digital
 images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 ## Transliteration
@@ -57,8 +57,8 @@ Godparents [empty]
 
 ## Citations
 
-(DEC-BIO-Rücklos-01)=
+(DEC-BIO-Ruecklos-01)=
 
-[DEC-BIO-Rücklos-01] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+[DEC-BIO-Ruecklos-01] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 17 of 242.
 
