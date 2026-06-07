@@ -6,6 +6,7 @@
 mkdir sphinx-immanuel
 cd sphinx-immanuel
 cp ~/gens/requirements.txt .
+cp ~/gens/.gitignore .
 python3 -m venv .venv
 source .venv/bin/activate
 pip install pip --upgrade
