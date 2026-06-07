@@ -4,69 +4,67 @@
 :class: image-override
 ```
 
-```{list-table}
-:header-rows: 1
+## Transliteration
 
-* - Transliteration
-  - Translation
-* -                 Carl Heinrich Julius
-    geb. den 29 October 1885 getauft d. 17 Jan. 1886
-    Eltern:
-                    
-                      
-                        Friedr. Roth
-                      
-                      
-                        Christine geb. Bittner
-                      
-                    
-                    Pathen: Heinr. Bittner & Julius Haugk
-    M. Gruber
-                  
-                  
-                    Loreine Louise Emilie.
-    [Wm. Reidenbach] geb. d. 8ten Jan. 1886 get. d. 24 Jan 1886
-    Eltern:
-                    
-                      
-                        Heinr. Bischoff
-                      
-                      
-                        Christine geb. Bleeke
-                      
-                    
-                    Pathen: Louise Bischoff & Louise Reinking
-    M. Gruber
-                  
-                  
-                    Otto Ernst Friedrich
-    [Ft. W.] geb. 13 März 1886 getauft 17 März 1886
-    Eltern:
-                    
-                      
-                        Wilhelm Holle
-                      
-                      
-                        Sophie geb. Bleeke.
-                      
-                    
-                    Pathen: Friedrich Bleeke jun, Friedrich Thieme
-    F. Berg
-                  
-                  
-                    Carl Heinrich Benjamin
-    geb. 22. Jan. 1886. getauft 17. März 1886
-    Eltern:
-                    
-                      
-                        Hermann Büttner.
-                      
-                      
-                        Louise geb. Roth.
-                      
-                    
-                    Pathen: Heinrich Schönstedt, Benjamin Belz
-    F. Berg
-  - Translated with DeepL.com (free version)
-```
+1. Carl Heinrich Julius
+geb. den 29 October 1885 getauft d. 17 Jan. 1886
+Eltern:
+  - Friedr. Roth
+  - Christine geb. Bittner
+  Pathen: Heinr. Bittner & Julius Haugk
+M. Gruber
+2. Loreine Louise Emilie.
+[Wm. Reidenbach] geb. d. 8ten Jan. 1886 get. d. 24 Jan 1886
+Eltern:
+  - Heinr. Bischoff
+  - Christine geb. Bleeke
+  Pathen: Louise Bischoff & Louise Reinking
+M. Gruber
+3. Otto Ernst Friedrich
+[Ft. W.] geb. 13 März 1886 getauft 17 März 1886
+Eltern:
+  - Wilhelm Holle
+  - Sophie geb. Bleeke.
+  Pathen: Friedrich Bleeke jun, Friedrich Thieme
+F. Berg
+4. Carl Heinrich Benjamin
+geb. 22. Jan. 1886. getauft 17. März 1886
+Eltern:
+  - Hermann Büttner.
+  - Louise geb. Roth.
+  Pathen: Heinrich Schönstedt, Benjamin Belz
+F. Berg
+
+## Translation
+
+1. Carl Heinrich Julius
+born 29 October 1885 baptized d. 17 Jan. 1886
+Parents:
+  - Friedr. Roth
+  - Christine née Bittner
+  Godparents: Heinr. Bittner & Julius Haugk
+M. Gruber
+2. Loreine Louise Emilie.
+[Wm. Reidenbach] b. d. 8th Jan. 1886 get. d. 24th Jan 1886
+Parents:
+  - Heinr. Bischoff
+  - Christine née Bleeke
+  Godparents: Louise Bischoff & Louise Reinking
+M. Gruber
+3. Otto Ernst Friedrich
+[Ft. W.] born 13 Mar 1886 baptized 17 Mar 1886
+Parents:
+  - Wilhelm Holle
+  - Sophie née Bleeke.
+  Godparents: Friedrich Bleeke jun, Friedrich Thieme
+F. Berg
+4. Carl Heinrich Benjamin
+born 22 Jan. 1886. baptized 17 March 1886
+parents:
+  - Hermann Büttner.
+  - Louise née Roth.
+  Godparents: Heinrich Schönstedt, Benjamin Belz
+F. Berg
+
+Translated with DeepL.com (free version)
 

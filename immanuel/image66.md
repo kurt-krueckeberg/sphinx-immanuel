@@ -4,174 +4,81 @@
 :class: image-override
 ```
 
-```{list-table}
-:header-rows: 1
+## Transliteration
 
-* - Transliteration
-  - Translation
-* -                 Heinrich Eduard
-    geb: den 25ten October u. get. den 3ten November 1872.
-    Eltern:
-                    
-                      
-                        Heinrich Rücklos
-                      
-                      
-                        Fridricka geb. Dauner
-                      
-                    
-                    Pathen: Jac Stochr jun. u. Georg Blum.
-                  
-                  
-                    Heinrich Friedrich.
-    geb: den 20ten November u. get: den 23 November 1872. [Ft. W.]
-    Eltern:
-                    
-                      
-                        Carl Grote
-                      
-                      
-                        Carolina geb. Krückeberg.
-                      
-                    
-                    Pathen: Heinrich Heier, u. Carl Krückeberg
-                  
-                  
-                    Emilia Paulina
-    geb: den 17. November u. get: den 24 November 1872.
-    Eltern:.
-                    
-                      
-                        Patrick Danahoe
-                      
-                      
-                        Therese, geb. Büttner
-                      
-                    
-                    Pathen: Johana Christina Buttner u. Emilia Büttner.
-                  
-                  
-                    Georg Christian Wilhelm
-    geb: d.n. 29ten Dezember, geb: den 5 Januar 1873
-    Eltern:
-                    
-                      
-                        Conrad Fells
-                      
-                      
-                        Carolina, geb. Feldner
-                      
-                    
-                    Pathen: Wilhelm Fells u. Georg Blum
-                  
-                  
-                    Amalia Emilie Christina [+5/16/33]
-    geb: den 15ten Febr: u. get. den 23 Febr. 1873.
-    Eltern:
-                    
-                      
-                        August Hauph
-                      
-                      
-                        Dores geb. Danel
-                      
-                    
-                    Pathen: Amalia Thieme u. Christina Buttner
-                  
-                  
-                    Friedrich Heinrich Wilhelm  [+2/4/43]
-    geb: den 5ten April u. get. den 20ten April 1873.
-    Eltern:
-                    
-                      
-                        Wilhelm Schamerloh
-                      
-                      
-                        Chat. Margaretha, geb. Paas. +. (+soll heißen Philipine Knruckeberg)
-                      
-                    
-                    Pathen: Heinrich Krükeberg u. Wilh. Weiland.
-  -                 Heinrich Eduard
-    born: October 25th and baptized: November 3rd, 1872.
-    Parents:
-                    
-                      
-                        Heinrich Rücklos
-                      
-                      
-                        L. Fridricka née Dauner
-                      
-                    
-                    Godparents: Jac Stochr jr. and Georg Blum.
-                  
-                  
-                    Heinrich Friedrich
-    born: November 20th and baptized: November 23rd, 1872. [Ft. W.]
-    Parents:
-                    
-                      
-                        Carl Grote
-                      
-                      
-                        Carolina née Krückeberg.
-                      
-                    
-                    Godparents: Heinrich Heier and Carl Krickeberg
-                  
-                  
-                    Emilia Paulina
-    born: November 17th and baptized: November 24th, 1872.
-    Parents:
-                    
-                      
-                        Patrick Danahoe
-                      
-                      
-                        Therese, née Büttner
-                      
-                    
-                    Godparents: Johana Christina Büttner and Emilia Büttner.
-                  
-                  
-                    Georg Christian Wilhelm
-    born: December 29th, baptized: January 5th, 1873
-    Parents:
-                    
-                      
-                        Conrad Fells
-                      
-                      
-                        Carolina née Feldner
-                      
-                    
-                    Godparents: Wilhelm Fells and Georg Blum
-                  
-                  
-                    Amalia Emilie Christina [+5/16/33]
-    born: February 15th and baptized: February 23rd, 1873.
-    Parents:
-                    
-                      
-                        August Hauph
-                      
-                      
-                        Dores née Danel
-                      
-                    
-                    Godparents: Amalia Thieme and Christina Buttner
-                  
-                  
-                    Friedrich Heinrich Wilhelm [+2/4/43]
-    born: April 5th and baptized: April 20th, 1873.
-    Parents:
-                    
-                      
-                        Wilhelm Schamerloh
-                      
-                      
-                        Chat. Margaretha, née Paas + (+ **should be Philipine Knruckeberg**)
-                      
-                    
-                    Godparents: Heinrich Krükeberg and Wilh. Weiland.
-```
+1. Heinrich Eduard
+geb: den 25ten October u. get. den 3ten November 1872.
+Eltern:
+  - Heinrich Rücklos
+  - Fridricka geb. Dauner
+  Pathen: Jac Stochr jun. u. Georg Blum.
+2. Heinrich Friedrich.
+geb: den 20ten November u. get: den 23 November 1872. [Ft. W.]
+Eltern:
+  - Carl Grote
+  - Carolina geb. Krückeberg.
+  Pathen: Heinrich Heier, u. Carl Krückeberg
+3. Emilia Paulina
+geb: den 17. November u. get: den 24 November 1872.
+Eltern:.
+  - Patrick Danahoe
+  - Therese, geb. Büttner
+  Pathen: Johana Christina Buttner u. Emilia Büttner.
+4. Georg Christian Wilhelm
+geb: d.n. 29ten Dezember, geb: den 5 Januar 1873
+Eltern:
+  - Conrad Fells
+  - Carolina, geb. Feldner
+  Pathen: Wilhelm Fells u. Georg Blum
+5. Amalia Emilie Christina [+5/16/33]
+geb: den 15ten Febr: u. get. den 23 Febr. 1873.
+Eltern:
+  - August Hauph
+  - Dores geb. Danel
+  Pathen: Amalia Thieme u. Christina Buttner
+6. Friedrich Heinrich Wilhelm  [+2/4/43]
+geb: den 5ten April u. get. den 20ten April 1873.
+Eltern:
+  - Wilhelm Schamerloh
+  - Chat. Margaretha, geb. Paas. +. (+soll heißen Philipine Knruckeberg)
+  Pathen: Heinrich Krükeberg u. Wilh. Weiland.
+
+## Translation
+
+1. Heinrich Eduard
+born: October 25th and baptized: November 3rd, 1872.
+Parents:
+  - Heinrich Rücklos
+  - L. Fridricka née Dauner
+  Godparents: Jac Stochr jr. and Georg Blum.
+2. Heinrich Friedrich
+born: November 20th and baptized: November 23rd, 1872. [Ft. W.]
+Parents:
+  - Carl Grote
+  - Carolina née Krückeberg.
+  Godparents: Heinrich Heier and Carl Krickeberg
+3. Emilia Paulina
+born: November 17th and baptized: November 24th, 1872.
+Parents:
+  - Patrick Danahoe
+  - Therese, née Büttner
+  Godparents: Johana Christina Büttner and Emilia Büttner.
+4. Georg Christian Wilhelm
+born: December 29th, baptized: January 5th, 1873
+Parents:
+  - Conrad Fells
+  - Carolina née Feldner
+  Godparents: Wilhelm Fells and Georg Blum
+5. Amalia Emilie Christina [+5/16/33]
+born: February 15th and baptized: February 23rd, 1873.
+Parents:
+  - August Hauph
+  - Dores née Danel
+  Godparents: Amalia Thieme and Christina Buttner
+6. Friedrich Heinrich Wilhelm [+2/4/43]
+born: April 5th and baptized: April 20th, 1873.
+Parents:
+  - Wilhelm Schamerloh
+  - Chat. Margaretha, née Paas + (+ **should be Philipine Knruckeberg**)
+  Godparents: Heinrich Krükeberg and Wilh. Weiland.
 
