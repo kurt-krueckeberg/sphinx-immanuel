@@ -1,0 +1,7 @@
+# Auto-generated from project.toc in myst.yml for Jupyter Book 1
+# Note: JB1 does not support title-only grouping below chapter level;
+# those nested groups have been flattened, with comments preserving their labels.
+format: jb-book
+root: root/index
+chapters:
+  - file: some_folder/some_file
