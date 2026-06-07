@@ -1,0 +1,179 @@
+# Page 84, #43-48
+
+```{image} images/53.jpg
+:class: image-override
+```
+
+TODO: Add Nachträge
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                 Ludwig Wilhelm
+    geboren den 11ten Januar und getauft den 7ten Februar 1864.
+    Eltern:
+                    
+                      
+                        Heinrich Jakob Rücklos
+                      
+                      
+                        Anna Elisabeth geb. Hoffmann
+                      
+                    
+                    Pathen: Johann Heinrich Bleeke u. Georg P. Germann.
+                  
+                  
+                    Emma Maria Catharina
+    geboren den 23ten December und getauft den 25ten Decemb. 1863.
+    Eltern:
+                    
+                      
+                        Carl Heinrich
+                      
+                      
+                        Maria Sophia geb. Tiemann.
+                      
+                    
+                    Pathen: Maria Tiemann u. Catharina Koldewey.
+                  
+                  
+                    Sophie Wilhelmine
+    geboren den 20ten October und getauft den 31ten October 1863.
+    Eltern:
+                    
+                      
+                        Carl Dietrich Wilhelm Schamerloh
+                      
+                      
+                        Caroline Philippine geb: Krückeberg
+                      
+                    
+                    Pathen: Wilhelmine Weiland u. Louise Heckmann.
+                  
+                  
+                    Fridrich Jakob
+    geboren den 2ten May und getauft den 16ten May 1864.
+    Eltern:
+                    
+                      
+                        Heinrich Jakob Rücklos.
+                      
+                      
+                        L. Friderike geb. Dauer.
+                      
+                    
+                    Pathen: Abraham Stoudler u. dessen Ehefrau Maria.
+                  
+                  
+                    Christine Maria
+    geboren den 23ten Januar und getauft den 7ten Februar 1864
+    Eltern:
+                    
+                      
+                        Johann Andreas Thieme
+                      
+                      
+                        Christine Sophie Eleonore geb. Krückeberg.
+                      
+                    
+                    Pathen: Philippine Caroline Schamerloh u. Maria Bleeke.
+                  
+                  
+                    Maria Sophia Helene
+    geboren den 12ten September und getauft den 25ten Septemb. 1864
+    Eltern:
+                    
+                      
+                        Conrad Dietrich Ferdinand Reinking.
+                      
+                      
+                        Maria Louise Eleonore geb. Bleeke.
+                      
+                    
+                    Pathen Bernhardine Koldewey u. Maria Carline Bleeke
+  -                 Ludwig Wilhelm
+    born on January 11th and baptized on February 7th, 1864.
+    Parents:
+                    
+                      
+                        Heinrich Jakob Rücklos
+                      
+                      
+                        Anna Elisabeth née Hoffmann
+                      
+                    
+                    Godparents: Johann Heinrich Bleeke and Georg P. Germann.
+                  
+                  
+                    Emma Maria Catharina
+    born on December 23rd and baptized on December 25th, 1863.
+    Parents:
+                    
+                      
+                        Carl Heinrich
+                      
+                      
+                        Maria Sophia née Tiemann.
+                      
+                    
+                    Godparents: Maria Tiemann and Catharina Koldewey.
+                  
+                  
+                    Sophie Wilhelmine
+    born on October 20th and baptized on October 31st, 1863.
+    Parents:
+                    
+                      
+                        Carl Dietrich Wilhelm Schamerloh
+                      
+                      
+                        Caroline Philippine née Krückeberg
+                      
+                    
+                    Godparents: Wilhelmine Weiland and Louise Heckmann.
+                  
+                  
+                    Fridrich Jakob
+    born on May 2nd and baptized on May 16th, 1864.
+    Parents:
+                    
+                      
+                        Heinrich Jakob Rücklos.
+                      
+                      
+                        L. Friderike née Dauer.
+                      
+                    
+                    Godparents: Abraham Stoudler and his wife Maria.
+                  
+                  
+                    Christine Maria
+    born on January 23rd and baptized on February 7th, 1864
+    Parents:
+                    
+                      
+                        Johann Andreas Thieme
+                      
+                      
+                        Christine Sophie Eleonore née Krückeberg.
+                      
+                    
+                    Godparents: Philippine Caroline Schamerloh and Maria Bleeke.
+                  
+                  
+                    Maria Sophia Helene
+    born on September 12th and baptized on September 25th, 1864
+    Parents:
+                    
+                      
+                        Conrad Dietrich Ferdinand Reinking.
+                      
+                      
+                        Maria Louise Eleonore née Bleeke.
+                      
+                    
+                    Godparents: Bernhardine Koldewey and Maria Carline Bleeke
+```
+

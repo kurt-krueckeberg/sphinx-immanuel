@@ -1,0 +1,58 @@
+# 1877-1879, Entries 24-30
+
+```{image} images/232.jpg
+:class: image-override
+```
+
+## Transliteration
+
+```{note}
+- "Offenb. 14,13" is likely Offenbarung, meaning "revelation", and thus refers to the
+Biblical book of Revelation chapter 14 verse 13.
+- Seite 32 means "page 2", which is the biography of Johann Heinrich Krückberg.
+"Lin" is perhaps an abbreviation for "Linie", meaning line, so it perhaps is the
+line numbers in the biography?
+```
+
+1. Louise Sophie Caroline, Tochter von Carl Diedrich Wilhelm
+Schamerloh und seiner Ehefrau Philipine, geb. 10. April 1860.
+gestorben den 2. Oct. 1877. Christlich begraben den 4. Oct 1877. Alter:
+17 Jahre 5 Monate. 22 Tage. (Taufregister No 33. Seite 82.)
+2. Wittwe Sophie Wilhelmine Weyland, geboren den 11. Juni
+1811, gestorben am 28. April. Christlich zur Erde bestattet den
+30 (?) April 1878. Alter: 66 Jahre. 10 Monate und 17 Tage.
+3. Johann, Heinrich, Carl Grote geboren den 4. Novbr 1823, Sohn von Johann,
+Heinrich Grote und dessen Ehefrau Sophia geboren Born[ramp?]. Gestorben am d.
+27ten May 1878. Christlich zur Ruhe bestattet am 29 May 1878
+4. Elisabeth Beltz, geboren den 30. December 1811. Tochter von
+Christian Bibelheimer u. dessen Frau Maria, geboren Rothenstein;
+gestorben am 21. März 1876. Christlich zur Erde bestattet,
+am 23. März 1876. Alter: 64 Jahre 2 Monate u. 21. Tage.
+5. Sarah Schoenstedt geb. Beltz, Ehefrau des Heinrich
+Schönstedt, geboren den 4ten Mai 1851. Gestorben den
+Januar 1879, christlich zur Erde bestattet den
+Alter:
+6. Johann Heinrich Krueckeberg, geboren den 12ten
+August 1806, gestorben den 21t und begraben den 23ten
+März 1879. Alter 72 Jahre, 7 Monate u. 11 Tage.
+(Siehe Seite 32), Luc. 2, 29. 38,
+7. Caroline Sophie Krückeberg, geboren den 23ten
+Januar 1808, gestorben den 1ten und begraben den 3ten October 1879.
+Alter 71 Jahre 8 Monate u. 8 Tage (Offenb. 14, 13) S. ß. 32.
+
+## Translation
+
+1. Louise Sophie Caroline, daughter of Carl Diedrich Wilhelm Schamerloh and his wife Philipine, born April 10, 1860. Died October 2,  1877.
+Buried in a Christian ceremony on October 4, 1877. Age: 17 years, 5 months, 22 days. (Baptismal Register No. 33, page 82.)
+2. Widow Sophie Wilhelmine Weyland, born June 11, 1811, died April 28. Buried in a Christian ceremony on April 30 (?), 1878.
+Age: 66 years, 10 months, and 17 days.
+3. Johann, Heinrich, Carl Grote, born November 4, 1823, son of Johann, Heinrich Grote and his wife Sophia, née Born[ramp?].
+Died on May 27, 1878. Buried in a Christian manner on May 29, 1878.
+4. Elisabeth Beltz, born December 30, 1811. Daughter of Christian Bibelheimer and his wife Maria, née Rothenstein; died March 21, 1876.
+Buried in a Christian manner on March 23, 1876. Age: 64 years, 2 months, and 21 days.
+5. Sarah Schoenstedt, née Beltz, wife of Heinrich Schönstedt, born May 4, 1851. Died January 1879. Buried in a Christian manner.
+6. Johann Heinrich Krueckeberg, born August 12, 1806, died on the 21st and buried March 23, 1879. Age: 72 years, 7 months, and 11 days.
+(See page 32), Luke. 2v29,38.
+7. Caroline Sophie Krückeberg, born on January 23, 1808, died on October 1, and buried on October 3, 1879. Age 71 years, 8 months,
+and 8 days (Revelation 14:13) See p. 32.
+

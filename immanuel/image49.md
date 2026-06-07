@@ -1,0 +1,194 @@
+# Page 80, #19-24
+
+```{image} images/49.jpg
+:class: image-override
+```
+
+## Taufregister
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   [+5/18/32] Carl Fridrich Wilhelm
+    geboren den 19ten September und getauft den 1t October 1859.
+    Eltern:
+                      
+                        
+                          Christian Dietrich Schamerloh
+                        
+                        
+                          Caroline Philippine Sophie geb. Krückeberg
+                        
+                      
+                      Pathen: Carl Dietrich Wilhelm Schamerich u. Carl Heinrich Wilh. Kruckeberg.
+                    
+                    
+                      [+?] Caroline Elisabeth
+    [E.C. Gallmeier]
+    geboren den 1ten November und getauft den 20t Novemb. 1859.
+    Eltern:
+                      
+                        
+                          Carl Fridrich Wilhelm Bleeke.
+                        
+                        
+                          Maria geborene Bibelheimer
+                        
+                      
+                      Pathen: Elisabeth Bibelheimer und Maria Bleeke.
+    (Dies nächste Kind siehe No 33.)
+                    
+                    
+                      Maria Elise
+    [+3/10/95] geboren den 23ten Juni und getauft den 8t Juli 1860.
+    Eltern:
+                      
+                        
+                          Christian Fridrich Bleeke
+                        
+                        
+                          Anna Maria geborene Rup.
+                        
+                      
+                      Pathen: Maria Reinking und Sahra Rup.
+                    
+                    
+                      Fridrich Wilhelm
+    [+] geboren den 16ten Juli und getauft den 29den Juli 1860.
+    Eltern:
+                      
+                        
+                          Johann Andreas Thieme
+                        
+                        
+                          Christine Sophie Eleonore geb. Krückeberg.
+                        
+                      
+                      Pathen: Wilhelm Weiland und Carl Krüskeberg.
+                    
+                    
+                      Fridrich Christian Wilhelm
+    [+2/1/40]
+    geboren den 30ten September und getauft den 6t October 1860
+    Eltern:
+                      
+                        
+                          Carl Heinrich Wilhelm Kräckeberg
+                        
+                        
+                          Caroline Wilhelmine geb: Kleinschmidt.
+                        
+                      
+                      Pathen: Wilhelm Schamerloh Christian Kleinschmidt.
+                    
+                    
+                      Carl Wilhelm Christian
+    [+1/2/62]
+    geboren den 15ten September und getauft den 6 October 1860
+    Eltern:
+                      
+                        
+                          Johann Heinrich Wilhelm Carl Grote
+                        
+                        
+                          Caroline Philippine Dorathea geb. Krückeberg
+                        
+                      
+                      Pathen: Carl Nürge und Christian Schamerloh.
+  -                   [+5/18/32] Carl Fridrich Wilhelm
+    born on September 19th and baptized on October 1st, 1859.
+    Parents:
+                      
+                        
+                          Christian Dietrich Schamerloh
+                        
+                        
+                          Caroline Philippine Sophie née Krückeberg
+                        
+                      
+                      Godparents: Carl Dietrich Wilhelm Schamerich and Carl Heinrich Wilh. Kruckeberg
+                    
+                    
+                      [+?] Caroline Elisabeth
+    [E.C. Gallmeier]
+    born on November 1st and baptized on November 20th, 1859.
+    Parents:
+                      
+                        
+                          Carl Fridrich Wilhelm Bleeke.
+                        
+                        
+                          Maria née Bibelheimer
+                        
+                      
+                      Godparents: Elisabeth Bibelheimer and Maria Bleeke.
+    (For the next child, see No. 33.)
+                    
+                    
+                      Maria Elise
+    [+3/10/95] born on June 23rd and baptized on July 8th, 1860
+    Parents:
+                      
+                        
+                          Christian Fridrich Bleeke
+                        
+                        
+                          Anna Maria née Rup.
+                        
+                      
+                      Godparents: Maria Reinking and Sahra Rup.
+                    
+                    
+                      Fridrich Wilhelm
+    [+] born on July 16th and baptized on July 29th, 1860.
+    Parents:
+                      
+                        
+                          Johann Andreas Thieme
+                        
+                        
+                          Christine Sophie Eleonore née Krückeberg
+                        
+                      
+                      Godparents: Wilhelm Weiland and Carl Krückeberg.
+                    
+                    
+                      Fridrich Christian Wilhelm
+    [+2/1/40]
+    born on September 30th and baptized on October 6th, 1860
+    Parents:
+                      
+                        
+                          Carl Heinrich Wilhelm Krückeberg
+                        
+                        
+                          Caroline Wilhelmine née Kleinschmidt.
+                        
+                      
+                      Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
+                    
+                    
+                      Carl Wilhelm Christian
+    [+1/2/62]
+    born on September 15th and baptized on October 6th, 1860
+    Parents:
+                      
+                        
+                          Johann Heinrich Wilhelm Carl Grote
+                        
+                        
+                          Caroline Philippine Dorathea née Krückeberg
+                        
+                      
+                      Godparents: Carl Nürge and Christian Schamerloh.
+```
+
+## Citation
+
+(image49)=
+
+[image49] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 49 of 242
+

@@ -1,0 +1,138 @@
+# Page 7, Image 5
+
+```{image} images/5.jpg
+:class: image-override
+```
+
+## Conservatively Transliterated Version
+
+```{note}
+The last line of Article 6, **"der Gemeinde können nur im Auftrage derselben handeln."**,
+actually appears at the top of the next page, but is included here (as well as at the top of
+the next page) to complete the thought of Article 6.
+```
+
+```{code-block} text
+
+   4. A.
+   Bedingungen der Aufnahme in die Gemeinde.
+
+   Es kann niemand Glied der Gemeinde werden als wer,
+a. getauft ist.
+b. sich zur hl. Schrift alten und neuen Testaments als Got-
+   tes geoffenbarten Worte als Regel und Richtschnur des
+   Glaubens und Lebens, und zu den Artickel 3 angeführten
+   Bekenntnißschriften der lutherischen Kirche bescheint.
+c. nicht in offenbaren Werken des Fleisches lebt (Gab 5,19)
+   sondern vielmehr einem weltlichen Wesen abzusagen und in
+   der Kraft des hl Geistes, wie es den Heiligen zustehet, zu
+   Haus und auf dem Felde zu wandeln gesonnen ist.
+d. sich den bereits gemeinschaftlich festgestellten und etwa noch zu
+   treffenden Bestimmungen, so sie dem Worte Gottes nicht zuwi-
+   der sind, unterwirft.
+e. sich in brüderlicher Liebe zurecht weisen lassen will wenn
+   er fehl, oder vermeintlich gefehlt hat.
+f. auch unter Verhältnißen nach Vermögen zur Unterhaltung
+   des Predigamtes, Schulehrers Kirche und Schule, und was
+   sonst noch für Ausgaben sein, beizutragen gesonnen
+   ist.
+
+
+   5. Ar.
+   Stimm und Wahlfähigkeit.
+
+   Wählbar zu einem Amte in der Gemeinde sind alle
+   diejenigen männlichen Mitglieder, die das 23 Lebensjahr
+   zurückgeleget haben und wenigstens ein Jahr Gemeinde-
+   glieder gewesen sind. Aber stimmberechtigt sind alle, die wel-
+   che das 21te Lebensjahr erfüllt haben, mit zurücklegung
+   daselben Jahres sie auch die Ordnung, zum Zeichen ihrer
+   Übereinstimmung, zu unterschreiben haben.
+
+   6. Ar.
+   Gewalt der Gemeinde
+
+   Die Gemeinde in ihrer Gesamtheit hat die oberste und
+   höchste Gewalt der innere und äussere Verwaltung der
+   kirchlichen und Gemeindeangelegenheiten, und alle Beamten.
+   der Gemeinde können nur im Auftrage derselben handeln.
+```
+
+## In Modern German
+
+```{code-block} text
+
+   4. A.
+   Bedingungen der Aufnahme in die Gemeinde.
+
+   Es kann niemand Glied der Gemeinde werden, als wer
+a. getauft ist.
+b. sich zur Heiligen Schrift des Alten und Neuen Testaments als Gottes
+   offenbartem Wort, als Regel und Richtschnur für Glauben und Leben, und zu den
+   in Artikel 3 genannten Bekenntnisschriften der lutherischen Kirche bekennt.
+c. nicht in den offenbaren Werken des Fleisches lebt (Gal 5,19),
+   sondern vielmehr dem weltlichen Wesen absagt und in der Kraft
+   des Heiligen Geistes – wie es den Heiligen zusteht – daheim
+   und auf dem Feld zu wandeln gesonnen ist.
+d. sich den bereits gemeinschaftlich festgestellten und etwa noch
+   zu treffenden Bestimmungen, so sie dem Worte Gottes nicht zuwider sind,
+   unterwirft.
+e. sich in brüderlicher Liebe zurechtweisen lassen will, wenn er fehlt oder
+   vermeintlich gefehlt hat.
+f. auch bereit ist, unter seinen Verhältnissen und nach seinem Vermögen zur
+   Unterhaltung des Predigtamtes, des Schullehrers, der Kirche und Schule, und
+   aller sonstigen Ausgaben, beizutragen.
+
+   5. Ar.
+   Stimm- und Wahlfähigkeit
+
+   Wählbar zu einem Amt in der Gemeinde sind alle diejenigen männlichen
+   Mitglieder, die das 23. Lebensjahr zurückgelegt haben und wenigstens ein Jahr
+   Gemeindeglieder gewesen sind. Stimmberechtigt aber sind alle, die das 21.
+   Lebensjahr erfüllt haben und die Ordnung zum Zeichen ihrer Übereinstimmung in
+   demselben Jahr auch zu unterschreiben haben.
+
+   6. Ar.
+   Gewalt der Gemeinde
+
+   Die Gemeinde in ihrer Gesamtheit hat die oberste und höchste Gewalt über die
+   innere und äußere Verwaltung der kirchlichen und Gemeindeangelegenheiten, sowie
+   über alle Beamten.
+```
+
+## English Translation
+
+### 4th Article: Conditions of admission to the congregation.
+
+No one can become a member of the congregation unless he
+
+1. has been baptized.
+2. confess the Holy Scriptures of the Old and New Testaments as God’s
+revealed Word, as a rule and guideline for faith and life, and the
+confessional writings of the Lutheran Church mentioned in Article 3.
+3. does not live in the revealed works of the flesh (Gal 5:19),
+but rather renounces the worldly nature and is willing to walk at home
+and in the field in the power of the Holy Spirit - as is fitting for the
+saints.
+4. submits to the already communally established and any yet-to-be-made
+stipulations, as long as they are not contrary to the Word of God.
+5. is willing to be admonished in brotherly love if he errs, or supposedly
+has erred.
+6. is also willing, according to his circumstances and his means, to contribute
+to the maintenance of the preacher’s office, the school teacher, the church and
+school, and all other expenses.
+
+### 5th Article: Right to vote and right to be elected
+
+Eligible for an office in the congregation are all male members who have
+completed their 23rd year of life and have been congregational members for at
+least one year. All those who have completed their 21st year of life are eligible
+to vote, and upon completing that same year, they also have to sign the bylaws
+as a sign of their agreement.
+
+### 6th Article: Authority of the Congregation
+
+The congregation as a whole has the supreme and highest authority over the
+internal and external administration of church and congregational affairs, and all
+officials of the congregation may act only on its behalf.
+

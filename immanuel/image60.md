@@ -1,0 +1,179 @@
+# Page 91, #85-90
+
+```{image} images/60.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   James Andreas
+    geboren den 10ten Februar 1868 getauft den 10ten Januar 1869.
+    uneheliches Kind von Lidia Hoffmann, adoptirt von
+                      
+                        
+                          David Breuner
+                        
+                        
+                          und dessen Ehefrau Catharina geb. Belz.
+                        
+                      
+                      Pathen: Abraham Steudler u. dessen Ehefrau Maria
+                    
+                    
+                      Emilie Louise Bertha
+    geboren den 19ten Januar Morgens 4 1/2 Uhr, getauft den 31ten Januar 1869.
+    Eltern:
+                      
+                        
+                          Conrad Christian Wilhelm Reinking
+                        
+                        
+                          Ernestine Bertha geb. Busch.
+                        
+                      
+                      Pathen: Jungfr: Emilie Reinking u. Louise Reinking.
+                    
+                    
+                      Helene Wilhelmine Amalie.
+    geboren den 1ten Februar u. getauft den 13ten Febuar 1869
+    Eltern:
+                      
+                        
+                          Christian Wilhelm Fells.
+                        
+                        
+                          Elisabeth geb. Rup.
+                        
+                      
+                      Pathen: Frau Wilhelmine Weiland und Amalie Thieme.
+                    
+                    
+                      Friederike Elise
+    geboren den 10ten März und getauft den 21te März 1869.
+    Eltern:
+                      
+                        
+                          Johan Heinrich Conrad Fells.
+                        
+                        
+                          Caroline geborene Feldner.
+                        
+                      
+                      Pathen: Friederike Rücklos und Elisabeth Stöhr
+                    
+                    
+                      Emilie Sophie Elise 
+    geboren den 27ten März und getauft den 4ten April 1869.
+    Eltern:
+                      
+                        
+                          Carl Dietrich Wilhelm Schamerloh.
+                        
+                        
+                          Caroline Philippine geb. Krückeberg.
+                        
+                      
+                      Pathen: Sophie Koldewey; und Elise Steger.
+                    
+                    
+                      Louise Caroline Christine
+    geboren den 31ten März und getauft den 18ten April 1869.
+    Eltern:
+                      
+                        
+                          Christian Dietrich Bischoff
+                        
+                        
+                          Caroline geb: Block
+                        
+                      
+                      Pathen: Caroline Schamerloh und Christine Büttner
+  -                   James Andreas
+    born on February 10, 1868, baptized on January 10, 1869.
+    illegitimate child of Lidia Hoffmann, adopted by
+                      
+                        
+                          David Breuner
+                        
+                        
+                          and his wife Catharina, née Belz.
+                        
+                      
+                      Godparents: Abraham Steudler and his wife Maria
+                    
+                    
+                      Emilie Louise Bertha
+    born on January 19, 4:30 a.m., baptized on January 31, 1869.
+    Parents:
+                      
+                        
+                          Conrad Christian Wilhelm Reinking
+                        
+                        
+                          Ernestine Bertha, née Busch.
+                        
+                      
+                      Godparents: Emilie Reinking and Louise Reinking.
+                    
+                    
+                      Helene Wilhelmine Amalie.
+    born on February 1 and baptized on February 13, 1869
+    Parents:
+                      
+                        
+                          Christian Wilhelm Fells.
+                        
+                        
+                          Elisabeth, née Rup.
+                        
+                      
+                      Godparents: Mrs. Wilhelmine Weiland and Amalie Thieme.
+                    
+                    
+                      Friederike Elise
+    born on March 10 and baptized on March 21, 1869.
+    Parents:
+                      
+                        
+                          Johan Heinrich Conrad Tells.
+                        
+                        
+                          Caroline née Feldner.
+                        
+                      
+                      Godparents: Friederike Rücklos and Elisabeth Stöhr.
+                    
+                    
+                      Emilie Sophie Elise
+    born on March 27 and baptized on April 4, 1869.
+    Parents:
+                      
+                        
+                          Carl Dietrich Wilhelm Schamerloh.
+                        
+                        
+                          Caroline Philippine née Krückeberg.
+                        
+                      
+                      Godparents: Sophie Koldewey and Elise Steger.
+                    
+                    
+                      Louise Caroline Christine
+    born on March 31 and baptized on April 18, 1869.
+    Parents:
+                      
+                        
+                          Christian Dietrich Bischoff
+                        
+                        
+                          Caroline née Block.
+                        
+                      
+                      Gdparents: Caroline Schamerloh and Christine Büttner
+```
+

@@ -1,0 +1,155 @@
+# Page 98, #127-132
+
+```{image} images/67.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                 [Nebr.] Martha
+    geb: den 18 Juli u. get: den 27 Juli 1873.
+    Eltern:
+                    
+                      
+                        Andreas Thieme
+                      
+                      
+                        Sophia, geb. Klein.
+                      
+                    
+                    Pathen: Johanna Ebel, u. Christina Büttner
+                  
+                  
+                    Wilhelm Heinrich Friedrich
+    geboren den 6ten u. getauft den 19 Octob. 1873.
+    Eltern:
+                    
+                      
+                        Heinrich Heuer
+                      
+                      
+                        Isabella, geb. Biebelkamer
+    Pathen: Wilhelm Fritze, Heinrich Gret, u. Wilhelm Bleeke.
+                        (Bis hierher von Pastor S. Ruprecht getauft)
+                      
+                    
+                  
+                  
+                    Martha Christine Karoline
+    geboren den 6ten December 1873 get. den 26 December
+    Eltern:
+                    
+                      
+                        Christian Wilhelm Fells und dessen Ehefrau Elisabeth
+                      
+                    
+                    Pathen: Christine L[??]ner u. Karoline Fells
+                  
+                  
+                    Louise Maria Auguste [+]
+    geboren den 20ten u. getauft den 25 Mai 1874
+    Eltern:
+                    
+                      
+                        Hermann Reinking
+                      
+                      
+                        Maria geb. Bleeke
+                      
+                    
+                    Pathen: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann
+    (Von Pastor A. Fritze getauft)
+                  
+                  
+                    Sophia
+                  
+                  
+                    [10/29/76] Sophia Maria Mathilde
+    Eltern:
+                    
+                      
+                        Gottfried Thieme
+                      
+                      
+                        Amalia, geb. Roscher
+    geboren den 24 Juni, und getauft den 28 Juni 1874
+                      
+                    
+                    Pathen: Sophia Thieme und Maria Steutler.
+    H. Caemmerer Pastor
+  -                 [Nebr.] Martha
+    born: July 18th and died: July 27th, 1873.
+    Parents:
+                    
+                      
+                        Andreas Thieme
+                      
+                      
+                        Sophia, née Klein.
+                      
+                    
+                    Godparents: Johanna Ebel and Christina Büttner
+                  
+                  
+                    Wilhelm Heinrich Friedrich
+    born on October 6th and baptized on October 19th, 1873.
+    Parents:
+                    
+                      
+                        Heinrich Heuer
+                      
+                      
+                        Isabella, née Biebelkamer
+    Godparents: Wilhelm Fritze, Heinrich Gret, and Wilhelm Bleeke.
+                        (Baptized by Pastor S. Ruprecht up to this point)
+                      
+                    
+                  
+                  
+                    Martha Christine Karoline
+    born on December 6th, 1873, died on December 26th
+    Parents:
+                    
+                      
+                        Christian Wilhelm Fells and his wife Elisabeth
+                      
+                    
+                    Godparents: Christine L[??]ner and Karoline Fells
+                  
+                  
+                    Louise Maria Auguste [+]
+    born on May 20th and baptized on May 25th, 1874
+    Parents:
+                    
+                      
+                        Hermann Reinking
+                      
+                      
+                        Maria née Bleeke
+                      
+                    
+                    Godparents: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann
+    (Baptized by Pastor A. Fritze)
+                  
+                  
+                    Sophia
+                  
+                  
+                    [10/29/76] Sophia Maria Mathilde
+    Parents:
+                    
+                      
+                        Gottfried Thieme
+                      
+                      
+                        Amalia, née Roscher
+    born on June 24th and baptized on June 28th, 1874
+                      
+                    
+                    Godparents: Sophia Thieme and Maria Steutler.
+    H. Caemmerer, Pastor
+```
+

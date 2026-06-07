@@ -1,0 +1,149 @@
+# Page 102, #133-138
+
+```{image} images/71.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliterate
+  - Translate
+* -                 Heinrich August
+    [10/4/82] geboren den 23te Februar um getauft den 9te März 1879.
+    Eltern:
+                    
+                      
+                        Hermann Büttner geb: Roth.
+                      
+                      
+                        Louise haupt.
+                      
+                    
+                    Pathen: Heinrich Büttner und August Haugk
+                  
+                  
+                    [Wm. Eden] Ida Maria Emilia
+    1879 geboren den 27ten Februar und getauft den 1ten März
+    Eltern:
+                    
+                      
+                        Hermann Reinking
+                      
+                      
+                        geb. Blücke Maria
+                      
+                    
+                    Pathen: Maria Reinking, Maria Bleeke u Emilie Blecke
+                  
+                  
+                    [1/31/20] Gustav Conrad Widrich
+    geboren den 9ten März und getauft den 16ten Márz 1879
+    Eltern:
+                    
+                      
+                        Wilhelm Reinking
+                      
+                      
+                        Louise geb. Bleeke
+                      
+                    
+                    Pathen: Conrad Reinking und Fridkich Bleeke
+                  
+                  
+                    Juliane Amalie Maria
+    [Kirbach] geboren den 15ten Juni und getauft den 22ten 1879
+    Eltern:
+                    
+                      
+                        Johann Heinrich Bleeke
+                      
+                      
+                        Emalie geb. Thieme.
+                      
+                    
+                    Pathen: Amalie Thieme u. Maria Bleeke
+                  
+                  
+                    Henoch Carl Fridrich
+    [Detroit] geboren den 21t September und getauft den 28t September 1879
+    Eltern:
+                    
+                      
+                        Wilhelm Holle
+                      
+                      
+                        Sophie geb. Bleeke
+                      
+                    
+                    Pathen: Fridrich Bleeke, Carl Heckmann.
+  -                 Heinrich August
+    [10/4/82] born on February 23rd, baptized on March 9th, 1879.
+    Parents:
+                    
+                      
+                        Hermann Büttner née Roth.
+                      
+                      
+                        Louise haupt.
+                      
+                    
+                    Godparents: Heinrich Büttner and August Haugk
+                  
+                  
+                    [Wm. Eden] Ida Maria Emilia
+    1879 born on February 27th, baptized on March 1st
+    Parents:
+                    
+                      
+                        Hermann Reinking
+                      
+                      
+                        née Blücke Maria
+                      
+                    
+                    Godparents: Maria Reinking, Maria Bleeke and Emilie Blecke
+                  
+                  
+                    [1/31/20] Gustav Conrad Widrich
+    born on March 9th and baptized on March 16th, 1879
+    Parents:
+                    
+                      
+                        Wilhelm Reinking
+                      
+                      
+                        Louise née Bleeke
+                      
+                    
+                    Godparents: Conrad Reinking and Fridkich Bleeke
+                  
+                  
+                    Juliane Amalie Maria
+    [Kirbach] born on June 15th and baptized on June 22nd, 1879
+    Parents:
+                    
+                      
+                        Johann Heinrich Bleeke
+                      
+                      
+                        Emalie née Thieme
+                      
+                    
+                    Godparents: Amalie Thieme and Maria Bleeke
+                  
+                  
+                    Henoch Carl Fridrich
+    [Detroit] born on September 21st and baptized on September 28th, 1879
+    Parents:
+                    
+                      
+                        Wilhelm Holle
+                      
+                      
+                        Sophie née Bleeke
+                      
+                    
+                    Godparents: Fridrich Bleeke, Carl Heckmann.
+```
+

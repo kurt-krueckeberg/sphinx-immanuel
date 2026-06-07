@@ -1,0 +1,145 @@
+# Page 10, Image 8
+
+```{image} images/8.jpg
+:class: image-override
+```
+
+## Conservative Transliteration
+
+```{note}
+These three words from Article 14 were struck out and replacement wording written above them.
+"wurden zwei Drittheil" was replaced with **"wird die Majorität der"**.
+
+The replacement text appears in the transliterations below.
+```
+
+```{code-block} text
+
+a. Sie haben für den Unterhalt des Pastors Sorge zu tragen
+   die Coleckten zu erheben, das Nothige zum Gottesdienst und
+   Abendmahl herbeizuschaffen, und auf Ordnung bei demselben
+   zu sehen.
+
+   12. Ar.
+   Von den Pflichten der Trosties.
+
+   Sie haben auf das Kirchengut zu sehen daselbe, sowie
+   die Gebäude in gehörigen Stand zu erhalten, die in ihr Fach
+   einschlagende Rechnung zu führen, und allenfalls, so es nothig
+   die Gemeinde bei der weltlichen Obrigkeit zu vertreten.
+
+   13. Ar.
+   Die Pflichten der einzeln Gemeindeglieder
+
+a. Alle Erweißungen des Predigamtes auch die persönliche Er-
+   mahnung willig an und Aufzunehmen.
+b. Kein heimliches Partheiwesen gegen den Pastor anzuregen, förden
+   oder dulden, sondern in eigner Person oder durch den Mund der
+   Vorsteher mit ihm zu handeln, wo er wirklich oder vermeintlich
+   gefehlt hat, und dem Einen oder den Andere Anstoß gegeben.
+c. Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
+   Kinder fleißig zur derselben sowie zur Schule angehalten.
+d. Die Gemeindeversamlungen nicht ohne dringende Noth zu versäumen
+   und auf derselben alles fleischlichen Eifers sich zu entschlagen.
+e. bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f. Überhaupt einen christlichen Lebenswandel zu führen und sich das gewohn
+   heitsmäßigen Besuch der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
+g. Die gewöhnlichen unter Artikel 4 benanten Ausgaben bestreiten
+   helfen, besonders sich auch in andere Werken der Liebe und zur Erhaltung
+   des Reiches Gottes nach außen hie thätig erweißen.
+
+   14 Ar.
+   Versammlung und Beschlüße der Gemeinde
+
+   Zu einer Gemeindeversammlung ist nöthig, daß wenigstens der
+   4te Theil der stimmberechtigten Gemeindeglieder versammelt sei, und
+   zu einem für die Gemeinde gültigen Beschluß wird die Majorität der
+   Stimmen der Anwesenden erfordert. Ausgenommen bei Erwählung eines [continues
+   on next page]
+```
+
+## Contemporary German Version
+
+```{code-block} text
+
+a. Sie haben für den Unterhalt des Pastors Sorge zu tragen, die Kollekten zu
+   erheben, das Nötige zum Gottesdienst und Abendmahl herbeizuschaffen und auf
+   Ordnung bei demselben zu achten.
+
+   12. Ar.
+   Von den Pflichten der Trosties.
+
+   Sie haben auf das Kirchengut zu sehen, dasselbe sowie die Gebäude in gehörigen
+   Stand zu erhalten, die in ihr Fach einschlagende Rechnung zu führen, und
+   allenfalls, so es nötig, die Gemeinde bei der weltlichen Obrigkeit zu vertreten
+
+   13. Ar.
+   Die Pflichten der einzeln Gemeindeglieder
+
+a. Alle Weisungen des Predigtamts sowie persönliche Ermahnungen sollen willig
+   angenommen und aufgenommen werden.
+
+b. Es soll keine heimliche Parteilichkeit gegen den Pastor angestiftet, gefördert
+   oder geduldet werden, sondern man soll persönlich oder durch die Vorsteher mit
+   ihm sprechen, wenn er tatsächlich oder vermeintlich gefehlt hat und jemandem
+   Anstoß gegeben wurde.
+c. Die Predigt sowie die Christenlehre fleißig zu besuchen, auch die
+   Kinder fleißig zur selben sowie zur Schule angehalten.
+d. Die Gemeindeversamlungen nicht ohne dringende Not zu versäumen
+   und auf denselben alles fleischlichen Eifers sich zu entschlagen.
+e. bei der Wahl der Gemeindebeamten nach Pflicht und Gewissen zu stimmen.
+f. Überhaupt einen christlichen Lebenswandel zu führen und sich des gewohn-
+   heitsmäßigen Besuchs der Trinkhäuser und Tanzböden u. s. w. zu enthalten.
+g. Die gewöhnlichen, unter Artikel 4 benannten Ausgaben mit zu bestreiten
+   helfen, sich besonders auch in anderen Werken der Liebe und zur Erhaltung des
+   Reiches Gottes nach außen hin tätig erweisen.
+
+   14 Ar.
+   Versammlung und Beschlüsse der Gemeinde
+
+   Für eine Gemeindeversammlung ist es erforderlich, dass mindestens ein Viertel
+   der stimmberechtigten Gemeindeglieder anwesend ist, und für einen gültigen
+   Beschluss der Gemeinde ist die Mehrheit der Stimmen der Anwesenden erforderlich.
+   Ausgenommen bei Erwählung eines [continues on next page]...
+```
+
+## English Translation
+
+### Continuation of 11th Article:
+
+1. They have to take care of the pastor’s upkeep, take up the collections, provide
+what is necessary for the church service and communion and ensure that it is
+conducted in an orderly manner.
+
+### 12th Article: On the Duties of the Trosties
+
+They have to look after the church property, keep it and the buildings in
+proper condition, keep the accounts that fall within their remit and, if
+necessary, represent the congregation before the secular authorities.
+
+### 13th Article: The Duties of Individual Parishioners
+
+1. All instructions from the ministry, as well as personal admonitions, should
+be willingly accepted and received.
+2. No secret partisanship against the pastor should be instigated, encouraged, or
+tolerated. Instead, one should speak to him personally or through the Directors
+if he has actually or supposedly committed a wrong and caused offense to
+someone.
+3. To diligently attend the sermon and Christian instruction, and to diligently
+encourage the children to attend the same as well as school.
+4. Not to miss congregational meetings unless absolutely necessary
+and to renounce all carnal zeal at them.
+5. To vote according to duty and conscience in the election of congregational officials.
+6. To generally lead a Christian life and to refrain from the habitual visitation of
+drinking establishments and dance hall, etc.
+7. To help defray the ordinary expenses mentioned in Article 4, and to be particularly
+active in other works of love and for the preservation of the Kingdom of God.
+
+### 14th Article:
+
+Meetings and Resolutions of the Congregation
+
+A congregational meeting requires that at least one quarter of the voting
+members be present, and a decision is valid only if it receives a majority of
+the votes of those present. Ausgenommen bei Erwählung [uncertain]…​
+

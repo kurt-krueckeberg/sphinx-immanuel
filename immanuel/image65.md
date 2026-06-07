@@ -1,0 +1,173 @@
+# Page 96, #115-120
+
+```{image} images/65.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliterate
+  - Translate
+* -                 Johanna Carolina Mathilda
+    geboren den 7ten und gut den 17ten Maerz 1872.
+    Eltern:
+                    
+                      
+                        Paulus Rupprecht
+                      
+                      
+                        Charlotta, geb. Klein
+                      
+                    
+                    Pathen: Johanna Ebel, Carolina Grote, u. Carolina Fritze.
+                  
+                  
+                    Clara Romana
+    geboren den 18ten Maerz u. get: den 22ten Mai 1872.
+    Eltern:
+                    
+                      
+                        Eduard Pelz
+                      
+                      
+                        Sophia, geb. Pomerantke.
+                      
+                    
+                    Pathen: August Palz u. Catharin Reichert.
+                  
+                  
+                    Georg Ludwig
+    geb: den 24 Dezember 1870, get: den 30 Mai 1872.
+    Eltern:
+                    
+                      
+                        Levi Baron
+                      
+                      
+                        Wilhelmine, geb. Hoeriger
+                      
+                    
+                    Pathen: Maria Steudler.
+                  
+                  
+                    Carolina Sophia Margaretha
+    [Ft. W.Fred Grote]
+    geb: den 24ten August 1872 u. get. den 1 September 1872.
+    Eltern Ludwig Koldewey:
+                    
+                      
+                        Sophia geb. Tiemann
+                      
+                      
+                        Pathen: Carolina Scheumann u. Marg: Thiemann.
+                      
+                    
+                  
+                  
+                    Martha Maria
+    [+2/24/10] geboren 7ten October u. get. den 20ten October 1872
+    Eltern:
+                    
+                      
+                        Ferdinand Reinking
+                      
+                      
+                        Maria, geb. Blecke.
+                      
+                    
+                    Pathen: Maria Fölling, Marg: Christianer u. Bertha Reinking.
+                  
+                  
+                    Anna Carolina
+    geb. den 31 October 1872, u. sogleich getauft.
+    Eltern:
+                    
+                      
+                        Christian Schamerlah.
+                      
+                      
+                        Karolins, geb. Krückeberg.
+                      
+                    
+                    Pathen: Carolina Grate u. Carolina Bischoffe
+  -                 Johanna Carolina Mathilda
+    geboren den 7ten und gut den 17ten Maerz 1872.
+    Eltern:
+                    
+                      
+                        Paulus Rupprecht
+                      
+                      
+                        Charlotte, geb. Klein
+                      
+                    
+                    Pathen: Johanna Ebel, Carolina Grote, u. Carolina Fritze.
+                  
+                  
+                    Clara Romana
+    geboren den 18ten Maerz u. get: den 22ten Mai 1872.
+    Eltern:
+    **Eduard Pelz
+                    
+                      
+                        Sophia, geb. Pomerantke.
+                      
+                    
+                    Pathen: August Palz u. Catharin Reichert.
+                  
+                  
+                    Georg Ludwig
+    geb: den 24. Dezember 1870, get: den 30. Mai 1872.
+    Eltern:
+                    
+                      
+                        Levi Baron
+                      
+                      
+                        Wilhelmine, geb. Höriger
+                      
+                    
+                    Pathen: Maria Steudler.
+                  
+                  
+                    Carolina Sophia Margaretha
+    [Ft. W.Fred Grote]
+    geb: den 24ten August 1872 u. erhalten. den 1. September 1872.
+    Eltern Ludwig Koldewey:
+                    
+                      
+                        Sophia geb. Tiemann
+                      
+                      
+                        Pathen: Carolina Scheumann u. Marg: Thiemann.
+                      
+                    
+                  
+                  
+                    Martha Maria
+    [+2/24/10] geboren am 7. Oktober u. erhalten. den 20. Oktober 1872
+    Eltern:
+    **Ferdinand Reinking
+                    
+                      
+                        Maria, geb. Blecke.
+                      
+                    
+                    Pathen: Maria Fölling, Marg: Christianer u. Bertha Reinking.
+                  
+                  
+                    Anna Carolina
+    geb. den 31. Oktober 1872, u. sogleich getauft.
+    Eltern:
+                    
+                      
+                        Christian Schamerlah.
+                      
+                      
+                        Karolins, geb. Krückeberg.
+                      
+                    
+                    Pathen: Carolina Grate u. Carolina Bischoffe
+```
+

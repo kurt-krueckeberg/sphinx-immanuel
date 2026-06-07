@@ -1,0 +1,183 @@
+# Page 122, #246-251
+
+```{image} images/89.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   Adeline Sophie Bischoff
+    [Wilb. Reidenbach]
+    geb. den 10. Okt. 1889. getauft den 20 Okt 1889.
+    Eltern:
+                      
+                        
+                          Heinrich Bischoff
+                        
+                        
+                          Christine geb. Bleeke
+                        
+                      
+                      Pathen: Frau Louise Bleeke, Frau Sophie Witte (Chicago) Stellvert. Helene Bleeke
+    H. Schmidt.
+                    
+                    
+                      Ludella Maria Louise
+    [Aug. RuecklosDeshler, Nebr.]
+    geb. den 14. Jan 1890, get. den 19. Jan. 1890
+    Eltern:
+                      
+                        
+                          W. Holle
+                        
+                        
+                          Sophie geb. Bleeke
+                        
+                      
+                      Pathen: Maria Reinking & Louise Bleeke.
+    H. Schmidt
+                    
+                    
+                      Blandina Christine
+    geb. den 23. Feb. 1890 get. den 9. März 1890.
+    Eltern: W. F. Reinking & Louise geb. Blecke
+    Pathen: Fr. Louis Blecke & Fr. [C/B]h. Bischoff
+    H. Schmidt.
+                    
+                    
+                      Sylva Maria Louis
+    geb. u. 23. Febr. 1890 getauft d. 16. März 1890
+    Eltern:
+                      
+                        
+                          B. Beltz
+                        
+                        
+                          Allia geb. Hedger
+                        
+                      
+                      Pathen: Maria Steudler, + Franzis Schönstedt.
+    H. Schmidt
+                    
+                    
+                      Gustav Karl Ludwig
+    geb. den 27. Märzsgetauft den 6. April 1890
+    Eltern:
+                      
+                        
+                          F[r?]ied. Kruckeberg
+                        
+                        
+                          Emma geb. Koldewey
+                        
+                      
+                      Pathen: K. Kruckeberg & L. Koldewey
+    H. Schmidt
+                    
+                    
+                      Maria Karolina
+    [Rud Weyland
+    Decatur]
+    geb. den 25. Mai 1890 get. den 1. Juni 1890
+    Eltern:
+                      
+                        
+                          Ch. Marbach
+                        
+                        
+                          Karoline geb. [?Deuring?]
+                        
+                      
+                      Pathen: Fr. Maria Reinking & F. Karoline Weyland
+    H. Schmit
+  -                   Adeline Sophie Bischoff
+    [Wilb. Reidenbach]
+    born October 10, 1889. Baptized October 20, 1889.
+    Parents:
+                      
+                        
+                          Heinrich Bischoff
+                        
+                        
+                          Christine née Bleeke
+                        
+                      
+                      Godparents: Mrs. Louise Bleeke, Mrs. Sophie Witte (Chicago), Deputy Helene Bleeke
+    H. Schmidt.
+                    
+                    
+                      Ludella Maria Louise
+    [Aug. RuecklosDeshler, Nebr.]
+    born January 14, 1890, died January 19, 1890
+    Parents:
+                      
+                        
+                          W. Holle
+                        
+                        
+                          Sophie née Bleeke
+                        
+                      
+                      Godparents: Maria Reinking & Louise Bleeke.
+    H. Schmidt
+                    
+                    
+                      Blandina Christine
+    born February 23, 1890, died March 9, 1890.
+    Parents: W. F. Reinking & Louise née Blecke
+    Godparents: Mrs. Louis Blecke & Mrs. [C/B]h. Bischoff
+    H. Schmidt.
+                    
+                    
+                      Sylva Maria Louis
+    born February 23, 1890, baptized March 16, 1890
+    Parents:
+                      
+                        
+                          B. Beltz
+                        
+                        
+                          Allia née Hedger
+                        
+                      
+                      Godparents: Maria Steudler, + Franzis Schönstedt
+    H. Schmidt
+                    
+                    
+                      Gustav Karl Ludwig
+    born March 27, baptized April 6, 1890
+    Parents:
+                      
+                        
+                          F[r?]ied. Kruckeberg
+                        
+                        
+                          Emma née Koldewey
+                        
+                      
+                      Godparents: K. Kruckeberg & L. Koldewey
+    H. Schmidt
+                    
+                    
+                      Maria Karolina
+    [Rud Weyland
+    Decatur]
+    born May 25, 1890, died June 1, 1890
+    Parents:
+                      
+                        
+                          Ch. Marbach
+                        
+                        
+                          Karoline née [?Deuring?]
+                        
+                      
+                      Godparents: Mrs. Maria Reinking & F. Karoline Weyland
+    H. Schmit
+```
+

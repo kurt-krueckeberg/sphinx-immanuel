@@ -1,0 +1,38 @@
+# Page 108, #175-179
+
+```{image} images/75.jpg
+:class: image-override
+```
+
+1. Agathe Caroline Henriette,
+geboren den 26 Februar und getauft den 5 März 1882.
+Eltern:
+  - Heinrich Steger
+  - Elise geb. Stoppenhagen.
+  Pathen: Heinrich Wyneken, Carolina Krückeberg, Helene
+Herkmann geb. Stoggenhagen und Caroline Fritze.
+2. Gustav Heinrich Fridrich
+geboren den 4ten Juli 1882 u. getauft den 16t Juli. 1852.
+Eltern:
+  - Wilhelm Bleeke.
+  - Louise geb: Holle.
+  Pathen: Fridrich Bleeke und Heinrich Holle (Großväter)
+3. Emma Maria
+geboren den 4. Juli 1882 und getauft den 16t Juli 1882. 
+Eltern:
+  - Wilhelm Bleeke
+  - Louise geb.  Halle.
+  Pathen: Maria Bleeke und Louise Holle  (Großmütter)
+4. Martin August Fridrich
+geboren den 27t Juli 1882 und getauft den 6 August 1882
+Eltern:
+  - August Haugk
+  - Doris geb. Dauel.
+  Pathen: August Büttner, Fridrich Thieme.
+5. Heinrich Carl Benjamin
+geboren den 10te September und getauft den 17t September 1852
+Eltern:
+  - Heinrich Heuer
+  - Isabella geb: Bibelheimer
+  Pathen: Wilhelm Scheumann, Wilhelm Reinking, Benjamin Belz.
+

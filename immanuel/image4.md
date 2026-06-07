@@ -1,0 +1,121 @@
+# Page 6, Image 4
+
+```{image} images/4.jpg
+:class: image-override
+```
+
+## Conservatively Accurate Transliteration
+
+```{code-block} text
+
+             Kirchenordnung
+
+der Deutsch evangel. lutherischen St. Imanuels-
+
+              Gemeinde
+
+      Union Township Adams County Indiana.
+
+               1. A.
+
+            Einleitung.
+
+Da in einer christlichen Gemeinde dem Worte Gottes
+gemäß Alles ehrlich und ordentlich zugehen soll, (1 Cor 14, 4)
+so haben wir die Unterzeichneten Gemeindeglieder es für
+gut angesehen, dem Worte Gottes gemäß, und auch in eine Ord-
+nung zu thun und Bestimmungen zu treffen, nach denen es bei
+der Verwaltung unserer inneren und äußeren Angelegenheiten
+gehalten werden soll.
+
+             2. A.
+
+       Name der Kirche und Gemeinde
+
+Die Gemeinde soll heißen, und auch für künftige Zeiten sein
+und bleiben, die Deutsch evangel. lutherische St Imanu-
+elsgemeinde, Union Township, Adams County, Indiana.
+
+            3. A.
+
+        Bekenntniß der Gemeinde.
+
+Die Gemeinde bekennt sich zu den sämtlichen canonischen
+Büchern, des alten und neuen Testaments als Gottes geoffen-
+bartem Worte, und zu sämtlichen Symbolen der lutherischen
+Kirche (wie solche in dem Concordienbuche von 1580 zu finden sind)
+als der reinen und unverfälschten Darlegung und Erklährung
+des göttlichen Wortes, nach welcher die Lehre geprüft, und alle
+etwa vorfallende Lehrstreitigkeiten entschieden werden sol-
+len. Die Bekenntnisβschriften der Kirche sind: Das apostolische,
+das nicänische, das athanasische Sÿmbolum; der ungeänderte aug-
+burgische Confession, deren Apologi (oder Schutzschrift) die schmal-
+kaltischen Artikel, D. Luthers größer und kleiner Catechis-
+muß und die Concordienformel.
+```
+
+## Contemporary German Version
+
+```{code-block} text
+
+            1. A.
+         Einleitung.
+
+Da in einer christlichen Gemeinde dem Worte Gottes gemäß alles ehrlich und
+ordentlich zugehen soll (1 Kor. 14, 4), so haben wir, die unterzeichneten
+Gemeindeglieder, es für gut angesehen, dem Worte Gottes gemäß, und auch eine
+Ordnung zu tun und Bestimmungen zu treffen, nach denen es bei der Verwaltung
+unserer inneren und äußeren Angelegenheiten gehalten werden soll.
+
+            2. A.
+
+     Name der Kirche und Gemeinde
+
+Die Gemeinde soll heißen und auch für künftige Zeiten sein und bleiben: die
+Deutsch-evangelisch-lutherische St. Immanuelsgemeinde, Union Township, Adams
+County, Indiana.
+
+           3. A.
+
+     Bekenntnis der Gemeinde.
+
+Die Gemeinde bekennt sich zu den sämtlichen kanonischen Büchern des Alten und
+Neuen Testaments als Gottes geoffenbartem Wort, und zu sämtlichen Symbolen der
+lutherischen Kirche (wie solche in dem Konkordienbuch von 1580 zu finden sind)
+als der reinen und unverfälschten Darlegung und Erklärung des göttlichen
+Wortes, nach welcher die Lehre geprüft und alle etwa vorfallenden
+Lehrstreitigkeiten entschieden werden sollen. Die Bekenntnisschriften der
+Kirche sind: Das apostolische, das nicänische, das athanasische Symbolum; die
+ungeänderte Augsburger Konfession, deren Apologie (oder Schutzschrift), die
+Schmalkaldischen Artikel, D. Luthers Größerer und Kleinerer Katechismus und die
+Konkordienformel.
+```
+
+## English Translation
+
+### 1st Article:. Introduction.
+
+Since in a Christian congregation, according to the Word of God, everything
+should proceed honestly and orderly (1 Cor. 14:4), we, the undersigned
+congregational members, have deemed it good, according to the Word of God, to
+also establish an Order and to make stipulations according to which the
+administration of our internal and external affairs shall be conducted.
+
+### 2nd Articvle: Name of the Church and Congregation
+
+The congregation shall be called, and also for future times be and remain: the
+German Evangelical Lutheran St. Immanuel’s Congregation, Union Township, Adams
+County, Indiana.
+
+### 3rd Article: Confession of the Congregation.
+
+The congregation confesses to all the canonical books of the Old and New
+Testaments as God’s revealed Word, and to all the Symbols of the Lutheran
+Church (as they are found in the Book of Concord of 1580) as the pure and
+unadulterated presentation and explanation of the divine Word, according to
+which doctrine shall be examined, and all disputes concerning doctrine shall be
+decided. The Confessional Writings of the Church are: The Apostolic, the
+Nicene, the Athanasian Symbol; the Unaltered Augsburg Confession, its Apology
+(or Defense), the Smalcald Articles, D. Luther’s Larger and Smaller Catechism,
+and the Formula of Concord.
+

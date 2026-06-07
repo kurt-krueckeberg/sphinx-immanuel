@@ -1,0 +1,189 @@
+# Page 104, #146-152
+
+```{image} images/73.jpg
+:class: image-override
+```
+
+## Transliteration
+
+### Taufregister
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                     Artur Christian Gottfried
+    geboren der 10t November 1880, gesucht den 25te November 1880.
+    Eltern:
+                        
+                          
+                            Heinrich Bleeke
+                          
+                          
+                            Emilie geb. Thieme
+                          
+                        
+                        Pathen: Christian Bleeke zu Gottfried Thieme (die Großväter)
+                      
+                      
+                        Gerhard Conrad Christian
+    geboren den 7ten December u. getauft den 13ten December 1880.
+    Eltern:
+                        
+                          
+                            Hermann Reinking
+                          
+                          
+                            Maria geb. Bleeke
+                          
+                        
+                        Pathen: Conrad Reinking u. Christian Bleeke (die Großväter)
+                      
+                      
+                        Hermann Fridrich Wilhelm
+    [+8/1/81]
+    geboren den 25t Januar und getauft den 6te Februar 1881.
+    Eltern:
+                        
+                          
+                            Johann Ehrmann
+                          
+                          
+                            Caroline geb. Bleeke.
+                          
+                        
+                        Pathen: Jakob Benz, Fridrich Bleeke u. Wilhelm Gerke.
+                      
+                      
+                        Heinrich
+    [+2/13/81]
+    geboren den 9t Februar u. getauft (Nothtaufe) denselben Tag 1881.
+    Eltern:
+                        
+                          
+                            Heinrich Heuer.
+                          
+                          
+                            Isabella geb. Bibelheimer.
+                          
+                        
+                        Zeugen der Taufe des Kindleins die Eltern desselben.
+                      
+                      
+                        Maria Christina
+    [+10/2/10]
+    geboren den 8ten und getauft den 18ten April 1881.
+    Eltern:.
+                        
+                          
+                            Ludwig Koldewey
+                          
+                          
+                            Sophie geboren. Thiemann
+                          
+                        
+                        Pathen: Maria Lieberich und 2. Maria Reinking
+                      
+                      
+                        Ernst Carl Wilhelm
+    [+3/20/48]
+    geboren den 25t Juni und getauft den 3t Juli 1881.
+    Eltern:
+                        
+                          
+                            Heinrich Krückeberg.
+                          
+                          
+                            Louise geb. Buuck.
+                          
+                        
+                        Pathen: Ernst Buuck und Carl Krückeberg
+  -                     Artur Christian Gottfried
+    born November 10, 1880, sought November 25, 1880.
+    Parents:
+                        
+                          
+                            Heinrich Bleeke
+                          
+                          
+                            Emilie née Thieme
+                          
+                        
+                        Godparents: Christian Bleeke to Gottfried Thieme (the grandfathers)
+                      
+                      
+                        Gerhard Conrad Christian
+    born December 7 and baptized December 13, 1880.
+    Parents:
+                        
+                          
+                            Hermann Reinking
+                          
+                          
+                            Maria née Bleeke
+                          
+                        
+                        Godparents: Conrad Reinking and Christian Bleeke (the grandfathers)
+                      
+                      
+                        Hermann Fridrich Wilhelm
+    [+8/1/81]
+    born January 25 and baptized February 6, 1881.
+    Parents:
+                        
+                          
+                            Johann Ehrmann
+                          
+                          
+                            Caroline née Bleeke.
+                          
+                        
+                        Godparents: Jakob Benz, Fridrich Bleeke, and Wilhelm Gerke.
+                      
+                      
+                        Heinrich
+    [+2/13/81]
+    Born on February 9th and baptized (emergency baptism) on the same day, 1881.
+    Parents:
+                        
+                          
+                            Heinrich Heuer.
+                          
+                          
+                            Isabella née Bibelheimer.
+                          
+                        
+                        Witnesses to the child’s baptism were the child’s parents.
+                      
+                      
+                        Maria Christina
+    [+10/2/10]
+    Born on April 8th and baptized April 18th, 1881.
+    Parents:
+                        
+                          
+                            Ludwig Koldewey
+                          
+                          
+                            Sophie née Thiemann
+                          
+                        
+                        Godparents: Maria Lieberich and 2. Maria Reinking
+                      
+                      
+                        Ernst Carl Wilhelm
+    [+3/20/48]
+    Born on June 25th and baptized July 3rd, 1881.
+    Parents:
+                        
+                          
+                            Heinrich Krückeberg.
+                          
+                          
+                            Louise née Buuck.
+                          
+                        
+                        Godparents: Ernst Buuck and Carl Krückeberg
+```
+

@@ -1,0 +1,36 @@
+# Enrties ?-?
+
+1. Adele Sophie Antonie,
+geboren den 27 September und getauft den 1 October 1882
+Eltern
+Heinrich Bleeke.
+Emilie geb. Thieme.
+Pathen: Frau Sophie Holle u. jungfr: Antonia Thieme.
+2. Emilie Wilhelmine Sophia
+geboren den 16 October und getauft den 29 October 1882.
+Eltern
+Heinrich Krückeberg.
+Louse geb: But.
+Pathen: Frau Emilie Schamerloh u. Wilhelmine Buk.
+3. Ludemilie Elise Maria
+[5/9/72]
+geboren den 11 November und getauft den 19 November 1882.
+Eltern
+Hermann Reinking
+Maria geb. Blecker.
+Pathen Louise Reinking u. Elise Dlerke.
+4. Prichard Chri Fridrich
+geboren den 17 November und getauft den 19 November 1882
+Eltern
+Heinrich Bischoff
+Christine  geb: Bleekn.
+Pathen: Christian Bischoff u. Fridrich Blecke. (Großvöle.)
+.
+geboren den 26. December u. getauft den 26 December 1883.
+Wilhelm Rinking.
+Eltern
+Maria
+geb.
+Bienz
+Empfing die Nothtaufe.
+

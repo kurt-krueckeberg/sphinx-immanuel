@@ -1,0 +1,167 @@
+# Page 92, #91-96
+
+```{image} images/61.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                 [+8/11/47]  Gottfried Heinrich
+    geboren den 9tn Juni Vormittag 11 Uhr getauft den 20ten Juni 1869
+    Eltern:
+                    
+                      
+                        Friedrich August Haugk
+                      
+                      
+                        Doris
+                      
+                    
+                    Pathen: Gottfried Thieme und Heinrich Büttner.
+                  
+                  
+                    [+] Anna Maria Caroline
+    geboren den 17t Juni 7 1/2 Uhr Morgens getauft den 20ten Juni 1869
+    Eltern:
+                    
+                      
+                        Heinrich Steger
+                      
+                      
+                        Maria Elise geb. Stoppenhagen
+                      
+                    
+                    Pathen: Anna Maria Stoppenhagen, Maria Reinking und Frau
+    Pastorin Caroline Fritze
+                  
+                  
+                    [+4/23/44] Wilhelm Theodor
+    geboren den 16 ten Juni. Morgens 2 Uhr getauft den 26ten Juni 1869.
+    Eltern.:
+    Christian Fridrich Bleeke
+    Anna Maria geb. Rup.
+                    Pathen: Carl Grote, Fridrich Valsing und Johann Kupp.
+                  
+                  
+                    Gottfried Wilhelm
+    geboren den 6ten July Abends 6¾ Uhr getauft den 18ten July 1869.
+    Eltern:
+                    
+                      
+                        Carl Heinrich Büttner
+                      
+                      
+                        Johanne Christine geb. Haugk.
+                      
+                    
+                    Pathen: Wilhelm Weiland und Gottfried Thieme
+                  
+                  
+                    Maria Caroline
+    geboren den 21ten July Morgends 8 Uhr getauft den 1sten August 1869
+    Eltern:
+                    
+                      
+                        Heinrich Dietrich Heier
+                      
+                      
+                        Isabelle geb. Bibelheimer.
+                      
+                    
+                    Pathen: J. Maria Blecke und Frau Pastorin Caroline Fritze
+                  
+                  
+                    [Cleveland] Heinrich Christian
+    geboren den 16.ten Januar und getauft den 23ten Januer 1870.
+    Eltern:
+                    
+                      
+                        Conrad Dietrich Ferdinand Reinking.
+                      
+                      
+                        Maria Louise Eleonore geb. Bleeke.
+                      
+                    
+                    Pathen: Heinrich Steger, Christian Schamerloh, Heinrich Heier
+  -                 [+8/11/47]  Gottfried Heinrich
+    born 9th June morning 11 o’clock baptized 20th June 1869
+    Parents:
+                    
+                      
+                        Friedrich August Haugk
+                      
+                      
+                        Doris
+                      
+                    
+                    Godparents: Gottfried Thieme and Heinrich Büttner.
+                  
+                  
+                    [`] Anna Maria Caroline [`]
+    born June 17, 7 1/2 o’clock in the morning baptized June 20, 1869
+    Parents:
+                    
+                      
+                        Heinrich Steger
+                      
+                      
+                        Maria Elise née Stoppenhagen
+                      
+                    
+                    Godparents: Anna Maria Stoppenhagen, Maria Reinking and Mrs.
+    Pastor Caroline Fritze
+                  
+                  
+                    [+4/23/44] Wilhelm Theodor
+    born June 16th. Baptized at 2 o’clock in the morning on 26 June 1869.
+    Parents:
+    Christian Fridrich Bleeke
+    Anna Maria née Rup.
+                    Godparents: Carl Grote, Fridrich Valsing and Johann Kupp.
+                  
+                  
+                    Gottfried Wilhelm
+    born July 6, 6¾ o’clock in the evening, baptized July 18, 1869.
+    Parents:
+                    
+                      
+                        Carl Heinrich Büttner
+                      
+                      
+                        Johanne Christine née Haugk.
+                      
+                    
+                    Godparents: Wilhelm Weiland and Gottfried Thieme
+                  
+                  
+                    Maria Caroline
+    born 21st July morning 8 o’clock baptized 1st August 1869
+    Parents:
+                    
+                      
+                        Heinrich Dietrich Heier
+                      
+                      
+                        Isabelle née Bibelheimer.
+                      
+                    
+                    Godparents: J. Maria Blecke and Mrs. Pastor Caroline Fritze
+                  
+                  
+                    [Cleveland] Heinrich Christian
+    born the 16th of January and baptized the 23rd of January 1870.
+    Parents:
+                    
+                      
+                        Conrad Dietrich Ferdinand Reinking.
+                      
+                      
+                        Maria Louise Eleonore née Bleeke.
+                      
+                    
+                    Godparents: Heinrich Steger, Christian Schamerloh, Heinrich Heier
+```
+

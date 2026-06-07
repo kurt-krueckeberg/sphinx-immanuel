@@ -1,0 +1,161 @@
+# Page 9, Image 7
+
+```{image} images/7.jpg
+:class: image-override
+```
+
+## Conservatively Transliterated Version
+
+```{note}
+**Trosties** is likely a dialectal, regional, or phonetic variant of:
+
+- **"Tröster"** (comforter, consoler), or
+- Possibly “Trostbruder”, or a role related to pastoral care or spiritual comfort.
+
+Given the context in a Lutheran church constitution, **“Trosties”** likely refers
+to laypersons assigned a pastoral, comforting, or caregiving role.
+```
+
+```{note}
+Points **e.)** and **f.)** belong to Article 8, which begins on the prior page.
+```
+
+```{code-block} text
+
+e. Er soll von einem rechtgläubigen Prediger ordinirt oder
+   eingeführt und auf die in Ar. 3 genanten Bekenntnißschriften
+   verpflichtet werden.
+
+f. Er soll in der Kirche eine rechtgläubige Agende brauchen, und
+   daraus auch seine besondern Amthandlungen verrichten.
+
+   9 Ar.
+
+   Die übrigen Beamten der Gemeinde
+
+
+   Der Kichenrath soll, bei der zeitweiligen (gernügen) Gliederzahl
+   der Gemeinde, bestehen, nebst dem Prediger, aus einem Aeltesten
+   2 Vorstehern und 3 Trosties, welche alle zwei Jahre gewählt, und
+   zwar so, daß die eine Hälfte dieses die andere nächstes Jahr abgeht
+   und ihre Stelle mit Neuerwählten besetzt wird, von welchen aber
+   keiner über 4 Jahre im nämlichen Amte dienen soll.
+a. Es sollen Leute gewählt werden, die ihren Glauben durch ein from-
+   mes Leben beweißen, und auch ein gutes Zeugniß haben gegen die
+   so dräußen sind.
+
+   10 Ar.
+
+   Von den besonderte Pflichten des Altesten
+
+   Er hat über das geistliche Wohl der Gemeinde über Zucht und
+   Lehre zu wachen und dem Prediger beizustehen in der Kran-
+   kenpflege, z.B. bei langwiehrigen Krankheiten, wenn die
+   Hausleute nicht im Stande sind, die Nachtwachen zu vollziehen
+   oder bei drückender Armuth, oder sonstigen Werken der Lie-
+   be die nöthig erscheinen, so hat der Älsteste darauf zu sehen
+   wie dieser oder jener Noth abgeholfen werden könne, er-
+   sterer durch Bestellung solcher Leute die wachen letzterer durch
+   ein Gesuch an die Gemeinde um Abhulfe. Besonders soll
+   auch er mit guten Beispiel vorangehen.
+
+a. Er soll darauf sehen, daß die Kinder fleißig in die Schu-
+   le geschickt und vom Prediger oder Schullehrer recht unterrichtet
+   werden
+
+   11 Ar.
+
+   Die Pflichten der Vorsteher
+
+   Sie haben die Gemeindekasse zu verwalten und alljährlich zur festgesetzten
+   Zeit vor der Gemeinde Rechnung abzulegen.
+```
+
+## Contemporay German Version
+
+```{code-block} text
+
+9
+
+
+e. Er soll von einem rechtgläubigen Prediger ordiniert oder eingeführt und auf
+   die in Artikel 3 genannten Bekenntnisschriften verpflichtet werden.
+
+f. Er soll in der Kirche eine rechtgläubige Agende verwenden, und daraus auch
+   seine besonderen Amtshandlungen verrichten.
+
+   9 Ar.
+
+   Die übrigen Beamten der Gemeinde
+
+   Der Kirchenrat soll bei der derzeitigen (genügenden) Gliederzahl der Gemeinde
+   bestehen, neben dem Prediger, aus einem Ältesten, 2 Vorstehern und 3 Beiständen,
+   welche alle zwei Jahre gewählt werden, und zwar so, dass die eine Hälfte dieses
+   Jahr, die andere nächstes Jahr ausscheidet und ihre Stelle mit Neugewählten
+   besetzt wird, von welchen aber keiner länger als 4 Jahre im selben Amt dienen soll.
+a. Es sollen Leute gewählt werden, die ihren Glauben durch ein frommes Leben beweisen
+   und auch ein gutes Zeugnis haben gegenüber denen, die draußen sind.
+
+   10 Ar.
+
+   Von den besonderen Pflichten des Ältesten
+
+   Er hat über das geistliche Wohl der Gemeinde, über Zucht und Lehre zu wachen
+   und dem Prediger beizustehen in der Krankenpflege, z. B. bei langwierigen
+   Krankheiten, wenn die Hausleute nicht imstande sind, die Nachtwachen zu
+   vollziehen, oder bei drückender Armut oder sonstigen Werken der Liebe, die
+   nötig erscheinen. So hat der Älteste darauf zu sehen, wie dieser oder jener Not
+   abgeholfen werden könne: ersterer durch Bestellung solcher Leute, die wachen,
+   letzterer durch ein Gesuch an die Gemeinde um Abhilfe. Besonders soll auch er
+   mit gutem Beispiel vorangehen.
+
+a. Er soll darauf sehen, dass die Kinder fleißig in die Schule geschickt und vom
+   Prediger oder Schullehrer recht unterrichtet werden.
+
+   11 Ar.
+
+   Die Pflichten der Vorsteher
+
+   Sie haben die Gemeindekasse zu verwalten und alljährlich zur festgesetzten
+   Zeit vor der Gemeinde Rechnung abzulegen.
+```
+
+## English Translation
+
+### Conclusion of Article 8: Of Preachers
+
+1. He shall be ordained or introduced by an orthodox preacher and committed to
+the confessional writings mentioned in Article 3.
+2. He shall use an orthodox agenda in the church and also perform his special
+official acts from it.
+
+### 9th Article: The Other Officers of the Parish
+
+The Church Council shall, given the temporary (sufficient) number of
+congregational members, consist, in addition to the preacher, of one Elder, two
+Directors/Leaders, and three 'Trosties,' who are all elected every two years,
+specifically so that one half retires this year, and the other half next year,
+and their positions are filled with newly elected individuals; however, none of
+whom shall serve in the same office for more than 4 years.  People shall be
+elected who prove their faith through a devout life, and also have a good
+testimony among those who are outside.
+
+### 10th Article: Concerning the Particular Duties of the Elder
+
+He is to watch over the spiritual well-being of the congregation, over
+discipline and doctrine, and to assist the pastor in the care of the sick, for
+example in cases of prolonged illness when the household members are not in a
+position to keep night watch, or in times of pressing poverty or other works of
+mercy that seem necessary. The elder shall see how this or that need might be
+met: the former by appointing people to keep watch, the latter by submitting a
+request to the congregation for assistance. Above all, he should lead by good
+example.
+
+1. He shall see to it that the children are diligently sent to school and
+properly instructed by the pastor or the schoolteacher.
+
+### 11th Article: The Duties of the Stewards
+
+They are to manage the congregational treasury and, each year at the appointed
+time, give an account before the congregation.
+

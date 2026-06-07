@@ -1,0 +1,71 @@
+# Entries 1-7
+
+```{image} images/229.jpg
+:class: image-override
+```
+
+## Translation
+
+### Register der Leichenbegängnisse
+
+1. Fridrich Jacob Söhnlein des Herrn Heinrich Rücklos und seiner
+Ehefrau Friderike geb. Dauer, starb am 20t. Juny 1866 in einem
+Alter von 2 Jahren 1 Monat u 18 Tagen, und wurde am 22ten Juny
+christlich zur Erde bestattet.
+2. Christine Sophie Eleonore geborene Krückeberg Herrn Johann
+Andreas Thieme’s Ehefrau starb im Kindbette den 21ten
+Februar Abends 6 Uhr in einem Alter von 33 Jahren und
+6 Monaten, und wurde am 24ten d. s. M. 1868 christlich
+zur Erde bestattet. (Siehe Seite 32 Kind No 2)
+3. Fridrich Wilhelm Söhnlein des Herrn August Haugk und
+seiner Ehefrau Dorathea geb: den 30 July starb am
+1st März 68 in einem Alter von 1 Jahr 7 Monaten u. 8 Tagen.
+beerdigt den 3t März 1868.
+4. Conrad Christian Wilhelm, Söhnlein des Herrn Christian Wilhelm
+Fells und seiner Ehefrau Elisabeth geb. Rup, starb am 12ten März 1868,
+und wurde am 14ten März christlich zur Erde besallet. (Taŭfregister No 79.)
+5. Maria geborene Zahner Herrn David Bibelheimer’s Ehefrau
+geboren den 9ten Januar 1811, gestorben den 4ten u. christlich zur
+Erde bestattet den 6ten December 1868.
+6. Christine Marie geborene Schwier Herrn Johann Heinrich Blee-
+kes Ehefrau, geboren den 13ten May 1798. gestorben den
+und christlich zur Erde bestattet den 8ten März 1869.
+7. Herman Fridrich Wilhelm Söhnlein des Herrn Wilhelm Rein-
+king und seiner Ehefrau Bertha geb. Busch, starb den
+am 21 August 1869 und wurde am 23 d. s. M. christlich
+zur Erda bestattet. Alter 2 Jahre 8 Monate u. 28 Tage.
+(Taufregiser No 65.)
+
+## Translation
+
+### Register of the Funerals
+
+1. Fridrich Jacob, son of Mr. Heinrich Rücklis and his wife Friderike,
+née Dauer, died on June 20, 1866, at the age of 2 years, 1 month,
+and 18 days, and was given a Christian burial on June 22.
+2. Christine Sophie Eleonore, née Krückeberg, wife of Mr. Johann Andreas
+Thieme, died in childbirth on February 21 at 6:00 p.m. at the age of 33
+years and 6 months, and was given a Christian burial on the 24th of this
+month, 1868. (See page 32, Child No. 2)
+3. Fridrich Wilhelm, son of Mr. August Haugk and his wife Dorathea born July
+30, died on March 1, 1868, at the age of 1 year, 7 months, and 8 days.
+Buried on March 3, 1868.
+4. Conrad Christian Wilhelm, son of Mr. Christian Wilhelm Fells and his wife
+Elisabeth, née Rup, died on March 12, 1868, and was givem a Christian burial
+on March 14. (Baptismal Register No. 79.)
+5. Maria, née Zahner, wife of Mr. David Bibelheimer, born on January 9, 1811,
+died on the 4th and was buried in a Christian burial on December 6, 1868.
+6. Christine Marie, née Schwier, wife of Mr. Johann Heinrich Bleekes, born
+on May 13, 1798, died on and was buried in a Christian burial on March 8, 1869.
+7. Herman Fridrich Wilhelm, son of Mr. Wilhelm Reinking and his wife Bertha,
+née Busch, died on August 21, 1869, and was buried in a Christian burial
+on the 23rd of this month. Age 2 years, 8 months, and 28 days.
+(Baptismal Register No. 65.)
+
+## Citation
+
+(image229)=
+
+[image229] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 229 of 242
+

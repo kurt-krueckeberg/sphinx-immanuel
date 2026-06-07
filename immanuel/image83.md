@@ -1,0 +1,169 @@
+# Page 116, #214-???
+
+```{image} images/83.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   Hulda Christine
+    geb. d. 1. Okt. 1886 in Union T. getauft den 10. Oktober 1886, Immanuels K.
+    Eltern:
+                      
+                        
+                          W. Bleeke
+                        
+                        
+                          Louise geb. Holle
+                        
+                      
+                      Pathen: Christine Beschoff, Emma Holle
+    H. Schmidt
+                    
+                    
+                      Florenz Wilhelm
+    geb. den 10. Nov. 1886 prt. den 21. November 1886. Inmanuels K.
+    Eltern:
+                      
+                        
+                          Johann Ehrmann
+                        
+                        
+                          Karoline geb. Bleeke
+                        
+                      
+                      Pathen: 21. Bleeke & N. Reinking
+    H. Schmidt
+                    
+                    
+                      Maria Johanna Elis
+    [Hy Wetting 
+     Waynedale]
+    get. an 23. Feb. 87. get. die 6. März 87 Immanuelsk.
+    Eltern:
+                      
+                        
+                          Herrn Reinking
+                        
+                        
+                          Maria eine geb. Bleeke
+                        
+                      
+                      Pathen: Eslise Bleetze. Maria Bleeke
+    H. Schmidt
+                    
+                    
+                      Margaretha Maria Elisabeth
+    [Ed. Funkhauser
+     Napoleon] geb. den 27. Feb. 1887. get. den 13. März 1887
+    Direktion
+    Benz
+    Eltern:
+                      
+                        
+                          W. C. Reinking
+                        
+                        
+                          Maria eine gebor. Magareth Bonz.
+                        
+                      
+                      Pathen: Frau: Maria Reinnking, Elisabeth
+    H. Schmidt
+                    
+                    
+                      Martin Friedrich Wilhelm
+    [Ft. W.] geb. d. 11. Mai 1887. geb.d. 22. Mai 87. Immanuelskirche
+    Eltern:
+                      
+                        
+                          Heinrich Krückeberg
+                        
+                        
+                          Louise geb. Buuk
+                        
+                      
+                      Pathen: F. Buuk, St. Schamerloh
+  -                   Hulda Christine
+    born October 1, 1886 in Union T., baptized October 10, 1886, Immanuels K.
+    Parents:
+                      
+                        
+                          W. Bleeke
+                        
+                        
+                          Louise née Holle
+                        
+                      
+                      Godparents: Christine Beschoff, Emma Holle
+    H. Schmidt
+                    
+                    
+                      Florenz Wilhelm
+    born November 10, 1886, registered November 21, 1886. Immanuels K.
+    Parents:
+                      
+                        
+                          Johann Ehrmann
+                        
+                        
+                          Karoline née Bleeke
+                        
+                      
+                      Godparents: 21. Bleeke & N. Reinking
+    H. Schmidt
+                    
+                    
+                      Maria Johanna Elis
+    [Hy Wetting 
+     Waynedale]
+    born February 23, 1887, died March 6, 1887 Immanuels C.
+    Parents:
+                      
+                        
+                          Mr. Reinking
+                        
+                        
+                          Maria, a. Bleeke
+                        
+                      
+                      Godparents: Eslise Bleetze. Maria Bleeke
+    H. Schmidt
+                    
+                    
+                      Margaretha Maria Elisabeth
+    [Ed. Funkhauser
+     Napoleon] born February 27, 1887, died March 13, 1887
+    Directorate
+    Benz
+    Parents:
+                      
+                        
+                          W. C. Reinking
+                        
+                        
+                          Maria, née Magareth Bonz.
+                        
+                      
+                      Godparents: Wife: Maria Reinking, Elisabeth
+    H. Schmidt
+                    
+                    
+                      Martin Friedrich Wilhelm
+    [Ft. W.] born May 11, 1887, died May 22, 1887, Immanuels church
+    Parents:
+                      
+                        
+                          Heinrich Krückeberg
+                        
+                        
+                          Louise, née Buuk
+                        
+                      
+                      Godparents: F. Buuk, St. Schamerloh
+```
+

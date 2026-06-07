@@ -1,0 +1,157 @@
+# Page 115, #209-213
+
+```{image} images/82.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliterate
+  - Translate
+* -                 Andreas Heinrich [Ft. W.]
+    geb. den 20. Juni 1886 get. d. 20 Juni 1886 im Hause des Eltern 
+    Eltern:
+                    
+                      
+                        Fr. Thieme sen.
+                      
+                      
+                        C. Sophie geb. Holle
+                      
+                    
+                    Pathen: And. Thieme & Heinrich Holle.
+    Steltvertreter: H. Grote & W. Holle
+    H. Schmidt P.
+                  
+                  
+                    Ludwig Heinrich Friedrich Eduard
+    geb. den 3. Aug 1886. get. den 15. Aug. 1886 Imannels Kirche.
+    Eltern:
+                    
+                      
+                        Ludwig Koldewey
+                      
+                      
+                        Sophie geb. Thiemann
+                      
+                    
+                    Pathen: Fr. Scheimann, H. Wittfeld, Ed. [b]y.
+    W Schmidt P.
+                  
+                  
+                    Johann Hermann Wilhelm
+    geb. den 22. Aug. 1886 getauft den 29. Aug 1886 Immauels K.
+    Eltern:
+                    
+                      
+                        Heinrich Bleekee
+                      
+                      
+                        Emilie geb. Thieme
+    Pathen: Heerm. Reinking, W. Holle, & Christ: Bischoff jun.
+    H. Schmidt
+                      
+                    
+                  
+                  
+                    Adolph Christian Jakob [Decatur]
+    geb. d. 26. Aug. 1886. Union T. getauft den 5. Sep. 1886 (Immanuels K.
+    Eltern:
+                    
+                      
+                        W. Schamerloh (jun.)
+                      
+                      
+                        Anna geb. Benz.
+                      
+                    
+                    Pathen. Christ Schamerloh & Jakob Benz
+    Schmidt. P.
+                  
+                  
+                    Bertha Karoline Sophie Engel [Ed. Steele]
+    geb. d. 12. Sept. 1886, getauft d. 19. April 1886
+    Eltern:
+                    
+                      
+                        Frid. Krückeberg
+                      
+                      
+                        Emma ein geb. Kolderweg
+    Pathen: Karoline Knückeberg + Sopfie Koldewey
+    H. Schmidt P.
+  -                 Andreas Heinrich [Ft. W.]
+    born June 20, 1886, died June 20, 1886 in his parents' house
+    Parents:
+                    
+                      
+                        Mrs. Thieme Sr.
+                      
+                      
+                        C. Sophie née Holle
+                      
+                    
+                    Godparents: And. Thieme & Heinrich Holle.
+    Deputies: H. Grote & W. Holle
+    H. Schmidt P.
+                  
+                  
+                    Ludwig Heinrich Friedrich Eduard
+    born August 3, 1886, died August 15, 1886 in St. Imann’s Church.
+    Parents:
+                    
+                      
+                        Ludwig Koldewey
+                      
+                      
+                        Sophie née Thiemann
+                      
+                    
+                    Godparents: Mrs. Scheimann, H. Wittfeld, Ed. [b]y.
+    H. Schmidt P.
+                  
+                  
+                    Johann Hermann Wilhelm
+    born August 22, 1886, baptized August 29, 1886. Immauels K.
+    Parents:
+                    
+                      
+                        Heinrich Bleekee
+                      
+                      
+                        Emilie née Thieme
+    Godparents: Heerm. Reinking, W. Holle, & Christ: Bischoff Jr.
+    H. Schmidt
+                      
+                    
+                  
+                  
+                    Adolph Christian Jakob [Decatur]
+    born August 26, 1886. Union T. baptized September 5 1886 (Immanuels K.
+    Parents:
+                    
+                      
+                        W. Schamerloh (Jr.)
+                      
+                      
+                        Anna née Benz.
+                      
+                    
+                    Godparents: Christ Schamerloh & Jakob Benz
+    Schmidt. P.
+                  
+                  
+                    Bertha Karoline Sophie Engel [Ed. Steele]
+    born September 12, 1886, baptized April 19, 1886
+    Parents:
+                    
+                      
+                        Frid. Krückeberg
+                      
+                      
+                        Emma née Kolderweg
+    Godparents: Karoline Knückeberg + Sopfie Koldewey
+    H. Schmidt P.
+```
+

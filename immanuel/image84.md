@@ -1,0 +1,68 @@
+# Page 117, #219-2??
+
+```{image} images/84.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliterate
+  - Translate
+* -                 Rudolf Heinrich Weyland      [+12/28/41]
+    geb. d. 24. Juni 1887 in Union T. Adams Co. I get. 3. Juli 1887
+    Eltern:
+                    
+                      
+                        Fr. Weyland
+                      
+                      
+                        Louise geborne: Schönstedt
+                      
+                    
+                    Pathen: Fr. Schönstedt, H. Weyland,
+    H. Schmidt
+                  
+                  
+                    Mary Maudilie Buormann
+    1887
+    der u. 15. Juni 1877, vor den 8. Aug.
+    Eltern. Alfred Buchman
+    Naggel geb. Troode
+    Zügen: Louis Camsell - Elles Croceur
+    S
+    Fr. Schmidt
+    .
+    .
+    + Henriette Christine Bischoff
+    Wir
+    geb. den 6. Sept 1887 wäre d. 18. Sept. 1887
+    Eltern: C. Bischoff, & Christine geb. Blecke
+    Pathen Frau J. Ehrmann Frau Christ. Bischoff zum
+    S
+    St. Schmidt
+    .
+    Georg Ernst Reinking
+    geb. 27. Sept 87. get d. 9. Okt. 1887.
+    fitum: W. F. Reinkring & Louise geb. Blecke
+    pathen: Eduard Blecke Ernst Reinking, Stettvistreter
+    Herm. Peinkrieg
+    H\. Schmidt
+    geb. d. 29. Okt. 1854. Hago Christian Gottfrod
+    Eltern Ch. Bichoff Ida geb. Thieme
+    beschlossen:
+    Hugo Christian Gottf
+    ria Heinrich
+    geb. d. 29. Okt. 88.
+    get. 6 Nov. 1885.
+    Christian Biskoff zum
+    Ütern
+    Ida isb.
+    Thieme
+    Sachen. Ehe Bischoff an
+    G\. Thieme
+    H\. Bichrff
+    W\. Schmidt G.
+  - EMPTY
+```
+

@@ -1,0 +1,181 @@
+# Page 107, #169-174
+
+```{image} images/74.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   Justinus Hermann  [Calif. ]
+    geboren den 5 August u. getauft den 14 August 1881.
+    Eltern:
+                      
+                        
+                          Wilhelm Holle.
+                        
+                        
+                          Sophie geb. Bleeke.
+                        
+                      
+                      Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
+                    
+                    
+                      Hermann Jakob Ferdinand [+10/10/81]
+    geboren den 27 September und getauft den 9t October 1881.
+    Eltern:
+                      
+                        
+                          Christian Schamerloh.
+                        
+                        
+                          Emilie geb. Bürger.
+                        
+                      
+                      Pathen: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.
+                    
+                    
+                      Frieda Caroline Maria [+1937]
+    geboren den 2t und getauft den 8t September 1881.
+    Eltern:
+                      
+                        
+                          Heinrich Bischoff.
+                        
+                        
+                          Christine geb. Bleeke.
+                          Pathen: Caroline Bischoff u. Maria Bleeke (Großmütter)
+                        
+                      
+                      **1882**
+                    
+                    
+                      Johanna Doris Elise
+    geboren den 29t December 1881, getauft den 20 Januar 1882.
+    Eltern:
+                      
+                        
+                          Hermann Büttner
+                        
+                        
+                          Louise. geb. Roth.
+                        
+                      
+                      Pathen: Frau Doris Haugk und Frau Therese Roth.
+                    
+                    
+                      Elise Maria Caroline [+]
+    geboren den 14 Jannar u. getauft den 29 Januar 1882,
+    Eltern:
+                      
+                        
+                          Wilhelm Reinking.
+                        
+                        
+                          Louise geb. Bleeke
+                        
+                      
+                      Pathen: Frau Maria Reinking u. Caroline Ehrmann
+                    
+                    
+                      Marie Louise Rosine [+]
+    geboren den 25 Januar und getauft den 3. Februar 1882.
+    Eltern:
+                      
+                        
+                          Johann Ehrmann.
+                        
+                        
+                          Caroline geb. Bleeke
+                        
+                      
+                      Pathen: Maria Bleeke, Louise Gerke u. Elisabeth Benz
+  -                   Justinus Hermann [Calif.]
+    born on August 5th and baptized on August 14th, 1881.
+    Parents:
+                      
+                        
+                          Wilhelm Holle.
+                        
+                        
+                          Sophie née Bleeke.
+                        
+                      
+                      Godparents: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege.
+                    
+                    
+                      Hermann Jakob Ferdinand [+10/10/81]
+    born on September 27th and baptized on October 9th, 1881.
+    Parents:
+                      
+                        
+                          Christian Schamerloh.
+                        
+                        
+                          Emilie née Bürger.
+                        
+                      
+                      Godparents: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.
+                    
+                    
+                      Frieda Caroline Maria [+1937]
+    born on September 2nd and baptized on September 8th, 1881.
+    Parents:
+                      
+                        
+                          Heinrich Bischoff.
+                        
+                        
+                          Christine née Bleeke.
+                          Godparents: Caroline Bischoff and Maria Bleeke (grandmothers)
+                        
+                      
+                      **1882**
+                    
+                    
+                      Johanna Doris Elise
+    born December 29, 1881, baptized January 20, 1882.
+    Parents:
+                      
+                        
+                          Hermann Büttner
+                        
+                        
+                          Louise, née Roth.
+                        
+                      
+                      Godparents: Mrs. Doris Haugk and Mrs. Therese Roth.
+                    
+                    
+                      Elise Maria Caroline [+]
+    born January 14 and baptized January 29, 1882,
+    Parents:
+                      
+                        
+                          Wilhelm Reinking.
+                        
+                        
+                          Louise, née Bleeke
+                        
+                      
+                      Godparents: Mrs. Maria Reinking and Caroline Ehrmann
+                    
+                    
+                      Marie Louise Rosine [+]
+    born January 25 and baptized February 3, 1882.
+    Parents:
+                      
+                        
+                          Johann Ehrmann.
+                        
+                        
+                          Caroline née Bleeke
+                        
+                      
+                      Pathen: Maria Bleeke, Louise Gerke and Elisabeth Benz
+```
+

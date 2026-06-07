@@ -1,0 +1,184 @@
+# Page 77, #1-6
+
+```{image} images/46.jpg
+:class: image-override
+```
+
+## Taufregister (Baptism Register)
+
+```{note}
+All the death dates, which are preceded by +, are written in pencil, as is
+"Mrs Hy Heier" in entry #3.
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                   Marie Louise [+7/28/21]
+    geboren den 14ten November und getauft den 8ten December 1850.
+    Eltern:
+                      
+                        
+                          Christian Fridrich Bleeke.
+                        
+                        
+                          Louise geborene Valsing.
+                        
+                      
+                      Pathen: Wilhelmine Zwick und Sophie Herkmann.
+                    
+                    
+                      Christian Fridrich [+10/21/08]
+    geboren den 12t Januar und getauft den 16t Februar 1851.
+    Eltern:
+                      
+                        
+                          Heinrich Wilhelm Weyland
+                        
+                        
+                          Sophie Wilhelmine geb. Piehl.
+                        
+                      
+                      Pathen: Fridrich Bleeke und Christian Bleeke.
+                    
+                    
+                      Isabella [Mrs. Hy Heier]
+    geboren den 21t Februar und getauft den 1t März 1851.
+    Eltern:
+                      
+                        
+                          David Daniel Bibelheimer
+                        
+                        
+                          Maria geborene Zähner.
+                        
+                      
+                      Pathen: Louise Bleeke und Maria Bleeke
+                    
+                    
+                      Carl Heinrich Christian [+11/14/28]
+    geboren den 26t Februar und getauft den 12t März 1853.
+    Eltern:
+                      
+                        
+                          Johann Heinrich Wilhelm Carl Grote
+                        
+                        
+                          Caroline Philippine Dorathee geb. Krückeberg
+                        
+                      
+                      Pathen: Heinrich Krüskeberg und Christian Bleeke.
+                    
+                    
+                      Sophie Louise [+5/4/34]
+    geboren den 27t März und getauft den 28t Mörz 1853.
+    Eltern:
+                      
+                        
+                          Christian Fridrich Bleeke
+                        
+                        
+                          Louise geborene: Valsing.
+                        
+                      
+                      Pathen: Christine Bleeke und Louise Valsing.
+                    
+                    
+                      Mathilde Christine Louise [+4/12/01]
+    geboren den 5te Oktober und getauft den 5t November 1854.
+    Eltern:
+                      
+                        
+                          Conrad Dietrich Ferdinand Reinking
+                        
+                        
+                          Maria Louise Eleonore geb. Bleeke
+                        
+                      
+                      Pathen: Christine Blecke u.  Louise Reinking
+  -                   Marie Louise  [+7/28/21]
+    born on November 14th and baptized on December 8th, 1850.
+    Parents:
+                      
+                        
+                          Christian Fridrich Bleeke.
+                        
+                        
+                          Louise née Valsing.
+                        
+                      
+                      Godparents: Wilhelmine Zwick and Sophie Herkmann.
+                    
+                    
+                      Christian Fridrich [+10/21/08]
+    born on January 12th and baptized on February 16th, 1851.
+    Parents:
+                      
+                        
+                          Heinrich Wilhelm Weyland
+                        
+                        
+                          Sophie Wilhelmine, née Piehl.
+                        
+                      
+                      Godparents: Fridrich Bleeke and Christian Bleeke.
+                    
+                    
+                      Isabella [Mrs. Hy Heier]
+    born on February 21st and baptized on March 1st, 1851.
+    Parents:
+                      
+                        
+                          David Daniel Bibelheimer
+                        
+                        
+                          Maria, née Zähner.
+                        
+                      
+                      Godparents: Louise Bleeke and Maria Bleeke
+                    
+                    
+                      Carl Heinrich Christian [+11/14/28]
+    born on February 26th and baptized on March 12th, 1853.
+    Parents:
+                      
+                        
+                          Johann Heinrich Wilhelm Carl Grote
+                        
+                        
+                          Caroline Philippine Dorathee née Krückeberg
+                        
+                      
+                      Godparents: Heinrich Krüskeberg and Christian Bleeke.
+                    
+                    
+                      Sophie Louise [+5/4/34]
+    born on March 27th and baptized on March 28th, 1853.
+    Parents:
+                      
+                        
+                          Christian Fridrich Bleeke
+                        
+                        
+                          Louise née Valsing.
+                        
+                      
+                      Godparents: Christine Bleeke and Louise Valsing.
+                    
+                    
+                      Mathilde Christine Louise [+4/12/01]
+    born on October 5th and baptized on November 5th, 1854.
+    Parents:
+                      
+                        
+                          Conrad Dietrich Ferdinand Reinking
+                        
+                        
+                          Maria Louise Eleonore née Bleeke
+                        
+                      
+                      Godparents: Christine Blecke and Louise Reinking
+```
+

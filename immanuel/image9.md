@@ -1,0 +1,146 @@
+# Page 11, Image 9
+
+```{image} images/9.jpg
+:class: image-override
+```
+
+```{note}
+The top of page continues Article 14 from the prior page.
+The first three words **"Ausgenommen bei Erwählung"** actually occur at the
+bottom of the previous page, but they are also included here, too, to
+show the complete last sentence of Article 14.
+```
+
+## Conservative Transliteration
+
+```{code-block} text
+
+   [The sentence starts at the bottom of prior page:] Ausgenommen bei Erwählung eines
+   Pastors bei Abänderung oder Zusetzung zur Kirchenordnung in
+   diesen beiden angeführten Stücken müßen zwei Drittheil der Stimm-
+   berechtigten Gemeindeglieder beisammen sein und von diesen müßen
+   zwei Drittheil dafür stimmen.
+
+   Jeder nicht Anwesende leistet auf den Fall seines Nicht erscheinens
+   auf sein Stimmrecht verzicht.
+
+   Der anberaumte Tag der Gemeindeversammlung soll mündestends
+   den Sonntag vorher vor versammelter Gemeinde angezeigt werden.
+
+               15. Ar.
+               Kirchenzucht
+
+   Sollte ein Kirchenmitglied sich versündigen gegen die Lehre und Zucht
+   der Gemeinde, so ist jedes Gemeindeglied, welches es siehet verpflichtet
+   das sündigende Glied in Liebe zu ermahnen, hört es dasselbe nicht, so soll
+   es noch 2 dazu nehmen und die Vermahnung wiederhohlen, finden die
+   3 kein Gehör so sollen sie es vor die Gemeinde bringen, erfolgt nun
+   auch vor versammelter Gemeinde keine Buße, so soll das sündigende
+   Glied ausgeschloßen werden von der versamelten Gemeinde bis es Buße
+   thut und sich bessert.
+a. Grobe öffendliche Sünden sollen auch öffendlich gestraft werden.
+
+               16. Ar.
+               Aufnahme neuer Mitglieder
+
+    Diejenigen lutheraner, welche begehren in die Gemeinde aufgenommen
+    zu werden haben sich bei dem Pastor oder Aeltesten zu melten
+    und durch diese ihre Gesuch an die Gemeinde zu bringen, in Fall
+    nun die Gemeinde [geistige?] Kenntniß von ihrem Vorhalten hat und
+    nichts gegen sie einzuwenden ist, so können sie, nachdem sie mit der
+    Kirchenordnung bekannt gemacht worden sind sogleich aufgenom̅en
+    werden, welche sie zum Zeugniß ihrer Übereinstimmung zu un-
+    terschreiben haben.
+
+a.  Sollte aber die Gemeinde in ihrer Mehr oder Minderzahl Bedenken tragen, die
+    Bittenden sogleich aufzunehmen, so müßen sie sich eine vierteljährige Probezeit
+    gefallen lassen.
+
+b.  Lutheraner hier zu lande, sollen angehalten werden, von ihren
+    bisherigen Seelsorgern Zeugniße beizubringen, nach welchen für so-
+    gleich aufgenommen werden können.
+```
+
+## Modern German Version
+
+```{code-block} text
+
+   Ausgenommen bei der Wahl eines Pastors oder bei Änderungen oder Ergänzungen der
+   Kirchenordnung: In diesen beiden Fällen müssen zwei Drittel der stimmberechtigten
+   Gemeindeglieder anwesend sein, und von diesen müssen zwei Drittel zustimmen.
+
+   Wer nicht anwesend ist, verzichtet im Falle seines Nichterscheinens auf sein
+   Stimmrecht. Der Termin der Gemeindeversammlung soll mindestens am
+   vorausgehenden Sonntag vor der versammelten Gemeinde bekanntgegeben werden.
+
+                     15. Ar.
+                   Kirchenzucht
+
+   Sollte sich ein Kirchenmitglied gegen die Lehre und Ordnung der Gemeinde vergehen,
+   so ist jedes Gemeindeglied, das dies bemerkt, verpflichtet, das fehlende Glied in
+   Liebe zu ermahnen. Hört es nicht auf diese Ermahnung, so soll es zwei weitere
+   Gemeindeglieder hinzuziehen und die Ermahnung gemeinsam wiederholen. Wenn auch diese
+   drei kein Gehör finden, so sollen sie den Fall vor die Gemeinde bringen. Erfolgt
+   auch vor der versammelten Gemeinde keine Reue, so soll das sündigende Glied von der
+   Gemeindeversammlung ausgeschlossen werden, bis es Reue zeigt und sich bessert.
+
+a. Grobe öffentliche Sünden sollen auch öffentlich geahndet werden.
+
+               16. Ar.
+               Aufnahme neuer Mitglieder
+
+    Diejenigen Lutheraner, welche begehren, in die Gemeinde aufgenommen zu werden,
+    haben sich bei dem Pastor oder Ältesten zu melden und durch diese ihr Gesuch an
+    die Gemeinde zu bringen. Falls nun die Gemeinde geistige Kenntnis von ihrem
+    Verhalten hat und nichts gegen sie einzuwenden ist, so können sie, nachdem sie
+    mit der Kirchenordnung bekannt gemacht worden sind, sogleich aufgenommen
+    werden, welche sie zum Zeugnis ihrer Übereinstimmung zu unterschreiben haben.
+
+a.  Sollte aber die Gemeinde in ihrer Mehrzahl oder Minderzahl Bedenken tragen, die
+    Bittenden sogleich aufzunehmen, so müssen sie sich eine vierteljährige
+    Probezeit gefallen lassen.
+
+b.  Lutheraner hierzulande sollen angehalten werden, von ihren bisherigen
+    Seelsorgern Zeugnisse beizubringen, nach welchen sie sogleich aufgenommen
+    werden können.
+```
+
+## English Translation
+
+### Article 14 Continued from Prior Page
+
+Except in the case of electing a pastor or making changes or additions to the
+church constitution: In these two cases, two-thirds of the voting members of
+the congregation must be present, and of those, two-thirds must vote in favor.
+
+Anyone who is not present forfeits their right to vote in the event of their
+absence. The date of the congregational meeting must be announced to the
+assembled congregation at least on the preceding Sunday.
+
+### Article 15: Church Discipline
+
+If a church member commits an offense against the doctrine and order of the congregation,
+every member who observes this is obligated to admonish the offending member in a spirit of love.
+If the person does not listen to this admonition, the member should bring along two others
+and repeat the admonition together. If the three still receive no response, they shall bring
+the matter before the congregation. If no repentance is shown even before the assembled
+congregation, the offending member shall be excluded from the congregation’s assembly until
+they show repentance and amend their ways.
+
+1. Grave/Flagrant public sins shall also be publicly punished.
+
+### Article 16: Admission of New Members
+
+Those Lutherans, who desire to be admitted into the congregation, are to report
+themselves to the Pastor or Elder and through these [officials] to bring their
+petition to the congregation. Should the congregation now have spiritual
+knowledge of their conduct and no objection can be raised against them, then
+they can, after they have been made acquainted with the Church Order, be
+immediately admitted, which they must sign as a testimony of their agreement.
+
+1. Should the congregation, however, in its majority or minority, have
+reservations about immediately admitting the petitioners, then they must submit
+to a quarter-year probationary period.
+2. Lutherans in this country shall be required to provide testimonials from
+their previous pastors, according to which they can be immediately admitted.
+

@@ -1,0 +1,181 @@
+# Page 127, #273-278
+
+```{image} images/94.jpg
+:class: image-override
+```
+
+```{list-table}
+:header-rows: 1
+
+* - Transliteration
+  - Translation
+* -                 Emma Emilie Magarethe
+    geb. den 21. April 1892 getauft den 1. Mai 1892
+    Eltern:
+                    
+                      
+                        Fr. Roth.
+                      
+                      
+                        Therese get Büttner
+                      
+                    
+                    Pathen: Emilie Haugk & Emma Büttner
+    H. Schmidt
+                  
+                  
+                    Klara Karoline Christine [Wm. Hochemeier]
+    geb. 27. Mai 1872 geb. den 5. Juni 1892
+    Eltern:
+                    
+                      
+                        Fritz Thieme
+                      
+                      
+                        Sophie geb. Krückeberg
+                      
+                    
+                    Pathen: Caroline Krückeberg (Stllvertreter Frau Bütter) Christine Böhnke
+    (Stellvertreter für Sophie v. Thieme)
+    W. Schmidt.
+                  
+                  
+                    Laura Louise Marie [Mart. Krueckeberg]
+    geb. den 4. Juni 1892 get. den 12. juni 1872
+    Eltern:
+                    
+                      
+                        Martin Bleeke
+                      
+                      
+                        Emma geb. Holle
+                      
+                    
+                    Pathen: Frau Maria Blecke und Frau Louise Holle
+                  
+                  
+                    Bertha Karoline Marie [Theo Reidenbach]
+    geb. den 8. Juli 92. geb. den 24. Juni 1892
+    Eltern:
+                    
+                      
+                        H. Bischoff
+                      
+                      
+                        Christine geb. Bleeke
+                      
+                    
+                    Pathen: Frauu Georg Rinige u. Frau Bischoff (Stellvertreterolbert [M.?] Heuer
+    H. Schmidt
+                  
+                  
+                    Luise Sophie Wilhelmine [+3/9/31]
+    geb. den 19. August 1892. getauft den 28. Aug. 1892
+    Eltern:
+                    
+                      
+                        H. Bleeke
+                      
+                      
+                        Emilie, geb. Thieme
+                      
+                    
+                    Pathen:. Sophie Pleeke u. Wilhelmine Thieme
+    H. Schmidt
+    Nr. 79
+                  
+                  
+                    [might be double entry on no. 79] 
+    Eltern:
+                    
+                      
+                        Fr. Krückeberg
+                      
+                      
+                        Emma geb. Koldewey
+  -                 Emma Emilie Magarethe
+    born April 21, 1892, baptized May 1, 1892
+    Parents:
+                    
+                      
+                        Mrs. Roth.
+                      
+                      
+                        Therese get Büttner
+                      
+                    
+                    Godparents: Emilie Haugk & Emma Büttner
+    H. Schmidt
+                  
+                  
+                    Klara Karoline Christine [Wm. Hochemeier]
+    born May 27, 1872, born June 5, 1892
+    Parents:
+                    
+                      
+                        Fritz Thieme
+                      
+                      
+                        Sophie née Krückeberg
+                      
+                    
+                    Godparents: Caroline Krückeberg (deputy for Mrs. Bütter) Christine Böhnke
+    (deputy for Sophie v. Thieme)
+    W. Schmidt.
+                  
+                  
+                    Laura Louise Marie [Mart. Krueckeberg]
+    born June 4, 1892, died June 12, 1872
+    Parents:
+                    
+                      
+                        Martin Bleeke
+                      
+                      
+                        Emma née Holle
+                      
+                    
+                    Godparents: Mrs. Maria Blecke and Mrs. Louise Holle
+                  
+                  
+                    Bertha Karoline Marie [Theo Reidenbach]
+    born July 8, 1892. born June 24, 1892
+    Parents:
+                    
+                      
+                        H. Bischoff
+                      
+                      
+                        Christine née Bleeke
+                      
+                    
+                    Godparents: Mrs. Georg Rinige and Mrs. Bischoff (deputy Olbert [M.?] Heuer
+    H. Schmidt
+                  
+                  
+                    Luise Sophie Wilhelmine [+3/9/31]
+    born August 19, 1892. baptized August 28, 1892
+    Parents:
+                    
+                      
+                        H. Bleeke
+                      
+                      
+                        Emilie, née Thieme
+                      
+                    
+                    Godparents: Sophie Pleeke and Wilhelmine Thieme
+    H. Schmidt
+    No. 79
+                  
+                  
+                    [might be double entry on no. 79]
+    Parents:
+                    
+                      
+                        Mrs. Krückeberg
+                      
+                      
+                        Emma born Koldewey
+```
+
