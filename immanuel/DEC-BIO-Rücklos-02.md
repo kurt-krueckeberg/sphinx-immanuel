@@ -50,6 +50,6 @@ Children from this marriage are:
 
 (DEC-BIO-Rücklos-02)=
 
-[DEC-BIO-Rücklos-02] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 30 of 242.
 

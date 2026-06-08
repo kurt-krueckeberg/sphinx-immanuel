@@ -66,6 +66,6 @@ on the 23rd of this month. Age 2 years, 8 months, and 28 days.
 
 (image229)=
 
-[image229] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+"Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
 church, Image 229 of 242
 

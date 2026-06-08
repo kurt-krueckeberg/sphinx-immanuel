@@ -96,6 +96,6 @@ Parents:
 
 (image49)=
 
-[image49] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+"Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
 church, Image 49 of 242
 

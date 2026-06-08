@@ -101,6 +101,6 @@ while the 4th daughter died in St. Louis, Mo.
 
 (DEC-BIO-Reinking-02)=
 
-[DEC-BIO-Reinking-02] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 35 of 242.
 

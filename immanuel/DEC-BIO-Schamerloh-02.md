@@ -82,6 +82,6 @@ and died 2 days later on the 27th of February 1865.
 
 (DEC-BIO-Schamerloh-02)=
 
-[DEC-BIO-Schamerloh-02] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 31 of 242.
 

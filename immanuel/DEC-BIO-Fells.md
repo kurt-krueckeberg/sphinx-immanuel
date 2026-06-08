@@ -19,6 +19,6 @@ The page has no other text whatsoever.
 
 (DEC-BIO-Fells)=
 
-[DEC-BIO-Fells] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 33 of 242.
 
