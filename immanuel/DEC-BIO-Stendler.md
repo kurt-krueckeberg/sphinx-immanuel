@@ -1,46 +1,83 @@
-# Abraham Stendler Biography
+# Page 78, #7-12
 
-## Image
-
-```{image} images/34.jpg
+```{image} images/47.jpg
 :class: image-override
 ```
 
-## Citation
-
-The biography of Johann Heinrich Philipp Bleeke is {ref}`image 34 <DEC-BIO-Stendler>` of 242 from digital
-images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+## Translation
 
 ## Transliteration
 
-Ehelicher Sohn von Jakob Stendler und Maria Elisabeth geborene Alexander
-geboren in Klingen Kanton Bergzabern Königreich Bayern den 22 November
-und getauft im selben Monat 1831, konfirmiert im März 1845. Er wanderte
-ein in dieses Land im März 1860, arbeitete anfangs in Ohio, zog alsdann
-hierher woselbst er sich alsbald der Gemeinde anschloß, und
-verheirathete sich den 30 December 1862mit Jungfrau Maria Belz, eine
-Tochter von Peter Belz und Elisabeth geb. Bibelheimer, geboren in
-West-Penn to Schuylkill Co. Pa. den 2 Juli 1838, confirmiert den 4 Apr
-1852.
+1. [+11/6/33] Johann Heinrich
+geboren den 17t. Februar und getauft den 25 Febuar 1855
+Eltern:
+  - Christian Fridrich Bleeke
+  - Louise geborene: Valsing.
+  Pathen: Johann Heinrich Bleeke u. Fridrich Valsing
+2. Caroline Christine Sophie
+[Mrs. Robt. Lee] geboren den 9t April und getauft den 29t April 1855.
+Eltern:
+  - Johann Heinrich Wilhelm Carl Grote
+  - Caroline Philippine Derathee geb. Krückeberg.
+  Pathen: Caroline Grote, Philippine Krückeberg u. Leonore Bleeke.
+3. [+5/31/39] Friedrich Wilhelm
+geboren den 13t April und getauft den 29t April 1855.
+Eltern:
+  - Carl Fridrich Wilhelm Bleeke
+  - Maria geborene Bibelheimer
+  Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann.
+4. [+10/25/03] Heinrich Christian Wilhelm
+geboren den 18ten Februar und getauft den 2t März 1856.
+Eltern:
+  - Conrad Dietrich Ferdinand Reinking
+  - Maria Louise Eleonore geb. Bleeke
+  Pathen: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
+5. Caroline Christine
+[+] geboren den 11t September und getauft den 4t October 1857.
+Eltern:
+  - Johann Heinrich Wilhelm Carl Grote
+  - Caroline Philippine Derathee geb. Krückeberg
+  Pathen: Christine Krückeberg und Philippine Schamerloh
+6. [empty]
 
 ## Translation
 
-legitimate son of Jakob Stendler and Maria Elisabeth neé Alexander, was
-bon in Klingen, Kanton (district) Bergzabern, in the Kingdom of Bavaria,
-on November 22nd 1831. He was baptized in the same month. He was
-confirmed in March 1845.
+1. [+11/6/33] Johann Heinrich
+born the 17th February and baptized the 25th February 1855
+Parents:
+  - Christian Fridrich Bleeke
+  - Louise née Valsing
+  Sponsors: Johann Heinrich Bleeke and Fridrich Valsing
+2. Caroline Christine Sophie
+[Mrs. Robt. Lee] born the 9th April and baptized the 29th April 1855
+Parents:
+  - Johann Heinrich Wilhelm Carl Grote
+  - Carolina Philippina Dorothee née Krückeberg.
+  Sponsors: Caroline Grote, Philippine Krückeberg and Leonore Bleeke.
+3. [+5/31/39] Friedrich Wilhelm
+born the 13th April und getauft the 29th April 1855
+Parents:
+  - Carl Friedrich Wilhelm Bleeke
+  - Maria née Bibelheimer
+  Sponsors: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann
+4. [+10/25/03] Heinrich Christian Wilhelm
+born the 18th February and baptized the 2th March 1856.
+Parents:
+  - Conrad Dietrich Ferdinand Reinking
+  - Maria Louise Eleonore née Bleeke
+  Sponsors: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
+5. Caroline Christine
+[+] born 11 September and baptized 4 October 1857.
+Parents:
+  - [+] Johann Heinrich Wilhelm Carl Grote
+  - Carolina Philippina Dorothee née Krückeberg.
+  Sponsors: Christine Krückeberg and Philippine Schamerloh.
+6. [empty]
 
-He immigrated in this country in March of 1860. He first worked in Ohio
-but then later moved here, were he joined the community (parish) and
-married on December 30th 1862 the maiden Maria Belz, a daughter of
-Peter Belz and Elisabeth neé Bibelheimer. Maria Belz had been born on
-July 2nd 1838 in West Pennsylvania, in Schuylkill County, Pa. She was
-confirmed on April 4th 1852.
+## Citation
 
-## Citations
+(image47)=
 
-(DEC-BIO-Stendler)=
-
-[DEC-BIO-Stendler] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
-privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 34 of 242.
+[image47] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 47 of 242
 
