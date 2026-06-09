@@ -15,7 +15,7 @@ Edna Karoline Ida
 geb. den 2. Mai, art. den 14. Mai 1899
 fiturn: Eduard Bleeke + Pauline, geb. Thieme
 Paten! Karoline Chrmann + Ida Bischoff.
-W. Schmidt
+H. Schmidt
 Robert Heinrich
 geb. den 3. Aug. 1899 getauft den 13. Aug 1899.
 .
@@ -27,22 +27,22 @@ geb. den 3. Aug. 1899. getauft den 13. August 1899
 Eltern: Karl Grote u. Emilie, geb. Haupk.
 G. Runge,
 Renten: Heinrich Grote, H. Haupt
-W. Schmidt
+H. Schmidt
 Emil Wilhelm Karl
 geb. den 10. Aug 1899 getäuft den 20.
 Eltern: Fr. Krückeberg - Emma, geb. Koldewey.
 Paten: W. Koldenry, & Karl Krückeberg
-W. Schmidt
+H. Schmidt
 Theodor Friedrich Johann
 geb. den 29. Aug. get. den 10. Sept. 1899
 Eltern: Heinrich Rodenbeck, + Sophie, geb. Berning
 Reten: Fr. Fülling + Joh. Berning
-W. Schmidt
+H. Schmidt
 15
 Martha Sophie
 Nicht ist, so ist es
 geb. den 16. Sept., get. den 19. Sept. 1899
 Eltern: Fr. Koldewey + Emilie, geb. Schamerloh.
 Paten: Sophie Schumerloh & Martha Koldewey
-W. Schmidt
+H. Schmidt
 

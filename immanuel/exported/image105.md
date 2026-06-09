@@ -27,12 +27,12 @@ Hermann Karl
 geb. den 28. Juni 1898. get. den 3. Juli 1898
 Eltern: J. Haugk + Luise, geb. Riefer
 Paten: Herm. Büttner & Karl Kiefer.
-W. Schmidt
+H. Schmidt
 Alfred Karl
 geb. den 11. Januar, getauft den 22. Januar 1898
 setern: Martin Bleeke, + Emma, geb. Holle.
 Jaten: Karl Bleeke, & Fried, Holle
-W. Schmidt
+H. Schmidt
 Paul Karl Friedrich
 1899
 geb. den 29. Jan 1899. get. den 12. Feb.
@@ -47,5 +47,5 @@ Holle.
 fes. W. Blecke & Luise, geb.
 Eduard Bleeke, Stellvertreten
 Paten: Hy. Bleeke, Georg Rungo,
-W. Schmidt
+H. Schmidt
 

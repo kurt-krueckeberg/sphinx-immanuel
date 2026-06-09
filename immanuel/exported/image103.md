@@ -33,18 +33,18 @@ geb den 28. Aug. 1898 getauft den 5. Sept. 97
 Eltern: Fried. Krückeberg + Emma, geb. Koldewey,
 Bleeki
 Port: Frau Emma Knickeberg + Frau Muthilde
-W. Schmidt
+H. Schmidt
 He Clemens Hermann Heinrich,
 geb. den 20. Sept. 1897 getauft den
 Eltern: John Ehrmann & Karoline geb. Bleeke
 Porten: Herm. Reinking + Hy. Bleeke.
 .
-W. Schmidt
+H. Schmidt
 Hedwig Sophie Luise
 geb. den 9. Nov 1897 getauft den 21. Nov. 1897
 febern (Ferdinand Bleeke)
 Mathi Ede Koldervey
 Paten: Frau Sophie Koldewy, Luise Bleeke
 Luise Reinkiny.
-W. Schmidt
+H. Schmidt
 

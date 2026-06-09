@@ -15,7 +15,7 @@ Orlando David Roseboom
 gib. d. 28. Januar 1882.
 getauft. KZ. Okt. 1887. Inmanalskirche
 Zeugen; A. Steüdler, 16. Schönstedt
-W. Schmidt P.
+H. Schmidt P.
 Sheldon Parry Rosenboom
 geb. d. 28. Jan. 1882. getauft d. 8. Januar 1888.
 Kathre: B. Beltz, Herm. Büttner

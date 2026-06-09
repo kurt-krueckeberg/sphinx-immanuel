@@ -24,12 +24,12 @@ geb. den 20. Dec 1901, getauft den 1. Jan. 1902
 Eltern: Klenk, und Emilie
 geb. Hängk
 Paten: Frau Kosette Haugk + Frau Emma Blecke,
-W. Schmidt.
+H. Schmidt.
 Victor Heinrich Ferdinand
 geb. den 12. Januar 1902. getauft den 26. Jan 1902.
 Eltern: Eduard Bleeke und Pauline, geb. Thiena.
 Paten: Heinrich Bleeke + Ferdinand Bleeke.
-W. Schmidt
+H. Schmidt
 Lorenz August Friedrich
 geb. den 25. Febr. get. den 9. Majis 1902.
 Eltern: Karl Grote, + Emi zu, geb. Haupk

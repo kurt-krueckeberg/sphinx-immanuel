@@ -12,7 +12,7 @@ März 1889.
 flter: Ch. Marbach + Karoline DEURING
 Heyland.
 Pathen: H. Reinking & Tr.
-W. Schmidt.
+H. Schmidt.
 Hermann Johann Heinreich
 Pastor
 geb. den 29. April 1889. get. den 5. Mai 188.
@@ -27,7 +27,7 @@ fltem: Georg Runge & Maria
 get Bleeke!
 Pathen: Frau Cor. Haupte, " Frau
 Maria Blicke
-W. Schmidt).
+H. Schmidt).
 Paul Wilhelm Clamor
 .
 geb. d. 26. Juni 1889 getauft den 7. Juli 1889.

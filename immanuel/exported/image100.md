@@ -19,13 +19,13 @@ Blecke
 Et. Johann Chrmann & Karoline geb.
 Gehrke.
 Paten: A. Bienz, Ferd. Blecke, Herm.
-W. Schmidt
+H. Schmidt
 Ludwig Clement Friedrich
 .
 geb. den 14. Mai 1895 geb. den 19. Mai 1895
 Eltern. Martin Reinking & Karoline geb. Koldewey
 Paten: C. Fülling & Fr. Koldewey.
-W. Schmidt
+H. Schmidt
 Selma Emma
 geb. 16. Mai 1895 getauft den 26 Mai 1895
 Etern: Martin Blecke, uget Comma geb. Holles

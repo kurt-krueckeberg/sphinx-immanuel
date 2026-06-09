@@ -17,7 +17,7 @@ f
 geb. am 26. Jan. getauft am 2 Febr 1896.
 Eltern: H. Bleeke & Luise geb. Holle.
 
-Pat. Franz. Lunkenan, Martin Blecke, H Reinking, W. Schmidt
+Pat. Franz. Lunkenan, Martin Blecke, H Reinking, H. Schmidt
 
 315  2 Klara Verena Karolina Johanna
 geb. den 11. Febr. 1896. geb. den 16. Februar 1896
@@ -33,7 +33,7 @@ Ella Emilio Luise
 geb. den 22. Juli 1896 getauft, den 2. Aug. 1896
 Elt. Eduard Bleeke & Pauline, geb. Theénie
 Paten Fra Luise Reinking, Emilie Bleeke.
-W. Schmidt
+H. Schmidt
 Amos Eduard Ernst,
 geb. den 4. Sept., gut. den 13. Sept. 1846
 Et: Fr. A. Thieme, v. Wilhelmine, geb. Krückeberg,

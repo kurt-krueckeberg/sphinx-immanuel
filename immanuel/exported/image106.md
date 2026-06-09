@@ -16,7 +16,7 @@ geh: Bien
 Eltern: W. C. Reinking, & Maria
 Stellv. Anna Schamerlop
 Paten: Helene Bienz, u. Kath. Bierz.
-W. Schmidt
+H. Schmidt
 M.D.
 Sophie Emma Emilie
 .
@@ -26,7 +26,7 @@ geb. den 12. Febr. gut, den 26.
 Krückeberg
 Als. Fritz Thieme, + Sophie geb.
 Paten: Emma Knickeberg, Emilie Blecke
-W. Schmidt.
+H. Schmidt.
 Friedrich Karl Wilhelm
 Febr. 1899
 geb. den 12. Febr. gut. den 26.

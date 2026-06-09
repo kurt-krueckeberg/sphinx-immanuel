@@ -13,7 +13,7 @@ Johanna Magdalena.
 geb. den 13. Jan 1900 getauft 21. Jan. 1900
 Eltern: W. Klenk. & gEmilie, geb. Haugk,
 Paten:    Frau Luise Bleeke, & Frau Karoline Marbach
-W. Schmidt
+H. Schmidt
 .
 ⅌ Heinrich Eduard Martin
 359
@@ -35,12 +35,12 @@ W.J. Schmidt.
 William D. Barrone
 geb. den 11. Mai 1875. getauft 1. April 1900
 fltan: Levi Baron + Wilhelmine Hörriger.
-W. Schmidt
+H. Schmidt
 Friedrich Wilhelm
 .
 362
 geb. den 8. Aug. getauft den 19. Aug 1908
 Eltern: Julius Rangk + Luise geb. Kiefer.
 Paten: Fr. Mueller, & Fr. Bienz.
-W. Schmidt.
+H. Schmidt.
 

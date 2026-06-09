@@ -21,7 +21,7 @@ Sophie, geb. Berning
 Berning
 Pater: Karl Rodenbeck + Wilhelm
 (Ersterer nicht zu gegen. Zeugen: der Vater u. die Großeltern Berning.)
-W. Schmidt
+H. Schmidt
 Wilhelm Christian Heinrich
 .
 geb. den 9. Jan 1898 getauft den 16. Jan. 1898.

@@ -20,7 +20,7 @@ Eltern:
   - Sophie geb. Krückeberg
   Pathen: Caroline Krückeberg (Stllvertreter Frau Bütter) Christine Böhnke
 (Stellvertreter für Sophie v. Thieme)
-W. Schmidt.
+H. Schmidt.
 3. Laura Louise Marie [Mart. Krueckeberg]
 geb. den 4. Juni 1892 get. den 12. juni 1872
 Eltern:
@@ -63,7 +63,7 @@ Parents:
   - Sophie née Krückeberg
   Godparents: Caroline Krückeberg (deputy for Mrs. Bütter) Christine Böhnke
 (deputy for Sophie v. Thieme)
-W. Schmidt.
+H. Schmidt.
 3. Laura Louise Marie [Mart. Krueckeberg]
 born June 4, 1892, died June 12, 1872
 Parents:

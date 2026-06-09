@@ -14,7 +14,7 @@ geb den 12 Mürz, getauft den 24. März 1901
 1) Vergl. Gesetzbüchern.
 Eltern: Otto Blecke + Emilie, geb. Steete
 Paten: Maria Reinking, Kath. Schönstedt
-W. Schmidt.
+H. Schmidt.
 Bertha Christiane Alvine.
 geb. den 12. Meirz getauft den 24. März 1901
 Eltern: Heinrich Büttner + Sidonie, geb. Noak.
@@ -49,6 +49,6 @@ geb. den 10. Aug. getuigt den 18. aug. 1901
 Ellern: He.g. Kriäckeberg & Luise
 geb. Bruck
 Paten: Frau Emma Kinckeberg + Frau W. Bucick.
-W. Schmidt.
+H. Schmidt.
 S. 3
 

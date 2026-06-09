@@ -16,7 +16,7 @@ Emma Luella
 gev. den 2. Mai 1900 gebauft d. 13 Mai 1900
 Ellèm: B. Beltz & Alice, geb. Hedges
 Paten: Emma Krückeberg + Karoline Thieme
-W. Schmidt
+H. Schmidt
 Luise Sophie
 geb. den 7. Sept. 1800. get. den 16. Sept 1900
 Eltern: Hh. Marbach + Karoline, geb. Deuring
@@ -26,7 +26,7 @@ Edwin Richard
 geb. den 26. Sept., get. den 7. Okt. 1900
 Eltern: W. Barrone + Frida, geb. Bischoff
 Paten: W. Bleeke, R. Bischoff,
-W. Schmidt
+H. Schmidt
 Maria Elisabeth
 geb den 15. Dez. 1900. getauft den 23. Dec. 1900
 geb. Reinking
@@ -37,7 +37,7 @@ Erwin Karl Friedrich
 geb. den 21. Dec 1909 getauft den 30. Dez 1900
 Eltern: Adam Brenz & Stathilde, geb. Blecke
 Paten: Karl Blicke + Fr. Bienz,
-W. Schmidt
+H. Schmidt
 Max Friedrich Arthur
 geb. den 15. Januar 1901, getauft den 27. januar 1901.
 Eltern: F. W. Thième &. Wilhelmine, gev. Krückeberg

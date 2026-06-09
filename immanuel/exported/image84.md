@@ -44,5 +44,5 @@ Thieme
 Sachen. Ehe Bischoff an
 G. Thieme
 H. Bichrff
-W. Schmidt G.
+H. Schmidt G.
 
