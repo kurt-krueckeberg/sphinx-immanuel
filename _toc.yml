@@ -78,6 +78,11 @@ parts:
   - file: immanuel/image92
   - file: immanuel/image93
   - file: immanuel/image94
+  - file: immanuel/image95
+  - file: immanuel/image96
+  - file: immanuel/image97
+  - file: immanuel/image98
+  - file: immanuel/image99
 - caption: Confirmandenregister (Confirmation Register)
   chapters:
   - file: immanuel/image117

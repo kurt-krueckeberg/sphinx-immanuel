@@ -1,11 +1,17 @@
-# Untitled
+# Image 97
+
+```{figure} images/97.jpg
+:class: image-override
+```
+
+## Transliteration
 
 1. Walter Ludwig Wilhelm
 geb. den 25. Sept. 1893 geh. den 1. Okt. 1893.
 fes. Martin Reinking + Karoline geb. Koldewey,
 Pat. Lad. Koldewey v. W. C. Rein Kinc.
 Sähmid
-4\.
+4.
 2. Edwin Johann Christian
 1893
 geb. den 28. Sept. 1893. get. den 1. Okt.
@@ -18,18 +24,18 @@ Schmidt
 geb. den 5. Nov 1893. getauft den 12. Nov. 1893
 fes.: Ed. Bleeke & Pauline geb. Thieme
 Fatt: W. Bleeke & Fr. Thieme
-W\. Schmidt
+W. Schmidt
 4. Lona Emilie Johanna
 geb. den 10. Febr. 1894. getauft den 18. Feb 1894
 fehren: W. Holle & Sophie geb. Bleeke
 (Kar. Holle?
 Pertin: Emilie Blecke: Johanna Schmidt.
-H\. Schmidt
+W Schmidt
 5. Paulona Sophie
 geb. den 3. April 1894. getauft den 15. April1894
 Eltern: Heinrich Bischoff & Christine geb. Bleeke
 Gorsf. Pauline Bleeke 16. Stendler
-H\. Schmidt.
+W Schmidt.
 6. Wilhelm Jakob Robert
 geb. den 2. Juli 1894 getauft den 2 Jul. 1894
 Eltern: Jul. Heaugk, + Luise geb. Kiefer
