@@ -12,8 +12,7 @@
                [in pencil: Pastors of the congregation]
 No 21.
 
-          A Fritze
-
+A Fritze
 Steger at     H. Steger von  Nov. 5 1865. - 7. Febr. 1870
 Hunington
 1873-1879     P. Rupprecht von Mai 29 1870 - Nov 1873        A Fritz
@@ -41,8 +40,7 @@ N. C. Vetter. Dec. 3 1950-
                [in pencil: Pastors of the congregation]
 No 21.
 
-          A Fritze
-
+A Fritze
 Steger at     H. Steger von  Nov. 5 1865. - 7. Febr. 1870
 Hunington
 1873-1879     P. Rupprecht von Mai 29 1870 - Nov 1873        A Fritz
