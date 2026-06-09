@@ -7,40 +7,47 @@
 
 ## Transliteration
 
-1. Joseph Conrad Heinrich
-geb. den 10. Mai 1893 getauft den 21.Mai 1893
-Elt.: Karl Blecke & Sophie geb. Silking
-Pathen: Conrad Silking + Heinrich Blecke
-W Schmidt
-2. Richard Ferdinand
-geb. 21. Juni 1893, get. den 2. Juli 1893.
-fes. W. Blecke & Louise geb. Hölle
-Cath: H. Bischoff, Fritz Thieme. Ferd. Bleeke,
-W Schmidt
-3. Wilhelm Martin Robert
-geb. den 25. Juni 1893. get. den 2. Juli 1893.
-fet. "Ch. Marbach, + Karoline geb. Deuring
-Pathen: W. Klink, M. Blecke,
-H Schmiedt.
-4. Luise Marie Emilie,
-nicht.
-geb. den 15. Aug. 1893 get. den 27. Aug: 1893.
-Elt. Hein. Krückeberg & Luise geb. Bruck
-Com
-Port. Soph. Witte, Lou Marie Burk, Elis Buuk.
-Louise Koldewey,
-ist. Schmidt
-5. Roland Fredrich
-geb. den 25. Aug. 1893, get. den 10.
-Sept. 1893.
-Elt. Heinr. Grote. & Karoline geb.
-Schönstedt.
-Port. Fr. Sohónstedt + Karl Grote.
-W Schmidt
-6. Louise Marie
-geb. den 6. Sept. 1893 geh. den 17. Sept 1893.
-flt. Rufus Seh örstedt u. Eliz. geb. Kirkland
-Port. Louise Weyland + Fros. A. Steudler.
-W Schmidt
-129
+```text
+1.     Joseph Conrad Heinrich
+       geb. den 10. Mai 1893 getauft den 21.Mai 1893
+       Elt.: Karl Blecke & Sophie geb. Silking
+       Pathen: Conrad Silking + Heinrich Blecke
+       W Schmidt
 
+2.     Richard Ferdinand
+       geb. 21. Juni 1893, get. den 2. Juli 1893.
+       fes. W. Blecke & Louise geb. Hölle
+       Cath: H. Bischoff, Fritz Thieme. Ferd. Bleeke,
+       W Schmidt
+
+3.     Wilhelm Martin Robert
+       geb. den 25. Juni 1893. get. den 2. Juli 1893.
+       fet. "Ch. Marbach, + Karoline geb. Deuring
+       Pathen: W. Klink, M. Blecke,
+       H Schmiedt.
+
+4.     Luise Marie Emilie,
+       nicht.
+       geb. den 15. Aug. 1893 get. den 27. Aug: 1893.
+       Elt. Hein. Krückeberg & Luise geb. Bruck
+       Com
+       Port. Soph. Witte, Lou Marie Burk, Elis Buuk.
+       Louise Koldewey,
+       ist. Schmidt
+
+5.     Roland Fredrich
+       geb. den 25. Aug. 1893, get. den 10.
+       Sept. 1893.
+       Elt. Heinr. Grote. & Karoline geb.
+       Schönstedt.
+       Port. Fr. Sohónstedt + Karl Grote.
+       W Schmidt
+
+6.     Louise Marie
+       geb. den 6. Sept. 1893 geh. den 17. Sept 1893.
+       flt. Rufus Seh örstedt u. Eliz. geb. Kirkland
+       Port. Louise Weyland + Fros. A. Steudler.
+       W Schmidt
+
+TODO:   129???
+```
