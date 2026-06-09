@@ -1,4 +1,4 @@
-# Page 116, Baptisms214-???
+# Page 116, Baptisms 214-???
 
 ```{image} images/83.jpg
 :class: image-override

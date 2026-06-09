@@ -1,4 +1,4 @@
-# Page 123, Baptisms252-257
+# Page 123, Baptisms 252-257
 
 ```{image} images/90.jpg
 :class: image-override

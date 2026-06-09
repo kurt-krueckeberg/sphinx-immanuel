@@ -1,4 +1,4 @@
-# Page 108, Baptisms175-179
+# Page 108, Baptisms 175-179
 
 ```{image} images/75.jpg
 :class: image-override
