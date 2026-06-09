@@ -34,7 +34,7 @@
                    Parth: Ed. Bleek, H. Bischoff, Fr. Gehrke,
                                      W Schmidt
 
-283.     2         Antoso Friedrich Wilhelm.
+283.     2         Anton Friedrich Wilhelm.
                    geb den 12. März 1893, getauf den 17. May 1893
                    Elt. Theodor Thieme & Karoline geb. Schamerloh.
                    Pathen: Fr. Thieme & W. Schamerloh.
