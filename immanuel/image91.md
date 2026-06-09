@@ -8,32 +8,41 @@
 
 1. Aldolph Johannes
    geb. den 14. Sept 1890 get. d. 21. Sept. 1890
-   Eltern:
-   - Hm. Bleeke
-   - Louise geb. Holle
+
+   Eltern: Hm. Bleeke & Louise geb. Holle
+
    Pathen: Friedrich  Holle, H. Reinking, Johannes Ehrmann
+
    H Schmidt
 2. Paul Johann Heinrich,
+
 [+6/22/48] geb. den 16. Sept: 1890 getauft den 21. Sept. 1890
-Eltern:
-  - Friedich Bleeke jun.
-  - Elise geb. Fülling
-  Pathen: Heinrich Fülling, und ??? Bleeke.
-H Schmidt
+
+   Eltern: Friedich Bleeke jun. & Elise geb. Fülling
+
+   Pathen: Heinrich Fülling, und ??? Bleeke.
+
+   H Schmidt
 3. [+9/12/92] Almida Karoline
-geb. d. 7. Okt. 1890 getauft den 19. Oktober 1890
-Eltern:
-  - Friedich Weyland
-  - Louise geb. Schönstedt
-  Pathen: Karoline Weyland & Korline Grote
-H Schmidt.
+
+   geb. d. 7. Okt. 1890 getauft den 19. Oktober 1890
+
+   Eltern:
+   - Friedich Weyland
+   - Louise geb. Schönstedt
+
+   Pathen: Karoline Weyland & Korline Grote
+
+   H Schmidt.
 4. Richard Theodor
-geb. d. 9. Okt. 90 get. d. 19. Okt. 1890
-Eltern:
-  - Fr. Thieme
-  - Soph. Krückeberg.
-  Pathen: Fr. Krückeberg + Theodor Thieme
-H Schmidt
+
+   geb. d. 9. Okt. 90 get. d. 19. Okt. 1890
+
+   Eltern: Fr. Thieme & Soph. Krückeberg.
+   
+   Pathen: Fr. Krückeberg + Theodor Thieme
+
+   H Schmidt
 5. [+3/17/46] Klara Elise Pauline.
 geb. d. 10. Okt. 1890 get. d. Okt 1890
 Eltern:
