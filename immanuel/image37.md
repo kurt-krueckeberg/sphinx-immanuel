@@ -41,9 +41,9 @@ Hunington
 No 21.
 
 A Fritze
-Steger at    H. Steger von  Nov. 5 1865. - 7. Febr. 1870
+Steger at    H. Steger from  Nov. 5 1865. - 7. Febr. 1870
 Hunington
-1873-1879    P. Rupprecht von Mai 29 1870 - Nov 1873        A Fritz
+1873-1879    P. Rupprecht from Mai 29 1870 - Nov 1873        A Fritz
             H. Cämmerer Juni 1874- Febr. 1879                            vacancy pastor
             H. Steger Febr. 23 1879 - Febr 1885                        Fr. Berg vacancy pastor
             W. Schmidt, 23. Mai 1886 - 1. Jan. 1905
