@@ -7,12 +7,12 @@
 ## Transliteration
 
 1. Aldolph Johannes
-geb. den 14. Sept 1890 get. d. 21. Sept. 1890
-Eltern:
-  - Hm. Bleeke
-  - Louise geb. Holle
-  Pathen: Friedrich  Holle, H. Reinking, Johannes Ehrmann
-H Schmidt
+   geb. den 14. Sept 1890 get. d. 21. Sept. 1890
+   Eltern:
+   - Hm. Bleeke
+   - Louise geb. Holle
+   Pathen: Friedrich  Holle, H. Reinking, Johannes Ehrmann
+   H Schmidt
 2. Paul Johann Heinrich,
 [+6/22/48] geb. den 16. Sept: 1890 getauft den 21. Sept. 1890
 Eltern:
