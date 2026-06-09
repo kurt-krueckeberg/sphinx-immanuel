@@ -1,4 +1,4 @@
-# Page 117, #219-2??
+# Page 117, Baptisms219-2??
 
 ```{image} images/84.jpg
 :class: image-override

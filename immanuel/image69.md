@@ -1,4 +1,4 @@
-# Page 100, #121-126
+# Page 100, Baptisms121-126
 
 ```{image} images/69.jpg
 :class: image-override
