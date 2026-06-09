@@ -1,4 +1,4 @@
-# Page 83, #37-42
+# Page 83, Baptisms 37-42
 
 ```{image} images/52.jpg
 :class: image-override

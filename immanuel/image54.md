@@ -1,4 +1,4 @@
-# Page 85, #49-54
+# Page 85, Baptisms 49-54
 
 ```{image} images/54.jpg
 :class: image-override

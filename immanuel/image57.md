@@ -1,4 +1,4 @@
-# Page 88, #67-72
+# Page 88, Baptisms 67-72
 
 ```{image} images/57.jpg
 :class: image-override

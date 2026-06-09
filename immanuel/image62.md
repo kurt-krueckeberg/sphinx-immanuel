@@ -1,4 +1,4 @@
-# Page 93, #97-102
+# Page 93, Baptisms 97-102
 
 ```{image} images/62.jpg
 :class: image-override

@@ -1,4 +1,4 @@
-# Page 78, #7-12
+# Page 78, Baptisms 7-12
 
 ```{image} images/47.jpg
 :class: image-override

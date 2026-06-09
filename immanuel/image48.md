@@ -1,4 +1,4 @@
-# Page 79, #13-18
+# Page 79, Baptisms 13-18
 
 ```{image} images/48.jpg
 :class: image-override

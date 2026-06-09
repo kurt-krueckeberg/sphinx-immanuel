@@ -1,4 +1,4 @@
-# Page 81, #25-30
+# Page 81, Baptisms 25-30
 
 ```{image} images/50.jpg
 :class: image-override
