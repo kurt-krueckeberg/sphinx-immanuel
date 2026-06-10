@@ -12,7 +12,7 @@
 307  5  Edwin Ferdinand Hermann
 geb. den 21. April 1895 getauft den 28. April 1895
 Elt.  Johann Ehrmann & Karoline geb. Bleeke
-Paten: A. Bienz, <u>Ferd. Bleeke</u>, Herm. Gehrke.
+Paten: A. Bienz, [struck through:Ferd. Bleeke], Herm. Gehrke.
                                     W. Schmidt
 
 308 6 Ludwig Clemens Friedrich             Preble [in pencil]
