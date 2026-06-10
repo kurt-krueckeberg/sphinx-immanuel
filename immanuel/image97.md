@@ -1,4 +1,4 @@
-# Page 103, Baptism 290-295
+# Page 130, Baptism 290-295
 
 ```{figure} images/97.jpg
 :class: image-override
