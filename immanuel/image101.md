@@ -16,7 +16,6 @@
         Pat: Franz. Lankenau, Martin Bleeke, H.  Reinking
                                                                                W. Schmidt
 
-
 315  2  Klara Verena Karolina Johanna
         [margin in pencil: Ed Baue] geb. den 11. Febr. 1896. get. den 16. Feby. 1896
         Elt. Gottfried Lehrmann & Anna geb. Schamerloh
@@ -27,8 +26,6 @@
         geb. den 5 April, getauft den 19. April 1896
         Eltern: Ernst Krückeberg & Emma geb. Böhnke.
         Paten: Fr. Böhnke, Fr. K. Krückeberg (Stellvater Soph. Thieme)
-                                                                               W. Schmidt
-
 
 
 317  4  Ella Emilie Luise
@@ -37,16 +34,12 @@
         Paten: Frau Luise Reinking, Emilie Bleeke.
                                                                                W. Schmidt
 
-318 5 Amos Eduard Ernst,
+318 5   Amos Eduard Ernst,
         geb. den 4. Sept. get. den 13. Sept. 1896
         Elt: Fr. A. Thieme, & Wilhelmine, geb. Krückeberg,
         Paten: Eduard Bleeke, Ernst Krükeberg.
-                                                                               W. Schmidt
 
-
-
-
-319  6 Amalia Maria Karolina
+319  6  Amalia Maria Karolina
         [margin in pencil: + 9/20/96] geb. den 15. Sept. get. den 20. Sept 1896 (gest. den 30. Sept 96)
         Elt. W. Schamerloh, & Anna, geb. Bienz
         Part: Frau Ch. Schamerloh & Doris Haugk
