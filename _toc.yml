@@ -87,6 +87,11 @@ parts:
         - file: immanuel/image99
         - file: immanuel/image100
         - file: immanuel/image101
+        - file: immanuel/image102
+        - file: immanuel/image103
+        - file: immanuel/image104
+        - file: immanuel/image105
+        - file: immanuel/image106
     - file: immanuel/confirmations 
       sections:
       - file: immanuel/image117

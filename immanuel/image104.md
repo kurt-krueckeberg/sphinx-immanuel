@@ -1,8 +1,12 @@
+# Page 136, Baptisms 327-332
 
+```{figure} images/104.jpg
+:class: image-override
+```
 
+## Transliteration
 
-
-
+```text
 137,
 333 10 Edwin Benjamin Heinrich Wilhelm  [penciled in margin: Decatur]
 geb. den 5. Dez. 1897. getauft den 12. Dezn. 1897
@@ -39,7 +43,4 @@ getauft den 27. März 1898.
 geb. den 26. Nov. 1885
 Eltern: & Margaretha Razet, geb. Erhardt
 getauft den 27. März 1898
-
-
-
-
+```
