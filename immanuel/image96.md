@@ -26,13 +26,10 @@
        Pathen: W. Klink, M. Blecke,
        H Schmiedt.
 
-287 6  Luise Marie Emilie,
-       nicht.
+287 6  Luise Marie Emilie
        geb. den 15. Aug. 1893 get. den 27. Aug: 1893.
        Elt. Hein. Krückeberg & Luise geb. Bruck
-       Com
-       Port. Soph. Witte, Lou Marie Burk, Elis Buuk.
-       Louise Koldewey,
+       Pat. Soph. Witte, Lou Marie Buuk, Elis Buuk. Em Koldewey.
        ist. Schmidt
 
 288 7  Roland Fredrich
@@ -40,12 +37,12 @@
        Sept. 1893.
        Elt. Heinr. Grote. & Karoline geb.
        Schönstedt.
-       Port. Fr. Sohónstedt + Karl Grote.
+       Pat. Fr. Sohónstedt + Karl Grote.
        W Schmidt
 
 289 8  Louise Marie
        geb. den 6. Sept. 1893 geh. den 17. Sept 1893.
-       Elt. Rufus Seh örstedt u. Eliz. geb. Kirkland
-       Port. Louise Weyland + Fros. A. Steudler.
+       Elt. Rufus Schönstedt u. Elis. geb. Kirkland
+       Pat. Louise Weyland + Frau A. Steudler.
        W Schmidt
 ```
