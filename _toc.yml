@@ -39,7 +39,7 @@ parts:
       title: Pastors of Immanuel
     - file: immanuel/image38
       title: Continuation of marriages
-    - file: immaneul/taufregister 
+    - file: immanuel/taufregister 
       sections:  
         - file: immanuel/image46
         - file: immanuel/image47
