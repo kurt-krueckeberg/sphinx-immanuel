@@ -1,85 +1,53 @@
-# Page 95, Baptisms 109-114
+# Page 77, Baptisms 1-6
 
-```{image} images/64.jpg
+```{image} images/46.jpg
 :class: image-override
+```
+
+## Taufregister (Baptism Register)
+
+```{note}
+All the death dates, which are preceded by +, are written in pencil, as is
+"Mrs Hy Heier" in entry #3.
 ```
 
 ## Transliteration
 
-1. Friedrich Wilhelm 
-geboren den 13 Juli, u. get. den 23 Juli 1871.
-Eltern:
-  - Wilhelm Fells
-  - Elisabeth, geb. Rup.
-  Pathen: Christian Bleeke u. Conrad Fells.
-2. Ludwig Clemens
-geb: den 7 August 1869 u. get: den 30 Juli 1871.
-Eltern
-  - Johann Krohn
-  - Veronica, geb. Vox.
-  Pathen: Heinrich Rücklos.
-3. Andreas Friedrich August [+]
-einem kommen wurde.
-geb. den 31 August u. get. den 10 Sept. 1871.
-Eltern:
-  - Friedr. August Haupk.
-  - Louise Maria Magdel. Dous geb. Danel,
-  Pathen: Andreas Thieme u. Friedr. Habermann.
-4. Sophia Louise
-geb: den 1ten Dez. u. get. den 17 Dezemb. 1871.
-Eltern
-  - Heinrich Heier
-  - Isabella, geb. Biebelheimer,
-  Pathen:Sophia Grote und Louise Reinking.
-5. Ferdinand
-geb. den 23 Februar u. gut: den 3 März 1872.
-Eltern:
-  - Friedrich Blecke
-  - Maria, geb. Biebelheimer,
-  Pathen: Ferdinand Reinking, Heinrich Heier, Ernst Scheumann.
-6. Emilie Caroline
-geb. den 4ten u. get. den 10 Maerz 1872. [Nebr.]
-Eltern:
-  - Andreas Thieme
-  - Sophia, geb. Klein
-  Pathen: Emilie Thieme u. Carolina Grote
-
-## Translation
-
-1. Friedrich Wilhelm
-born on July 13, and died on July 23, 1871.
-Parents:
-  - Wilhelm Fells
-  - Elisabeth, née Rup.
-  Godparents: Christian Bleeke and Conrad Fells.
-2. Ludwig Clemens
-born on August 7, 1869 and died on July 30, 1871.
-Parents
-  - Johann Krohn
-  - Veronica, née Vox.
-  Godparents: Heinrich Rücklos.
-3. Andreas Friedrich August [+]
-was born on August 31 and died on September 10, 1871.
-Parents:
-  - Friedr. August Haupk.
-  - Louise Maria Magdel. Dous, née Danel,
-  Godparents: Andreas Thieme and Friedr. Habermann.
-4. Sophia Louise
-born: December 1st and died: December 17th, 1871.
-Parents
-  - Heinrich Heier
-  - Isabella, née Biebelheimer,
-  Godparents: Sophia Grote and Louise Reinking.
-5. Ferdinand
-born: February 23rd and died: March 3rd, 1872.
-Parents:
-  - Friedrich Blecke
-  - Maria, née Biebelheimer,
-  Godparents: Ferdinand Reinking, Heinrich Heier, Ernst Scheumann.
-6. Emilie Caroline
-born: March 4th and died: March 10th, 1872. [Nebr.]
-Parents:
-  - Andreas Thieme
-  - Sophia, née Klein
-  Godparents: Emilie Thieme and Carolina Grote
-
+   ```text
+1. Marie Louise [+7/28/21]
+   geboren den 14ten November und getauft den 8ten December 1850.
+   Eltern:
+     - Christian Fridrich Bleeke.
+     - Louise geborene Valsing.
+     Pathen: Wilhelmine Zwick und Sophie Herkmann.
+2. Christian Fridrich [+10/21/08]
+   geboren den 12t Januar und getauft den 16t Februar 1851.
+   Eltern:
+     - Heinrich Wilhelm Weyland
+     - Sophie Wilhelmine geb. Piehl.
+     Pathen: Fridrich Bleeke und Christian Bleeke.
+3. Isabella [Mrs. Hy Heier]
+   geboren den 21t Februar und getauft den 1t März 1851.
+   Eltern:
+     - David Daniel Bibelheimer
+     - Maria geborene Zähner.
+     Pathen: Louise Bleeke und Maria Bleeke
+4. Carl Heinrich Christian [+11/14/28]
+   geboren den 26t Februar und getauft den 12t März 1853.
+   Eltern:
+     - Johann Heinrich Wilhelm Carl Grote
+     - Caroline Philippine Dorathee geb. Krückeberg
+     Pathen: Heinrich Krüskeberg und Christian Bleeke.
+5. Sophie Louise [+5/4/34]
+   geboren den 27t März und getauft den 28t Mörz 1853.
+   Eltern:
+     - Christian Fridrich Bleeke
+     - Louise geborene: Valsing.
+     Pathen: Christine Bleeke und Louise Valsing.
+6. Mathilde Christine Louise [+4/12/01]
+   geboren den 5te Oktober und getauft den 5t November 1854.
+   Eltern:
+     - Conrad Dietrich Ferdinand Reinking
+     - Maria Louise Eleonore geb. Bleeke
+     Pathen: Christine Blecke u.  Louise Reinking
+```
