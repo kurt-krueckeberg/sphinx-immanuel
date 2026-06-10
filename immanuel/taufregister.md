@@ -10,13 +10,11 @@ the definitions given below:
   - Meaning
 * - Taufregister
   - baptism register
-* - geboren
-  - born
-* - Eltern
+* - geb./geboren
+  - born; also used to mean **maiden name**
+* - Elt. = Eltern
   - parents
-* - geb.
-  - abbreviation "born (as)", i.e., maiden name
-* - Pathen
+* - Pat./Pathen
   - baptismal sponsor, godparents
 * - Siehe
   - see
