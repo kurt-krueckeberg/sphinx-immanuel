@@ -1,4 +1,4 @@
-# Image 99
+# PAge 132, Baptisms
 
 ```{figure} images/99.jpg
 :class: image-override
