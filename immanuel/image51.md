@@ -1,6 +1,6 @@
 # Page 82, Baptisms 31-36
 
-```{image} images/531.jpg
+```{image} images/51.jpg
 :class: image-override
 ```
 
