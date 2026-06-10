@@ -22,7 +22,7 @@
 
 303 1 Walter Abraham Benjamin
          geb. den 8. Januar 1895 geb. den 28. Jänner 1895
-         Eltern. B. Beltr., - Alice geb. Hodger
+         Eltern. B. Beltr., & Alice geb. Hodger
          Peter A. Steudler, K. Schönstedt.
                                             W. Schmidt
 
