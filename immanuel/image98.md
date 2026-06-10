@@ -1,5 +1,9 @@
 # Untitled
 
+```{figure} images/98.jpg
+:class: class-override
+```
+
 1. Karl Wilhelm Ernst
 geb. den 3. Aug. 94 gut d. 19. Aug 94
 Elt: Fritz Thieme sen. + Sophie Krückeberg
