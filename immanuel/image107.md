@@ -1,14 +1,13 @@
+# Page 140, Baptism 351-356
+
+```{figure} images/107.jpg
+:class: image-override
+```
+
+## Transliteration
 
 
-
-
-
-
-
-
-
-
-
+```text
 351 10 Edna Karoline Ida
 [Christ Mack] geb. den 2. Mai, get. den 14. Mai 1899
 Eltern: Eduard Bleeke & Pauline, geb. Thieme
@@ -44,3 +43,4 @@ Paten: Fr. Fülling + Joh. Berning
 Eltern: Fr. Koldewey & Emilie, geb. Schamerloh.
 Paten: Sophie Schumerloh & Martha Koldewey
                                                         W. Schmidt
+```
