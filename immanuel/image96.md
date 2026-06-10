@@ -26,7 +26,7 @@
        Pathen: W. Klink, M. Blecke,
        H Schmiedt.
 
-287 6  Luise Marie Emilie
+287 6  Luise Marie Emilie                  [Jn. Nahrwold]
        geb. den 15. Aug. 1893 get. den 27. Aug: 1893.
        Elt. Hein. Krückeberg & Luise geb. Bruck
        Pat. Soph. Witte, Lou Marie Buuk, Elis Buuk. Em Koldewey.
