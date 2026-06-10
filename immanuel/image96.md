@@ -16,13 +16,13 @@
 
 2.     Richard Ferdinand
        geb. 21. Juni 1893, get. den 2. Juli 1893.
-       fes. W. Blecke & Louise geb. Hölle
+       Elt. W. Blecke & Louise geb. Hölle
        Cath: H. Bischoff, Fritz Thieme. Ferd. Bleeke,
        W Schmidt
 
 3.     Wilhelm Martin Robert
        geb. den 25. Juni 1893. get. den 2. Juli 1893.
-       fet. "Ch. Marbach, + Karoline geb. Deuring
+       Elt. "Ch. Marbach, + Karoline geb. Deuring
        Pathen: W. Klink, M. Blecke,
        H Schmiedt.
 
@@ -45,9 +45,7 @@
 
 6.     Louise Marie
        geb. den 6. Sept. 1893 geh. den 17. Sept 1893.
-       flt. Rufus Seh örstedt u. Eliz. geb. Kirkland
+       Elt. Rufus Seh örstedt u. Eliz. geb. Kirkland
        Port. Louise Weyland + Fros. A. Steudler.
        W Schmidt
-
-TODO:   129???
 ```
