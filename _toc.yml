@@ -83,6 +83,7 @@ parts:
   - file: immanuel/image97
   - file: immanuel/image98
   - file: immanuel/image99
+  - file: immanuel/image100
 - caption: Confirmandenregister (Confirmation Register)
   chapters:
   - file: immanuel/image117
