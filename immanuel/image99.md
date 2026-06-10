@@ -1,8 +1,10 @@
-# PAge 132, Baptisms
+# PAge 132, Baptisms 301-306
 
 ```{figure} images/99.jpg
 :class: image-override
 ```
+
+## Transliteraion
 
 ```text
 1. Paula Maria Luise
