@@ -38,61 +38,61 @@ parts:
     - file: pastors/image37
       title: Pastors of Immanuel
     - file: immanuel/image38
-       title: Continuation of marriages
+      title: Continuation of marriages
     - file: taufregister 
-        sections:  
-          - file: immanuel/image46
-          - file: immanuel/image47
-          - file: immanuel/image48
-          - file: immanuel/image49
-          - file: immanuel/image50
-          - file: immanuel/image51
-          - file: immanuel/image52
-          - file: immanuel/image53
-          - file: immanuel/image54
-          - file: immanuel/image55
-          - file: immanuel/image56
-          - file: immanuel/image57
-          - file: immanuel/image58
-          - file: immanuel/image59
-          - file: immanuel/image60
-          - file: immanuel/image61
-          - file: immanuel/image62
-          - file: immanuel/image63
-          - file: immanuel/image64
-          - file: immanuel/image65
-          - file: immanuel/image66
-          - file: immanuel/image67
-          - file: immanuel/image68
-          - file: immanuel/image69
-          - file: immanuel/image70
-          - file: immanuel/image71
-          - file: immanuel/image72
-          - file: immanuel/image73
-          - file: immanuel/image74
-          - file: immanuel/image75
-          - file: immanuel/image81
-          - file: immanuel/image82
-          - file: immanuel/image83
-          - file: immanuel/image89
-          - file: immanuel/image90
-          - file: immanuel/image91
-          - file: immanuel/image92
-          - file: immanuel/image93
-          - file: immanuel/image94
-          - file: immanuel/image95
-          - file: immanuel/image96
-          - file: immanuel/image97
-          - file: immanuel/image98
-          - file: immanuel/image99
-          - file: immanuel/image100
-- caption: Confirmandenregister (Confirmation Register)
-  chapters:
-  - file: immanuel/image117
-  - file: immanuel/image118
-- caption: Register der Leichenbegängnisse (Funeral Register)
-  chapters:
-  - file: immanuel/image229
-  - file: immanuel/image230
-  - file: immanuel/image231
-  - file: immanuel/image232
+      sections:  
+        - file: immanuel/image46
+        - file: immanuel/image47
+        - file: immanuel/image48
+        - file: immanuel/image49
+        - file: immanuel/image50
+        - file: immanuel/image51
+        - file: immanuel/image52
+        - file: immanuel/image53
+        - file: immanuel/image54
+        - file: immanuel/image55
+        - file: immanuel/image56
+        - file: immanuel/image57
+        - file: immanuel/image58
+        - file: immanuel/image59
+        - file: immanuel/image60
+        - file: immanuel/image61
+        - file: immanuel/image62
+        - file: immanuel/image63
+        - file: immanuel/image64
+        - file: immanuel/image65
+        - file: immanuel/image66
+        - file: immanuel/image67
+        - file: immanuel/image68
+        - file: immanuel/image69
+        - file: immanuel/image70
+        - file: immanuel/image71
+        - file: immanuel/image72
+        - file: immanuel/image73
+        - file: immanuel/image74
+        - file: immanuel/image75
+        - file: immanuel/image81
+        - file: immanuel/image82
+        - file: immanuel/image83
+        - file: immanuel/image89
+        - file: immanuel/image90
+        - file: immanuel/image91
+        - file: immanuel/image92
+        - file: immanuel/image93
+        - file: immanuel/image94
+        - file: immanuel/image95
+        - file: immanuel/image96
+        - file: immanuel/image97
+        - file: immanuel/image98
+        - file: immanuel/image99
+        - file: immanuel/image100
+    - file: confirmations 
+      sections:
+      - file: immanuel/image117
+      - file: immanuel/image118
+    - file: funerals 
+      sections:
+      - file: immanuel/image229
+      - file: immanuel/image230
+      - file: immanuel/image231
+      - file: immanuel/image232
