@@ -13,7 +13,7 @@ Eltern:
   - C. Sophie geb. Holle
   Pathen: And. Thieme & Heinrich Holle.
 Steltvertreter: H. Grote & W. Holle
-H. Schmidt P.
+W. Schmidt P.
 2. Ludwig Heinrich Friedrich Eduard
 geb. den 3. Aug 1886. get. den 15. Aug. 1886 Imannels Kirche.
 Eltern:
@@ -27,7 +27,7 @@ Eltern:
   - Heinrich Bleekee
   - Emilie geb. Thieme
 Pathen: Heerm. Reinking, W. Holle, & Christ: Bischoff jun.
-H. Schmidt
+W. Schmidt
 4. Adolph Christian Jakob [Decatur]
 geb. d. 26. Aug. 1886. Union T. getauft den 5. Sep. 1886 (Immanuels K.
 Eltern:
@@ -41,7 +41,7 @@ Eltern:
   - Frid. Krückeberg
   - Emma ein geb. Kolderweg
 Pathen: Karoline Knückeberg + Sopfie Koldewey
-H. Schmidt P.
+W. Schmidt P.
 
 ## Translate
 
@@ -52,21 +52,21 @@ Parents:
   - C. Sophie née Holle
   Godparents: And. Thieme & Heinrich Holle.
 Deputies: H. Grote & W. Holle
-H. Schmidt P.
+W. Schmidt P.
 2. Ludwig Heinrich Friedrich Eduard
 born August 3, 1886, died August 15, 1886 in St. Imann’s Church.
 Parents:
   - Ludwig Koldewey
   - Sophie née Thiemann
   Godparents: Mrs. Scheimann, H. Wittfeld, Ed. [b]y.
-H. Schmidt P.
+W. Schmidt P.
 3. Johann Hermann Wilhelm
 born August 22, 1886, baptized August 29, 1886. Immauels K.
 Parents:
   - Heinrich Bleekee
   - Emilie née Thieme
 Godparents: Heerm. Reinking, W. Holle, & Christ: Bischoff Jr.
-H. Schmidt
+W. Schmidt
 4. Adolph Christian Jakob [Decatur]
 born August 26, 1886. Union T. baptized September 5 1886 (Immanuels K.
 Parents:
@@ -80,5 +80,5 @@ Parents:
   - Frid. Krückeberg
   - Emma née Kolderweg
 Godparents: Karoline Knückeberg + Sopfie Koldewey
-H. Schmidt P.
+W. Schmidt P.
 

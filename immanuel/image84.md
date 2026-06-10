@@ -21,7 +21,7 @@
                       
                     
                     Pathen: Fr. Schönstedt, H. Weyland,
-    H. Schmidt
+    W. Schmidt
                   
                   
                     Mary Maudilie Buormann

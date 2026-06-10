@@ -14,14 +14,14 @@ Eltern:
   - W. Bleeke
   - Louise geb. Holle
   Pathen: Christine Beschoff, Emma Holle
-H. Schmidt
+W. Schmidt
 2. Florenz Wilhelm
 geb. den 10. Nov. 1886 prt. den 21. November 1886. Inmanuels K.
 Eltern:
   - Johann Ehrmann
   - Karoline geb. Bleeke
   Pathen: 21. Bleeke & N. Reinking
-H. Schmidt
+W. Schmidt
 3. Maria Johanna Elis
 [Hy Wetting 
  Waynedale]
@@ -30,7 +30,7 @@ Eltern:
   - Herrn Reinking
   - Maria eine geb. Bleeke
   Pathen: Eslise Bleetze. Maria Bleeke
-H. Schmidt
+W. Schmidt
 4. Margaretha Maria Elisabeth
 [Ed. Funkhauser
  Napoleon] geb. den 27. Feb. 1887. get. den 13. März 1887
@@ -40,7 +40,7 @@ Eltern:
   - W. C. Reinking
   - Maria eine gebor. Magareth Bonz.
   Pathen: Frau: Maria Reinnking, Elisabeth
-H. Schmidt
+W. Schmidt
 5. Martin Friedrich Wilhelm
 [Ft. W.] geb. d. 11. Mai 1887. geb.d. 22. Mai 87. Immanuelskirche
 Eltern:
@@ -56,14 +56,14 @@ Parents:
   - W. Bleeke
   - Louise née Holle
   Godparents: Christine Beschoff, Emma Holle
-H. Schmidt
+W. Schmidt
 2. Florenz Wilhelm
 born November 10, 1886, registered November 21, 1886. Immanuels K.
 Parents:
   - Johann Ehrmann
   - Karoline née Bleeke
   Godparents: 21. Bleeke & N. Reinking
-H. Schmidt
+W. Schmidt
 3. Maria Johanna Elis
 [Hy Wetting 
  Waynedale]
@@ -72,7 +72,7 @@ Parents:
   - Mr. Reinking
   - Maria, a. Bleeke
   Godparents: Eslise Bleetze. Maria Bleeke
-H. Schmidt
+W. Schmidt
 4. Margaretha Maria Elisabeth
 [Ed. Funkhauser
  Napoleon] born February 27, 1887, died March 13, 1887
@@ -82,7 +82,7 @@ Parents:
   - W. C. Reinking
   - Maria, née Magareth Bonz.
   Godparents: Wife: Maria Reinking, Elisabeth
-H. Schmidt
+W. Schmidt
 5. Martin Friedrich Wilhelm
 [Ft. W.] born May 11, 1887, died May 22, 1887, Immanuels church
 Parents:

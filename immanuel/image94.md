@@ -12,7 +12,7 @@ Eltern:
   - Fr. Roth.
   - Therese get Büttner
   Pathen: Emilie Haugk & Emma Büttner
-H. Schmidt
+W. Schmidt
 2. Klara Karoline Christine [Wm. Hochemeier]
 geb. 27. Mai 1872 geb. den 5. Juni 1892
 Eltern:
@@ -20,7 +20,7 @@ Eltern:
   - Sophie geb. Krückeberg
   Pathen: Caroline Krückeberg (Stllvertreter Frau Bütter) Christine Böhnke
 (Stellvertreter für Sophie v. Thieme)
-H. Schmidt.
+W. Schmidt.
 3. Laura Louise Marie [Mart. Krueckeberg]
 geb. den 4. Juni 1892 get. den 12. juni 1872
 Eltern:
@@ -33,14 +33,14 @@ Eltern:
   - H. Bischoff
   - Christine geb. Bleeke
   Pathen: Frauu Georg Rinige u. Frau Bischoff (Stellvertreterolbert [M.?] Heuer
-H. Schmidt
+W. Schmidt
 5. Luise Sophie Wilhelmine [+3/9/31]
 geb. den 19. August 1892. getauft den 28. Aug. 1892
 Eltern:
   - H. Bleeke
   - Emilie, geb. Thieme
   Pathen:. Sophie Pleeke u. Wilhelmine Thieme
-H. Schmidt
+W. Schmidt
 Nr. 79
 6. [might be double entry on no. 79] 
 Eltern:
@@ -55,7 +55,7 @@ Parents:
   - Mrs. Roth.
   - Therese get Büttner
   Godparents: Emilie Haugk & Emma Büttner
-H. Schmidt
+W. Schmidt
 2. Klara Karoline Christine [Wm. Hochemeier]
 born May 27, 1872, born June 5, 1892
 Parents:
@@ -63,7 +63,7 @@ Parents:
   - Sophie née Krückeberg
   Godparents: Caroline Krückeberg (deputy for Mrs. Bütter) Christine Böhnke
 (deputy for Sophie v. Thieme)
-H. Schmidt.
+W. Schmidt.
 3. Laura Louise Marie [Mart. Krueckeberg]
 born June 4, 1892, died June 12, 1872
 Parents:
@@ -76,14 +76,14 @@ Parents:
   - H. Bischoff
   - Christine née Bleeke
   Godparents: Mrs. Georg Rinige and Mrs. Bischoff (deputy Olbert [M.?] Heuer
-H. Schmidt
+W. Schmidt
 5. Luise Sophie Wilhelmine [+3/9/31]
 born August 19, 1892. baptized August 28, 1892
 Parents:
   - H. Bleeke
   - Emilie, née Thieme
   Godparents: Sophie Pleeke and Wilhelmine Thieme
-H. Schmidt
+W. Schmidt
 No. 79
 6. [might be double entry on no. 79]
 Parents:

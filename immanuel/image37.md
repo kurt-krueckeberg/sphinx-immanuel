@@ -18,7 +18,7 @@ Hunington
 1873-1879    P. Rupprecht von Mai 29 1870 - Nov 1873        A Fritz
              H. Cämmerer Juni 1874- Febr. 1879                            Vakanzpred[iger]
              H. Steger Febr. 23 1879 - Febr 1885                        Fr. Berg Vakanz predig
-             H. Schmidt, 23. Mai 1886 - 1. Jan. 1905
+             W. Schmidt, 23. Mai 1886 - 1. Jan. 1905
              G. Bauer 23 Mär 1905 - 1913 June 29                          K. Wyneken Vakanzprediger
                                                                           Zoch, Convoy,Vacancy P.
              R. Hoffmann (called 7/20 / 1913) 1913 - 1916 Jan. 17, 1917
@@ -46,7 +46,7 @@ Hunington
 1873-1879    P. Rupprecht from Mai 29 1870 - Nov 1873        A Fritz
             H. Cämmerer Juni 1874- Febr. 1879                            vacancy pastor
             H. Steger Febr. 23 1879 - Febr 1885                        Fr. Berg vacancy pastor
-            H. Schmidt, 23. Mai 1886 - 1. Jan. 1905
+            W. Schmidt, 23. Mai 1886 - 1. Jan. 1905
             G. Bauer 23 Mär 1905 - 1913 June 29                          K. Wyneken vacacny pastor
                                                                          Zoch, Convoy, vacancy Pastor
             R. Hoffmann (called 7/20 / 1913) 1913 - 1916 Jan. 17, 1917

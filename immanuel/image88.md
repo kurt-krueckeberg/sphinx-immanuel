@@ -12,7 +12,7 @@ März 1889.
 flter: Ch. Marbach + Karoline DEURING
 Heyland.
 Pathen: H. Reinking & Tr.
-H. Schmidt.
+W. Schmidt.
 Hermann Johann Heinreich
 Pastor
 geb. den 29. April 1889. get. den 5. Mai 188.
@@ -27,14 +27,14 @@ fltem: Georg Runge & Maria
 get Bleeke!
 Pathen: Frau Cor. Haupte, " Frau
 Maria Blicke
-H. Schmidt).
+W. Schmidt).
 Paul Wilhelm Clamor
 .
 geb. d. 26. Juni 1889 getauft den 7. Juli 1889.
 f. sein. "Karb Dinkel" & "Maria" geb.
 Reinking
 Pathen: Clamor Fülling, W. C. Reinking, Ch. Schamerloh:
-H. Schmidt.
+W. Schmidt.
 Simon Heinrich
 geb. den 15. Aug 1889 getauft den 25. Aug.
 1889

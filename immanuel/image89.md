@@ -15,7 +15,7 @@ Eltern:
   - Heinrich Bischoff
   - Christine geb. Bleeke
   Pathen: Frau Louise Bleeke, Frau Sophie Witte (Chicago) Stellvert. Helene Bleeke
-H. Schmidt.
+W. Schmidt.
 2. Ludella Maria Louise
 [Aug. RuecklosDeshler, Nebr.]
 geb. den 14. Jan 1890, get. den 19. Jan. 1890
@@ -23,26 +23,26 @@ Eltern:
   - W. Holle
   - Sophie geb. Bleeke
   Pathen: Maria Reinking & Louise Bleeke.
-H. Schmidt
+W. Schmidt
 3. Blandina Christine
 geb. den 23. Feb. 1890 get. den 9. März 1890.
 Eltern: W. F. Reinking & Louise geb. Blecke
 Pathen: Fr. Louis Blecke & Fr. [C/B]h. Bischoff
-H. Schmidt.
+W. Schmidt.
 4. Sylva Maria Louis
 geb. u. 23. Febr. 1890 getauft d. 16. März 1890
 Eltern:
   - B. Beltz
   - Allia geb. Hedger
   Pathen: Maria Steudler, + Franzis Schönstedt.
-H. Schmidt
+W. Schmidt
 5. Gustav Karl Ludwig
 geb. den 27. Märzsgetauft den 6. April 1890
 Eltern:
   - F[r?]ied. Kruckeberg
   - Emma geb. Koldewey
   Pathen: K. Kruckeberg & L. Koldewey
-H. Schmidt
+W. Schmidt
 6. Maria Karolina
 [Rud Weyland
 Decatur]
@@ -62,7 +62,7 @@ Parents:
   - Heinrich Bischoff
   - Christine née Bleeke
   Godparents: Mrs. Louise Bleeke, Mrs. Sophie Witte (Chicago), Deputy Helene Bleeke
-H. Schmidt.
+W. Schmidt.
 2. Ludella Maria Louise
 [Aug. RuecklosDeshler, Nebr.]
 born January 14, 1890, died January 19, 1890
@@ -70,26 +70,26 @@ Parents:
   - W. Holle
   - Sophie née Bleeke
   Godparents: Maria Reinking & Louise Bleeke.
-H. Schmidt
+W. Schmidt
 3. Blandina Christine
 born February 23, 1890, died March 9, 1890.
 Parents: W. F. Reinking & Louise née Blecke
 Godparents: Mrs. Louis Blecke & Mrs. [C/B]h. Bischoff
-H. Schmidt.
+W. Schmidt.
 4. Sylva Maria Louis
 born February 23, 1890, baptized March 16, 1890
 Parents:
   - B. Beltz
   - Allia née Hedger
   Godparents: Maria Steudler, + Franzis Schönstedt
-H. Schmidt
+W. Schmidt
 5. Gustav Karl Ludwig
 born March 27, baptized April 6, 1890
 Parents:
   - F[r?]ied. Kruckeberg
   - Emma née Koldewey
   Godparents: K. Kruckeberg & L. Koldewey
-H. Schmidt
+W. Schmidt
 6. Maria Karolina
 [Rud Weyland
 Decatur]

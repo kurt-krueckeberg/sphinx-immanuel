@@ -15,18 +15,18 @@ Orlando David Roseboom
 gib. d. 28. Januar 1882.
 getauft. KZ. Okt. 1887. Inmanalskirche
 Zeugen; A. Steüdler, 16. Schönstedt
-H. Schmidt P.
+W. Schmidt P.
 Sheldon Parry Rosenboom
 geb. d. 28. Jan. 1882. getauft d. 8. Januar 1888.
 Kathre: B. Beltz, Herm. Büttner
 3
-H. Schmidt.
+W. Schmidt.
 Hathilde Anna Sophie Holle
 geb. den 5. Febr 1888 getauft d. 12. Feb. 1888
 Eitern (Wilhelm Holle
 Sophie geborene Bleeke
 Pathen: Anna Heckmann & Sophie Bleeke
-H. Schmidt
+W. Schmidt
 P
 Louise Sophie Karoline Krückeberg
 Zumannsk.
