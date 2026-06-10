@@ -3,7 +3,7 @@ root: immanuel/cover-page
 parts:
 - caption: Immanuel Church Register 1850-1905
   chapters:
-    - file: church-ordnung
+    - file: immanuel/church-ordnung
       sections:
         - file: immanuel/image4
         - file: immanuel/image5
@@ -13,7 +13,7 @@ parts:
         - file: immanuel/image9
         - file: immanuel/image10
         - file: immanuel/image11
-    - file: founders
+    - file: immanuel/founders
       sections:
       - file: immanuel/DEC-BIO-Bleeke-01
       - file: immanuel/DEC-BIO-Krueckeberg-01
@@ -35,11 +35,11 @@ parts:
       - file: immanuel/DEC-BIO-Stendler
       - file: immanuel/DEC-BIO-Reinking-02
       - file: immanuel/DEC-BIO-Bibelheimer
-    - file: pastors/image37
+    - file: immanuel/image37
       title: Pastors of Immanuel
     - file: immanuel/image38
       title: Continuation of marriages
-    - file: taufregister 
+    - file: immaneul/taufregister 
       sections:  
         - file: immanuel/image46
         - file: immanuel/image47
@@ -86,11 +86,11 @@ parts:
         - file: immanuel/image98
         - file: immanuel/image99
         - file: immanuel/image100
-    - file: confirmations 
+    - file: immanuel/confirmations 
       sections:
       - file: immanuel/image117
       - file: immanuel/image118
-    - file: funerals 
+    - file: immanuel/funerals 
       sections:
       - file: immanuel/image229
       - file: immanuel/image230
