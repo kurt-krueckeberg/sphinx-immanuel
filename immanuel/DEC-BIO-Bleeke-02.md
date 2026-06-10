@@ -36,7 +36,7 @@ Im Jahre darauf ging die Mutter dieser Kinder nach kurzem Leiden am
 Nervenfieber ein zu ihres Herrn Freude. Ihm Jahre 1858 den 8 April
 verheirathete genannter Chr. Fr. Bleeke sich zum andern Male mit
 Jungfrau: Anna Maria Rup, eine Tochter von Rup und [empty] geb. den 11.
-Sept. 1833 u. get. [empty], ( note in pencil: died 26 Nov. 1989), in
+Sept. 1833 u. get. [died 26 Nov. 1989), in
 [empty] Co, Ohio confirmiert.
 
 1. Christine Elise, geb. den 1. Februar u. get. den 27 Februar 1859.
@@ -79,7 +79,7 @@ her Lord and was joyfully received by Him. On April 8, 1858, the above
 mentioned Chr. Fr. Bleeke married again. He married the maiden Anna Maria
 Rup, a daughter of [empty] Rup and [empty]. She was born 11 September
 1833, and baptized [empty], in [empty] County, Ohio, and confirmed
-[empty]. (note in pencil: died 26 Nov. 1889),
+[died 26 Nov. 1889),
 
 1. Christine Elise, born 1 February, and baptized 27 February 1859.
 Godparents: Elisabeth Rup and Christine Heckmann; died 6 April 1861.

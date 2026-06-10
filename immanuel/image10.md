@@ -15,18 +15,18 @@
   vor der Gemeinde geprüft, und wenn sie fähig erfunden confirmirt und zum
   Abendmahl zugelaßen werden.
 
-         [written in pencil: 18]
+         [18]
 
    Die Ordnung soll jährlich wenigsten einmal vor versamelter Gemeinde
    vorgelesen und auf Verlangen näher erklährt und ausgelegt werden.
 
-         [written in pencil: 19]
+         [19]
 
    Die Wahl der Gemeindebeamten und die Ablegung der Rechnung
    derselben, so alljährtig in der Advendszeit oder vor dem Schluße
    des Jahres stattfinden.
 
-         [written in pencil: 20]
+         [20]
 
    Unveränderlich sind die Artikel 2. 3. 4. C. 78. 1315. und dieser
    20te wieder den Sinn der Ordnung soll nichts bestim̅mt werden
@@ -44,17 +44,17 @@
    sie öffentlich vor der Gemeinde geprüft und, wenn sie fähig erfunden,
    konfirmiert und zum Abendmahl zugelassen werden.
 
-         [written in pencil: 18]
+         [18]
 
    Die Ordnung soll jährlich mindestens einmal vor versammelter Gemeinde
    vorgelesen und auf Verlangen näher erklärt und ausgelegt werden.
 
-         [written in pencil: 19]
+         [19]
 
    Die Wahl der Gemeindebeamten und die Ablegung der Rechnung derselben, so
    alljährlich in der Adventszeit oder vor dem Schlusse des Jahres stattfinden.
 
-         [written in pencil: 20]
+         [20]
 
    Unveränderlich sind die Artikel 2, 3, 4, Absatz C, 7, 8, 13, 15 und dieser
    20ste. Wider den Sinn der Ordnung soll nichts bestimmt werden, es sei denn, die

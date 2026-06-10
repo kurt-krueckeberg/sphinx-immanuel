@@ -9,7 +9,7 @@
 ```{code-block} text
 
                                                              51,
-               [in pencil: Pastors of the congregation]
+               [Pastors of the congregation]
 No 21.
 
 A Fritze
@@ -37,7 +37,7 @@ Hunington
 ```{code-block} text
 
                                                              51,
-               [in pencil: Pastors of the congregation]
+               [Pastors of the congregation]
 No 21.
 
 A Fritze

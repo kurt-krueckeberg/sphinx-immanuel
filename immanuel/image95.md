@@ -6,13 +6,13 @@
 
 ```text
 278.    11         Ferdinand Karl Friedrich.
-[pencil: Napoleon] geb. 1. Sept. 1892. get. d. 11. Sept 1892
+[Napoleon] geb. 1. Sept. 1892. get. d. 11. Sept 1892
                    Elt. W. C. Remking & Maria geb. Bienz
                    Paten: Fr. Bienz. Fr. Reinking (Stetsvert H. Grote)
                                                 W. Schmidt
 
 279.    12         Edwin Friedrich Ernst.
-[pencil: +]        geb. den 6. Sept. 1892 get. d. 18. Sept 1892
+[+]        geb. den 6. Sept. 1892 get. d. 18. Sept 1892
                    Eltern: Fr. Kräckeberg + Emma geb. Koldewey
                    Path: Fr. Koldewey, Ernst Krückeberg
                                                W. Schmidt.
@@ -24,7 +24,7 @@
                                                W. Schmidt
 
 281     14         Hugo Martin
-[pencil: Ft. Wayne] geb. den 31. Okt. 1892 getauft den 13 Nov. 1892
+[Ft. Wayne] geb. den 31. Okt. 1892 getauft den 13 Nov. 1892
                    Elt. H. F. Reinking, & Louise geb. Bleeke.
                    Path: Heinr. Bischoff u. Mart. Reinking
                                               W. Schmidt
