@@ -6,78 +6,46 @@
 
 ## Transliteration
 
-1. Louise Sophie Wilhelmine [+9/24/54]
-geboren den 10ten Juli und getauft den 17ten Juli 1864.
-Eltern:
-  - Carl Heinrich Wilhelm Krückeberg
-  - Caroline Wilhelmine geb. Kleinschmielt.
-  Pathen: Caroline Schamerloh u. Emma Belz.
-2. Heinrich Wilhelm [+]
-geboren den 19 ten März und getauft den 26ten März 1865.
-Eltern:
-  - Carl Dietrich Wilhelm Schamerloh.
-  - Caroline Philippine geb. Krückeberg.
-  Pathen: Heinrich Krückeberg und Wilhelm Weiland.
-3. Wilhelmine Christine [+]
-geboren den 12ten März, und getauft den 20ten März 1865.
-Eltern:
-  - Johann Heinrich Wilhelm Carl Grote
-  - Caroline Philippine Dorathea geb: Krückeberg.
-  Pathen: Caroline Weiland u. Wilhelmine Schamerloh.
-4. Johann Martin [+11/11/35]
-geboren den 27ten Juli und getauft den 13ten September 1865.
-Eltern:
-  - Christian Fridrich Bleeke
-  - Anna Maria geb. Rup.
-  Pathen: Wilhelm Fells u. Wilhelm Heckmann.
-(Bishier von Pastor A. Fritze getauft)
-5. Caroline Philippine [+]
-geboren den 29ten October und getauft den 29 October 1865.
-  - Johann Andreas Thieme
-  - Christine Sophie Eleonove geb: Krückeberg.
-Pathen: Philippine Weiland u. Philippe Christine Koldeweÿ
-6. Henriette Helene [Napoleon, O.]
-geboren den 29ten October und getauft den 12ten November 1865
-Eltern:
-  - Carl Fridrich Wilhelm Bleeke
-  - Maria geb: Bibelheimer
-  Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
+```text
+49. Louise Sophie Wilhelmine [+9/24/54]
+    geboren den 10ten Juli und getauft den 17ten Juli 1864.
+    Eltern:
+      - Carl Heinrich Wilhelm Krückeberg
+      - Caroline Wilhelmine geb. Kleinschmielt.
+    Pathen: Caroline Schamerloh u. Emma Belz.
 
-## Translation
+50. Heinrich Wilhelm [+]
+    geboren den 19 ten März und getauft den 26ten März 1865.
+    Eltern:
+      - Carl Dietrich Wilhelm Schamerloh.
+      - Caroline Philippine geb. Krückeberg.
+    Pathen: Heinrich Krückeberg und Wilhelm Weiland.
 
-1. Louise Sophie Wilhelmine [+9/24/54]
-born on July 10th and baptized on July 17th, 1864.
-Parents:
-  - Carl Heinrich Wilhelm Krückeberg
-  - Caroline Wilhelmine née Kleinschmielt.
-  Godparents: Caroline Schamerloh and Emma Belz.
-2. Heinrich Wilhelm [+]
-born on March 19th and baptized on March 26th, 1865.
-Parents:
-  - Carl Dietrich Wilhelm Schamerloh.
-  - Caroline Philippine née Krückeberg.
-  Godparents: Heinrich Krückeberg and Wilhelm Weiland.
-3. Wilhelmine Christine [+]
-born on March 12th and baptized on March 20th, 1865.
-Parents:
-  - Johann Heinrich Wilhelm Carl Grote
-  - Caroline Philippine Dorathea née Krückeberg.
-  Godparents: Caroline Weiland and Wilhelmine Schamerloh.
-4. Johann Martin [+11/11/35]
-born on July 27th and baptized on September 13th, 1865.
-Parents:
-  - Christian Fridrich Bleeke
-  - Anna Maria née Rup.
-  Godparents: Wilhelm Fells and Wilhelm Heckmann.
-5. Caroline Philippine [+]
-born on October 29th and baptized on October 29th, 1865.
-  - Johann Andreas Thieme
-  - Christine Sophie Eleonove née Krückeberg.
-Godparents: Philippine Weiland and Philippe Christine Koldeweÿ
-6. Henriette Helene [Napoleon, O.]
-born on October 29th and baptized on November 12th, 1865
-Parents:
-  - Carl Fridrich Wilhelm Bleeke
-  - Maria née Bibelheimer
-  Godparents: Maria Eleonore Reinking and Henriette Schnellenberger
+51. Wilhelmine Christine [+]
+    geboren den 12ten März, und getauft den 20ten März 1865.
+    Eltern:
+      - Johann Heinrich Wilhelm Carl Grote
+      - Caroline Philippine Dorathea geb: Krückeberg.
+    Pathen: Caroline Weiland u. Wilhelmine Schamerloh.
 
+52. Johann Martin [+11/11/35]
+    geboren den 27ten Juli und getauft den 13ten September 1865.
+    Eltern:
+      - Christian Fridrich Bleeke
+      - Anna Maria geb. Rup.
+    Pathen: Wilhelm Fells u. Wilhelm Heckmann.
+    (Bishier von Pastor A. Fritze getauft)
+
+53. Caroline Philippine [+]
+    geboren den 29ten October und getauft den 29 October 1865.
+      - Johann Andreas Thieme
+      - Christine Sophie Eleonove geb: Krückeberg.
+    Pathen: Philippine Weiland u. Philippe Christine Koldeweÿ
+
+54. Henriette Helene [Napoleon, O.]
+    geboren den 29ten October und getauft den 12ten November 1865
+    Eltern:
+      - Carl Fridrich Wilhelm Bleeke
+      - Maria geb: Bibelheimer
+    Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
+```
