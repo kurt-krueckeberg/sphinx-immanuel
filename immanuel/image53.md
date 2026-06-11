@@ -8,77 +8,46 @@ TODO: Add Nachträge
 
 ## Transliteration
 
-1. Ludwig Wilhelm
-geboren den 11ten Januar und getauft den 7ten Februar 1864.
-Eltern:
-  - Heinrich Jakob Rücklos
-  - Anna Elisabeth geb. Hoffmann
-  Pathen: Johann Heinrich Bleeke u. Georg P. Germann.
-2. Emma Maria Catharina
-geboren den 23ten December und getauft den 25ten Decemb. 1863.
-Eltern:
-  - Carl Heinrich
-  - Maria Sophia geb. Tiemann.
-  Pathen: Maria Tiemann u. Catharina Koldewey.
-3. Sophie Wilhelmine
-geboren den 20ten October und getauft den 31ten October 1863.
-Eltern:
-  - Carl Dietrich Wilhelm Schamerloh
-  - Caroline Philippine geb: Krückeberg
-  Pathen: Wilhelmine Weiland u. Louise Heckmann.
-4. Fridrich Jakob
-geboren den 2ten May und getauft den 16ten May 1864.
-Eltern:
-  - Heinrich Jakob Rücklos.
-  - L. Friderike geb. Dauer.
-  Pathen: Abraham Stoudler u. dessen Ehefrau Maria.
-5. Christine Maria
-geboren den 23ten Januar und getauft den 7ten Februar 1864
-Eltern:
-  - Johann Andreas Thieme
-  - Christine Sophie Eleonore geb. Krückeberg.
-  Pathen: Philippine Caroline Schamerloh u. Maria Bleeke.
-6. Maria Sophia Helene
-geboren den 12ten September und getauft den 25ten Septemb. 1864
-Eltern:
-  - Conrad Dietrich Ferdinand Reinking.
-  - Maria Louise Eleonore geb. Bleeke.
-  Pathen Bernhardine Koldewey u. Maria Carline Bleeke
+```text
+43. Carl Wilhelm Christian
+    geboren den 15ten September und getauft den 6ten October 1860. [+1/2/62]
+    Eltern:
+      - Johann Heinrich Wilhelm Carl Grote
+      - Caroline Philippine Dorathea geb. Krückeberg.
+    Pathen: Carl Nürge und Christian Schamerloh.
 
-1. Ludwig Wilhelm
-born on January 11th and baptized on February 7th, 1864.
-Parents:
-  - Heinrich Jakob Rücklos
-  - Anna Elisabeth née Hoffmann
-  Godparents: Johann Heinrich Bleeke and Georg P. Germann.
-2. Emma Maria Catharina
-born on December 23rd and baptized on December 25th, 1863.
-Parents:
-  - Carl Heinrich
-  - Maria Sophia née Tiemann.
-  Godparents: Maria Tiemann and Catharina Koldewey.
-3. Sophie Wilhelmine
-born on October 20th and baptized on October 31st, 1863.
-Parents:
-  - Carl Dietrich Wilhelm Schamerloh
-  - Caroline Philippine née Krückeberg
-  Godparents: Wilhelmine Weiland and Louise Heckmann.
-4. Fridrich Jakob
-born on May 2nd and baptized on May 16th, 1864.
-Parents:
-  - Heinrich Jakob Rücklos.
-  - L. Friderike née Dauer.
-  Godparents: Abraham Stoudler and his wife Maria.
-5. Christine Maria
-born on January 23rd and baptized on February 7th, 1864
-Parents:
-  - Johann Andreas Thieme
-  - Christine Sophie Eleonore née Krückeberg.
-  Godparents: Philippine Caroline Schamerloh and Maria Bleeke.
-6. Maria Sophia Helene
-born on September 12th and baptized on September 25th, 1864
-Parents:
-  - Conrad Dietrich Ferdinand Reinking.
-  - Maria Louise Eleonore née Bleeke.
-  Godparents: Bernhardine Koldewey and Maria Carline Bleeke
+44. Wilhelmine Louise [+]
+    geboren den 23ten September und getauft den 12ten October 1862.
+    Eltern:
+      - Johann Heinrich Wilhelm Carl Grote
+      - Caroline Philippine Dorathea geb. Krückeberg
+    Pathen: Wilhelmine Nürge und Wilhelmine Weiland.
 
+45. Caroline Christine Elisabeth [12/4/46]
+    geboren den 13ten Januar und getauft den 25ten Ianuar 1863
+    Eltern:
+      - Conrad Dietrich Ferdinand Reinking.
+      - Maria Louise Elevnere geb. Bleeke.
+    Pathen: Caroline Grote und Elisabeth Bibelheimer.
+
+46. Heinrich Christian Wilhelm [+8/18/19]
+    geboren den 26ten September und getauft den 4ten October 1863.
+    Eltern:
+      - Christian Dietrich Schamerloh
+      - Caroline Philippine Sophie geb. Krückeberg
+    Pathen: Heinrich Krückeberg und Wilhelm Weiland
+
+47. Fridrich Wilhelm ✝ den 16 April 1895 [+4/16/95]
+    geboren den 2ten October und getauft den 9ten October 1863.
+    Eltern:
+      - Christian Fridrich Blecke
+      - Anna Maria geb. Rup.
+    Pathen: Christian Fridrich Wilhelm Bleeke u. Ferdinand Reinking
+
+48. Christian Eduard [7/16/21]
+    geboren den 5ten November und getauft den 29ten November 1863.
+    Eltern:
+      - Carl Fridrich Wilhelm Bleeke
+      - Maria geb. Bibelheimer.
+    Pathen: Christian Fridrich Bleeke u. David Bibelheimer.
+```
