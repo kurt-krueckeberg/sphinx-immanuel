@@ -8,6 +8,7 @@
 
 ## Transliteration from old German script
 
+```text
 No. 4
 
 Condrad Dietrich Ferdinand Reinking [+]
@@ -39,17 +40,19 @@ Bleeke und Christian Bleeke.
 3. Christine Emilie, geboren den 7. März und getauft den 28. März
 1858; gestorben den 14. April deselben Jahres.
 4. Christine Maria, geboren den 5. Mai und getauft den 24. Mai
-1859\. Pathen: Maria Bleeke, Christine Herkmann.
+1859. Pathen: Maria Bleeke, Christine Herkmann.
 5. Wilhelmine Christine, geboren den 20. April und getauft den 5.
 Mai 1861. Pathen: Wilhelmine Reinking, Sophie Herkmann und Maria Bleeke.
 6. Caroline Christine Elisabeth, geb. den 13. Januar, und get.
 den 25. Januar 1863. Pathen: Caroline Strote und Elisabeth Bibelheimer.
 7. Maria Sophia Helena, geb. den 12. September und getauft den
-25\. September 1864. Pathen: Bernhardine Koldeweÿ (will become Koldewei
+25. September 1864. Pathen: Bernhardine Koldeweÿ (will become Koldewei
 or Koldewey), und Maria Carolina Bleeke.
+```
 
 ## Translation
 
+```text
 No. 4
 
 Conrad Dietrich Ferdinand Reinking
@@ -88,6 +91,7 @@ January 1863. Godparents: Caroline Grote and Elisabeth Bibelheimer.
 7. Maria Sophia Helena, born 12 September, and baptized 25
 September 1864. Godparents: Bernhardine Koldeweÿ (will become Koldewei
 or Koldewey), and Maria Carolina Bleeke.
+```
 
 ## Citations
 
