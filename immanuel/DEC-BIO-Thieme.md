@@ -6,8 +6,7 @@
 
 ## Transliteration from old German script
 
-```{code-block} text
-
+```text
 page 36
 
                     Johann Andreas Thieme                                                   No. 6
@@ -35,11 +34,11 @@ Kinder dieser Ehe sind:
 register No. 17)
 
 1. Johann Fridrich, geboren den 1 Okober und getauft den 10 Oktober
-\1858. SeineTaufpathen sind: Johann Gottlieb Thieme und Heinrich
+1858. SeineTaufpathen sind: Johann Gottlieb Thieme und Heinrich
 Krückeberg
 
 2. Fridrich Wilhelm, geboren den 16 Juli und getauft den 29 Juli
-\1860. Seine Taufpathen sind: Wilhelm Weiland und Carl Krückeberg.
+1860. Seine Taufpathen sind: Wilhelm Weiland und Carl Krückeberg.
 
 3. Caroline Sophie Louise, geboren den 18 Februar und getauft den
 2 März 1862. Ihre Taufpathen sind: Caroline Grote und Sophie Thieme
@@ -55,6 +54,7 @@ Christine Koldewey.
 
 ## English Translation
 
+```text
 page 36
 
 No. 6
@@ -80,10 +80,10 @@ and Caroline Sophie neé Weÿland (see page 32, child No. 2).
 Children from this marriage are:
 
 1. Johann Fridrich, born on 1 October, and baptized on 10 October
-\1858. His godparents are: Johann Gottlieb Thieme and Heinrich
+1858. His godparents are: Johann Gottlieb Thieme and Heinrich
 Krückeberg.
 2. Fridrich Wilhelm, born on 16 July and baptized on 29 July
-\1860. His godparents are: Wilhelm Weiland and Carl Krückeberg.
+1860. His godparents are: Wilhelm Weiland and Carl Krückeberg.
 3. Caroline Sophie Louise, born on 18 February, and baptized on 2
 March 1862. Her godparents are: Caroline Grote and Sophie Thieme.
 4. Christine Marie, born on 23 January, and baptized on 7
@@ -92,4 +92,4 @@ and Maria Bleeke.
 5. Caroline Philippine, born on 20 October, and baptized on 29
 October 1865. Her godparents are: Philippine Weÿland and Philippine
 Christine Koldewey.
-
+```
