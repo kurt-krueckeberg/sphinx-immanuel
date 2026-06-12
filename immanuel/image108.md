@@ -1,6 +1,12 @@
 # Page 141, Baptisms 357-362
 
+```{figure} images/98.jpg
+:class: image-override
+```
+
 ## Transliteration
+
+**TODO:** fix formattting
 
 ```text
 141.)
