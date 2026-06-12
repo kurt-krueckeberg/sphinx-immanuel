@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 page 31
 
 No. 1
@@ -60,9 +61,11 @@ Jäbker in Adams Co., Ind.
 8. Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
 (Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
 gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati). **[†]**
+```
 
 ## English Translation
 
+```text
 page 32 (or 31)
 
 No. 1
@@ -115,6 +118,7 @@ November 1833. Godparents: Louise Schwier and Marie Bleeke; confirmed
 Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
 Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
 (Cincinnati). **[†]**
+```
 
 **†** — Indicates deceased
 

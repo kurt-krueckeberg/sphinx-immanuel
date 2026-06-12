@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 page 50
 
 No. 2?
@@ -42,9 +43,11 @@ Medina Co. O. Pathen: Johann [empty] und seine Ehefrau Pennina. Conf.
 von Past. Fritze im Juli 1865.
 9. Isabella, geboren den 21 Februar und getauft den 1 März 1851.
 Pathen: Louise Bleeke und Maria Bleeke.
+```
 
 ## Translation
 
+```text
 David Bibelheimer
 
 legitimate son of [empty] Bibelheimer and [empty] born in West -Penn
@@ -72,6 +75,7 @@ Medina County, Ohio. Godparents: Johann [empty] and his wife Pennina;
 confirmed in July 1865 by Pastor Fritze.
 9. Isabella, born on 21 February, and baptizes on 1 March 1851.
 Godparents: Louise Bleeke and Maria Bleeke.
+```
 
 ## Citations
 

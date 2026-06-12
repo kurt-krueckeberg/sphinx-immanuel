@@ -6,11 +6,6 @@
 :class: image-override
 ```
 
-## Citation
-
-The biography of Johann Heinrich Philipp Bleeke is {ref}`image 33 <DEC-BIO-Fells>` of 242 from digital
-images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
-
 ## Transliteration
 
 The page has no other text whatsoever.

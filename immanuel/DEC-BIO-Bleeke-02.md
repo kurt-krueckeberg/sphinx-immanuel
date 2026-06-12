@@ -13,6 +13,7 @@ digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch,
 
 ## Transliteration
 
+```text
 No. 10
 
 zweiter Sohn von [Johann Heinrich Philipp Bleeke](DEC-BIO-Bleeke-01.md) und
@@ -46,12 +47,14 @@ Maria Reinking und Sahra Rup.
 3. Carl Friedrich, geb. den 1 Oktober u. get. den 9 Oktober 1863.
 Pathen: Carl Zwick und Carl Heckmann.
 4. Friedrich Wilhelm, geb. den 2 Oktober u. get. den 9 Oktober
-1863\. Pathen: C. Friedrich Wilhelm Bleeke und Ferdinand Reinking.
+1863. Pathen: C. Friedrich Wilhelm Bleeke und Ferdinand Reinking.
 5. Johannes Martin, geb. den 27 Juli u. get. den 13 September
-1865\. Pathen: Wilhelm Fells und Wilhelm Heckmann.
+1865. Pathen: Wilhelm Fells und Wilhelm Heckmann.
+```
 
 ## Translation
 
+```text
 No. 10
 
 Christian Fridrich Bleeke
@@ -91,6 +94,7 @@ Godparents: Carl Zwick and Carl Heckmann.
 Godparents: C. Friedrich Wilhelm Bleeke and Ferdinand Reinking.
 5. Johannes Martin, born 27 July, and baptized 13 September 1865.
 Godparents: Wilhelm Fells and Wilhelm Heckmann.
+```
 
 ## Citations
 

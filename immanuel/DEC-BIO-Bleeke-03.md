@@ -13,6 +13,7 @@ digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch,
 
 ## Transliteration
 
+```text
 No. 7
 
 dritter Sohn von [Johann Heinrich Philipp Bleeke](DEC-BIO-Bleeke-01.md) und
@@ -44,9 +45,11 @@ Heckmann.
 7. Henriette Helene, geb. den 29. Oktober und getauft den 12.
 November 1865. Pathen: Louise Maria Eleonore Reinking und Henriette
 Schnellenberger.
+```
 
 ## Translation
 
+```text
 No. 7
 
 Carl Fridrich Wilhelm Bleeke
@@ -82,6 +85,7 @@ Carl Heckmann.
 7. Henriette Helene, born on 29 October, and baptized on 12
 November 1865. Godparents: Louise Maria Eleonore Reinking and Henriette
 Schnellenberger.
+```
 
 ## Citations
 

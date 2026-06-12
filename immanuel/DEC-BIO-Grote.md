@@ -6,11 +6,10 @@
 
 ## Transliteration from old German script
 
-```{code-block} text
+```text
+                                                                33
 
-                                                                   33
-
-No. 3        [+] Johann Heinrich Wilhelm Grote [+]
+No. 3        [†] Johann Heinrich Wilhelm Grote [†]
 
 Sohn von Heinrich Grote und Sophie geborene Barnekamp, geb. den 4
 November 1823 in Jenhorst, Amt Stolzen (Stolzenau), Königreich Hannover,
@@ -35,14 +34,14 @@ April 1855. Taufpathen: Caroline Grote, Philippine Krückeberg, Leonore
 Bleeke.
 
 3. Caroline Christini, geb. den 11 Sept. u. get. den 4 October
-1857\. Taufpathen: Christine Krückeberg und Philippine Schamerloh.
+1857. Taufpathen: Christine Krückeberg und Philippine Schamerloh.
 
 4. Carl Wilhelm Christian, geb. den 15 Sept. u. get. den 6
 October 1860. Taufpathen: Carl Nürge und Christian Schamerloh. Gestorben
 den 2 Januar 1862.
 
 5. Wilhelmine Louise, geb. den 23 Sept und get. den 12 October
-1862\. Taufpathen: Wilhelmine Nürge und Wilhelmine Weiland.
+1862. Taufpathen: Wilhelmine Nürge und Wilhelmine Weiland.
 
 6. Wilhelmine Christine, geb. den 12 März und getauft den 20
 März. 1865. Taufpathen: Wilhelmine Weiland und Caroline Schamerloh.
@@ -50,7 +49,8 @@ März. 1865. Taufpathen: Wilhelmine Weiland und Caroline Schamerloh.
 
 ## Translation
 
-[] Johann Heinrich Wilhelm Carl Grote []
+```text
+[†] Johann Heinrich Wilhelm Carl Grote [†]
 
 Son of Heinrich Grote and Sophie neé Barnekamp. He was born on 4
 November 1823 in Jenhorst, parish district of Stolzen (Stolzenau),
@@ -81,7 +81,7 @@ Schamerloh.
 October 1860. Godparents: Carl Nürge and Christian Schamerloh. Died on 2
 January 1862.
 5. Wilhelmine Louise, born on 23 Sept, and baptized on 12 October
-1862\. Godparents: Wilhelmine Nürge and Wilhelmine Weiland.
+1862. Godparents: Wilhelmine Nürge and Wilhelmine Weiland.
 6. Wilhelmine Christine, born on 12 March, and baptized on 20
 March 1865. Godparents: Wilhelmine Weiland and Caroline Schamerloh.
-
+```
