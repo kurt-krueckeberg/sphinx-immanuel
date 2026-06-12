@@ -8,11 +8,11 @@
 
 ## Transliteration
 
-```{code-block} text
+```text
 
 33
 
-             [+]Johann Heinrich Krückeberg [+]                                No. 2
+             [†]Johann Heinrich Krückeberg [†]                                No. 2
 
 geboren den 12ten August 1806 in Behrenbusch Fürstenthum Schaumburg Lippe,
 getauft in der ev. luth. Kirche zu Petzen von Pastor Stille.  Seine Taufpathen
@@ -31,7 +31,7 @@ geboren sind, diese sind:
 getauft den 9. März desselben Jahres 1834, ihre Taufpathen ware: Doratha
 Weÿland, Philippine Watermann, und Caroline Krückeberg.
 
-2. † Christine Sophie Eleonore geboren den 22 August und getauft
+2. [†] Christine Sophie Eleonore geboren den 22 August und getauft
 den 28 d. s. M. 1835, ihr Taufpate ist Christine Bleeke.
 
 3. Philippine Christine geboren den 18 June, getauft den 24 d. s. M.  1837,
@@ -48,6 +48,7 @@ sich auch sogleich anschloß.
 
 ## Translation
 
+```text
 No. 2
 
 Johann Heinrich Krückeberg
@@ -71,7 +72,7 @@ are:
 1. Caroline Philippine Dorathee, born on February 27, 1834, and
 baptized on March 9 of the same year. Her Godparents were: Doratha
 Weÿland, Philippine Watermann, and Caroline Krückeberg.
-2. †Christine Sophie Eleonore, born on August 22 and baptized on
+2. [†] Christine Sophie Eleonore, born on August 22 and baptized on
 the 28th of the same month 1835. Her godmother is: Christine Bleeke.
 3. Philippine Christine, born on June 18, 1837, and baptized on
 the 24th of the same month. Her godmother is: Caroline Most.
@@ -84,4 +85,4 @@ The above named Johann Heinrich Krückeberg emigrated with his family to
 the United States of North America on September 13, 1849, and then
 settled in the parish here on November 21st of the same year. He also
 immediately joined the church community.
-
+```
