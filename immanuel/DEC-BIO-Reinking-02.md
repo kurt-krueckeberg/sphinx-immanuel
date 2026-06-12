@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 No.19
 
 Sohn von Johann Friedrich Conrad Reinking und Maria Elisabeth geb.
@@ -51,9 +52,11 @@ dieser Gemeinde anschloß. Außer den genannten fünf Kindern die noch alle
 am Leben sind, hatten genannte Eheleute noch 1 Sohn und 4 Töchter, von
 welchen der erste und drei Töchter schon in Deutschland gestorben sind.
 Eine Tochter aber in St. Louis, Mo.
+```
 
 ## Translation
 
+```text
 No.19
 
 Georg Conrad Wilhelm Reinking
@@ -96,6 +99,7 @@ Besides the five children that are listed above and that are all still
 alive, the above mentioned married couple had 1 more son and 4 more
 daughters. Of these, the son and three of the daughters died in Germany
 while the 4th daughter died in St. Louis, Mo.
+```
 
 ## Citations
 
