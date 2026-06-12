@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 ehelicher Sohn von [empty] Rücklos und [empty].
 
 Geboren in Rumbach, Kanton Dahn, Rein-Pfalz, Königreich Baiern, den 16
@@ -31,9 +32,11 @@ Kinder dieser Ehe sind:
 Pathen: [empty]
 2. Friedrich Jakob, geboren den 2 Mai und getauft den 16 Mai 1864.
 Pathen [empty]
+```
 
 ## Translation
 
+```text
 Heinrich Jacob Rücklos (senior)
 
 Legitimate son of [empty] Rücklos and [empty].
@@ -54,6 +57,7 @@ Children from this marriage are:
 Godparents: [empty]
 2. Friedrich Jakob, born on 2 May, and baptized on 16 May 1864.
 Godparents [empty]
+```
 
 ## Citations
 

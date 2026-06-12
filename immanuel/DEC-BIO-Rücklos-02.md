@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 ehelicher Sohn von Heinrich Jacob Rücklos und Elisabeth, eine geborene
 Stöhr, geboren in Rumbach, Kanton Dahn, Rein-Pfalz, Königreich Baiern,
 den 28 Januar und getauft im darauf folgenden Monat 1842. Er wanderte er
@@ -26,9 +27,11 @@ Kinder dieser Ehe sind
 
 1. Ludwig Wilhelm, geboren den 11 Januar und getauft den 7
 Februar 1864. Pathen: Johann H. Bleeke und Georg P. Germann.
+```
 
 ## Translation
 
+```text
 Heinrich Jacob Rücklos (junior)
 
 Legitimate son of Heinrich Jacob Rücklos and Elisabeth neé Stöhr, born
@@ -44,7 +47,8 @@ are Philipp Peter Hoffmann and Maria Elisabeth neé Wendel.
 Children from this marriage are:
 
 1. Ludwig Wilhelm, born on 11 January and baptized on 7 February
-1864\. Godparents: Johann H. Bleeke and Georg P. Germann.
+1864. Godparents: Johann H. Bleeke and Georg P. Germann.
+```
 
 ## Citations
 
