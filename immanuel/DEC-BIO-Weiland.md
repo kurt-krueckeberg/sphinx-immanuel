@@ -6,8 +6,7 @@
 
 ## Transliteration
 
-```{code-block} text
-
+```text
 Page 35
 
 
@@ -47,6 +46,7 @@ nieder, der er sich auch sogleich anschloß.
 
 ## Translation
 
+```text
 Heinrich Wilhelm Weÿland (in modern German, the name exists almost
 exclusively as Weiland)
 
@@ -76,4 +76,4 @@ The above named Heinrich Wilhelm Weÿland emigrated with his family to
 the Unites States of North America on 13 September 18496. He settled in
 the local parish on November 21st of the same year and immediately
 joined the parish community.
-
+```
