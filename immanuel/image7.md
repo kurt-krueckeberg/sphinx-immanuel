@@ -1,4 +1,4 @@
-# Page 9, Image 7
+# Page 9
 
 ```{image} images/7.jpg
 :class: image-override
