@@ -7,7 +7,7 @@
 ## Transliteration
 
 ```text
-73. Louise Rosete [10/14/98]
+73. Louise Rosete                                     [10/14/98]
     geboren den 19ten December 1858, getauft den 23ten Januar 1868.
     Eltern:
       - Fridrich Schönstedt
@@ -22,14 +22,13 @@
     Pathen: Jakob Stöhr und dessen Ehefrau Elisbeth.
 
 75. Franziska Emeline
-    [to Ill. 1890Kirsck]
-    geb. d. 20 Nov. 1865, get. den 28 Jun. 1868
-    Eltern:
-      - Friedrich Schönstedt
-      - Agnese geb. Mitteldorp.
+       geb. d. 20 Nov. 1865, get. den 28 Jun. 1868       [to Ill. 1890
+    Eltern:                                               Kirsch]
+      - Friedrich Schönstedt                                                                                
+      - Agnese geb. Mitteldorp.                                                                          
     Pathen Jakob Stöhr und dessen Ehefrau Elisabeth.
 
-76. Sophie Christine Wilhelmine [+5/9/95]
+76. Sophie Christine Wilhelmine                           [+5/9/95]
     geboren den 25ten Januar 1868, getauft den 2ten Februar 1866.
     Eltern:
       - Christian Dietrich Schamerloh
