@@ -41,11 +41,11 @@ Seine Kinder sind:
 
 1. Carl Heinrich, geb. den 27 April u. get. den 30 April 1818.
 Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
-den 25 März 1839. **[†]**
+den 25 März 1839. [†]**
 2. [Christian Fridrich](DEC-BIO-Bleeke-02.md), geb. den 7 Mai und get. den 13 Mai 1821.
 Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
 3. Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
-Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825. **[†]**
+Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825. [†]**
 4. [Carl Fridrich Wilhelm](DEC-BIO-Bleeke-03.md), geb. den 30 November u. getauft den 4
 December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
 confirmiert um Ostern 1840 on Past. Möllmann in Cincinati.
@@ -60,7 +60,7 @@ Pathen: Louise Schwier und Marie Bleeke; conf. 1848 von Past.
 Jäbker in Adams Co., Ind.
 8. Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
 (Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
-gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati). **[†]**
+gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati). [†]**
 ```
 
 ## English Translation
@@ -96,12 +96,12 @@ His children are:
 
 1. Carl Heinrich, born on 27 April, and baptized on 30 April 1818.
 Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
-1832; died on 25 March 1839. **[†]**
+1832; died on 25 March 1839. [†]**
 2. [Christian Fridrich](DEC-BIO-Bleeke-02.md), born on the 7th of May, and baptized on
 13 May 1821. Godfather: Carl Fridrich Bleeke, confirmed on Judica
 Sunday, 1835.
 3. Carl Fridrich, born on 17 July, and baptized on 20 July 1823.
-Godfather: Christian Fridrich Bleeke; died on 11 May 1825. **[†]**
+Godfather: Christian Fridrich Bleeke; died on 11 May 1825. [†]**
 4. [Carl Fridrich Wilhelm](DEC-BIO-Bleeke-03.md),
 born on 30 November, and baptized on 4 December 1825. Godparents: Fridrich Meier
 and Christ. Bleeke; confirmed on Easter 1840 by Pastor Möllmann in Cincinnati.
@@ -117,10 +117,10 @@ November 1833. Godparents: Louise Schwier and Marie Bleeke; confirmed
 8. Emilie, born on 11 March, and baptized on [empty] 1837 in
 Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
 Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
-(Cincinnati). **[†]**
+(Cincinnati). [†]**
 ```
 
-**†** — Indicates deceased
+†** — Indicates deceased
 
 ## Citations
 
