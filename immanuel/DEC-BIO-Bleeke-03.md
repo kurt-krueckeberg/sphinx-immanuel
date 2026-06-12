@@ -16,7 +16,7 @@ digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch,
 ```text
 No. 7
 
-dritter Sohn von [Johann Heinrich Philipp Bleeke](DEC-BIO-Bleeke-01.md) und
+dritter Sohn von Johann Heinrich Philipp Bleeke und
 Christine Marie geb.  Schwier, geb. den 30. November und getauft den 4.
 Dezember 1825 (siehe Seite 31, Kind No.4). Er verheiratete sich hierselbst
 mit Maria Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria
@@ -54,7 +54,7 @@ No. 7
 
 Carl Fridrich Wilhelm Bleeke
 
-Third son of [Johann Heinrich Philipp Bleeke](DEC-BIO-Bleeke-01.md) and
+Third son of Johann Heinrich Philipp Bleeke and
 Christine Marie neé Schwier. He was born on the 30th of November and
 baptized on December 4th 1825 (see page 31, child No.4). He married here
 Maria Bibelheimer, a daughter of David Daniel Bibelheimer and Maria neé
