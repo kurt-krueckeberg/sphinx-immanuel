@@ -1,4 +1,10 @@
+# Page 141, Baptisms 357-362
+
+## Transliteration
+
+```text
 141.)
+
 357 16 [†] Felix Heinrich Wilhelm                        [†]
 geb. den 22. Dez., getauft den 24. Dez. 1899.
 Eltern: Adam Bienz & Mathilde, geb. Bleeke
@@ -35,6 +41,6 @@ Eltern: Levi Baron & Wilhelmine Hörriger.
 geb. den 8. Aug. getauft den 19. Aug 1900
 Eltern: Julius Haugk. & Luise geb. Kiefer
 Paten: Fr. Mueller. & Fr. Bienz.
-                                                            W. Schmidt
+```                                                            W. Schmidt
 
 
