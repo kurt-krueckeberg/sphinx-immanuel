@@ -6,8 +6,7 @@
 
 ## Transliteration
 
-```{code-block} text
-
+```test
 No. ?
 
 Sohn von Carl Gottlieb Krückeberg und Dorathea geb. Weiland geboren in
@@ -40,6 +39,7 @@ den 17 Juli d.J. Pathen: Caroline Schamerloh und Emma Belz
 
 ## Translation
 
+```text
 No. ?
 
 Carl Heinrich Wilhelm Krückeberg
@@ -72,4 +72,4 @@ Godparents: Philippine Schamerloh and Sophie Buuck
 on July 17 of the same year. Godparents: Caroline Schamerloh and Emma
 Belz
   - [blank space]
-
+```
