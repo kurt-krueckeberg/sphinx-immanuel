@@ -6,7 +6,7 @@
 
 ## Transliteration
 
-```test
+```text
 No. ?
 
 Sohn von Carl Gottlieb Krückeberg und Dorathea geb. Weiland geboren in
