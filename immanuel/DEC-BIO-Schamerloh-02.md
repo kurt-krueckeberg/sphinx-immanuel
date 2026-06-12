@@ -11,6 +11,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 No. ?
 
 ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
@@ -23,17 +24,17 @@ Wayne Ind. an den 4. Juli 1851, verheirathete sich den 6. Mai 1859 in
 hiesiger Gemeinde mit Caroline Philippine Sophie Krückeberg, eine
 Tochter von Carl Gottlieb Krückeberg und Dorothea geb. Weiland, geb. in
 Bernbusch (Berenbusch) Amt Bückeburg, Fürstenthum Schaumburg-Lippe, den
-8\. September und getauft den 13. September 1840, confirmiert am Sonntag
+8. September und getauft den 13. September 1840, confirmiert am Sonntag
 Palmarum 1854.
 
 Kinder dieser Ehe sind:
 
 1. Carl Friedrich Wilhelm, geb. den 19. September und getauft den
-1\. Oktober 1854. Pathen: Carl Dietrich Wilhelm Schamerloh und Carl
+1. Oktober 1854. Pathen: Carl Dietrich Wilhelm Schamerloh und Carl
 Heinrich Wilhelm Krückeberg
-2. †Heinrich, geboren den 2. Mai 1861, empfing die Nottaufe und starb 2
+2. [†] Heinrich, geboren den 2. Mai 1861, empfing die Nottaufe und starb 2
 Tage darauf den 4. Mai 1861.
-3. †Caroline Wilhelmine Louise, geboren den 18. März und getauft den 23.
+3. [†] Caroline Wilhelmine Louise, geboren den 18. März und getauft den 23.
 März 1862. Pathen: Caroline Philippine Schamerloh und Caroline
 Wilhelmine Krückeberg.
 4. Heinrich Christian Wilhelm, geboren den 26. September und
@@ -41,9 +42,11 @@ getauft den 4. Oktober 1863. Pathen: Heinrich Krückeberg und Wilhelm
 Weiland.
 5. Caroline Sophie, geboren den 25. Februar, empfing die Nottaufe
 und starb zwei Tage darauf den 27. Februar 1865.
+```
 
 ## Translation
 
+```text
 No. ? (3 or 13?)
 
 Christian Dietrich Schamerloh
@@ -68,15 +71,16 @@ Children from this marriage are:
 1. Carl Friedrich Wilhelm, born 19 September, and baptized 1
 October 1854. Godparents: Carl Dietrich Wilhelm Schamerloh and Carl
 Heinrich Wilhelm Krückeberg
-2. †Heinrich, born 2. Mai 1861, received emergency baptism, and died 2
+2. [†] Heinrich, born 2. Mai 1861, received emergency baptism, and died 2
 days later on the 4th of May 1861.
-3. †Caroline Wilhelmine Louise, born 18 March, and baptized 23 March
-1862\. Godparents: Caroline Philippine Schamerloh and Caroline Wilhelmine
+3. [†] Caroline Wilhelmine Louise, born 18 March, and baptized 23 March
+1862. Godparents: Caroline Philippine Schamerloh and Caroline Wilhelmine
 Krückeberg.
 4. Heinrich Christian Wilhelm, born 26 September, and baptized 4
 October 1863. Godparents: Heinrich Krückeberg and Wilhelm Weiland.
 5. Caroline Sophie, born 25 February, received emergency baptism,
 and died 2 days later on the 27th of February 1865.
+```
 
 ## Citations
 

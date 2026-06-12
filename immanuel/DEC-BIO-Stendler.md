@@ -13,6 +13,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 ## Transliteration
 
+```text
 Ehelicher Sohn von Jakob Stendler und Maria Elisabeth geborene Alexander
 geboren in Klingen Kanton Bergzabern Königreich Bayern den 22 November
 und getauft im selben Monat 1831, konfirmiert im März 1845. Er wanderte
@@ -22,9 +23,11 @@ verheirathete sich den 30 December 1862mit Jungfrau Maria Belz, eine
 Tochter von Peter Belz und Elisabeth geb. Bibelheimer, geboren in
 West-Penn to Schuylkill Co. Pa. den 2 Juli 1838, confirmiert den 4 Apr
 1852.
+```
 
 ## Translation
 
+```text
 legitimate son of Jakob Stendler and Maria Elisabeth neé Alexander, was
 bon in Klingen, Kanton (district) Bergzabern, in the Kingdom of Bavaria,
 on November 22nd 1831. He was baptized in the same month. He was
@@ -36,6 +39,7 @@ married on December 30th 1862 the maiden Maria Belz, a daughter of
 Peter Belz and Elisabeth neé Bibelheimer. Maria Belz had been born on
 July 2nd 1838 in West Pennsylvania, in Schuylkill County, Pa. She was
 confirmed on April 4th 1852.
+```
 
 ## Citations
 
