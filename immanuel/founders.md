@@ -1,1 +1,1 @@
-# Immaneul Luther Founders Biographies
+# Immaneul Lutheran Founders Biographies
