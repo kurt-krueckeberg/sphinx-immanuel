@@ -6,8 +6,7 @@
 
 ## Transliteration
 
-```{code-block} text
-
+```text
 No. ?
 
 ehelicher Sohn von Fridrich Jakob Stöhr und Margaretha neé Kern geboren
@@ -19,8 +18,8 @@ Nord-Amerika den 4 Mai 1852 und kam an in Mansfield Ohio den 17 Juli
 hiesiger Gegend im Februar 1859 nieder woselbst er sich sogleich dieser
 Gemeinde anschloß. Er verheiratete sich den 19 Januar 1857 mit Elisabeth
 Mitteldorf, eine Tochter von Bernhard Mitteldorf und Gertraud neé
-Bechhold geb. in Buchholz Königreich Preussen den 22 Februar 1838 get im
-selben Monat , confirmiert [empty]
+Bechhold geb. in Buchholz Königreich Preussen den 22 Februar 1838 get. im
+selben Monat, confirmiert [empty]
 
 Im Jahre 1845 wanderte sie mit ihren Eltern aus nach den Vereinigten
 Staaten von Nord-Amerika.
@@ -28,6 +27,7 @@ Staaten von Nord-Amerika.
 
 ## Translation
 
+```text
 No. ?
 
 Jakob Stöhr
@@ -46,4 +46,4 @@ Mitteldorf and Gertraud neé Bechhold. She was born in Buchholz, Kingdom
 of Prussia, on 22 February 1838, baptized in the same month, and
 confirmed [empty]. She emigrated with her parents in 1845 to the United
 States of North America.
-
+```
