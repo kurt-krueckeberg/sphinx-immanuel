@@ -7,44 +7,45 @@
 ## Transliteration
 
 ```text
-97.  [+]               Anna Pauline Elisabeth
-                       geboren den 18ten Januar und getauft den 1ten Februar 1870.
-                       Eltern:
-                         - Carl Fridrich Martin Scharbade.
-                         - Christine Friderike geb. Meile
-                         Pathen: Frau Maria Bleeke u. Jungfa: Sara, Belz.
+97. [+]               Anna Pauline Elisabeth
+                      geboren den 18ten Januar und getauft den 1ten Februar 1870.
+                      Eltern:
+                        - Carl Fridrich Martin Scharbade.
+                        - Christine Friderike geb. Meile
+                        Pathen: Frau Maria Bleeke u. Jungfa: Sara, Belz.
 
-98.  [Nebr.]           Scharlotta Paulina.
-                       geb. den 27 Oct. u. get. den 6 November 1869.
-                       Eltern:
-                         - Andreas Thieme
-                         - Sophia geb. Klein
+98. [Nebr.]           Scharlotta Paulina.
+                      geb. den 27 Oct. u. get. den 6 November 1869.
+                      Eltern:
+                        - Andreas Thieme
+                        - Sophia geb. Klein
 
-                         Pathen:  Dares Haugh u. Charlotte Rupprecht
-99.                    Carl Friedrich Martin
-                       geboren den 16ten Mai und getauft den 22ten Mai 1870.
-                       Eltern:
-                         - Carl Grote
-                         - Caroline geb. Krückeberg
-                         Pathen: Andreas Thieme und Christian Kohlmeyer.
+                        Pathen:  Dares Haugh u. Charlotte Rupprecht
+99.                   Carl Friedrich Martin
+                      geboren den 16ten Mai und getauft den 22ten Mai 1870.
+                      Eltern:
+                        - Carl Grote
+                        - Caroline geb. Krückeberg
+                        Pathen: Andreas Thieme und Christian Kohlmeyer.
 
-100.                   Maria Elisabeth
-                       geb: den 18ten April und getauft den 19 Juni 1870.
-                       Eltern:
-                         - Johannes Hoeuzer
-                         - Elisabeth, geb. Sallmann
-                         Pathen: Jacob Friedrich Haeriger u. dessen Frau Maria.
+100.                  Maria Elisabeth
+                      geb: den 18ten April und getauft den 19 Juni 1870.
+                      Eltern:
+                        - Johannes Hoeuzer
+                        - Elisabeth, geb. Sallmann
+                        Pathen: Jacob Friedrich Haeriger u. dessen Frau Maria.
 
-101.  [Rev. JaelkIowa] Sophia Louise Amanda
-                       geb. den 20 Juli u. getauft den 31. Juli 1870.
-                       Eltern:
-                         - Friedrich Bleeke
-                         - Maria, geb. Bibilhamer.
-                         Pathen: Sophia Blecke, Louise Reinking u. Amanda Meier.
-102.                   Karolina Louisa Sophia
-                       geb. den 8t September u. gut. den 18t September 1870.
-                       Eltern:
-                         - Christian Schamerloh
-                         - Karolina, geb. Krükeberg
-                         Pathen: Lauisa Reinking u. Sophia Grote.
+101. [Rev. JaelkIowa] Sophia Louise Amanda
+                      geb. den 20 Juli u. getauft den 31. Juli 1870.
+                      Eltern:
+                        - Friedrich Bleeke
+                        - Maria, geb. Bibilhamer.
+                        Pathen: Sophia Blecke, Louise Reinking u. Amanda Meier.
+
+102.                  Karolina Louisa Sophia
+                      geb. den 8t September u. gut. den 18t September 1870.
+                      Eltern:
+                        - Christian Schamerloh
+                        - Karolina, geb. Krükeberg
+                        Pathen: Lauisa Reinking u. Sophia Grote.
 ```
