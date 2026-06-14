@@ -1,4 +1,4 @@
-# Page 77, Baptisms 1-6
+# Page 77, Baptisms 109-114
 
 ```{image} images/64.jpg
 :class: image-override
@@ -35,6 +35,8 @@
         - Heinrich Heier
         - Isabella, geb. Biebelheimer,
       Pathen Sophia Grote und Louise Reinking.
+
+1872
 
 113.  Ernst Friedrich Ferdinand
       geb: den 23 Februar u. get: den 3 Maerz 1872.
