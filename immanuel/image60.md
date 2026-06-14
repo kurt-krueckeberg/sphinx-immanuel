@@ -4,10 +4,9 @@
 :class: image-override
 ```
 
-## Transliteration and Translation
-
 ## Transliteration
 
+```text
 1. James Andreas
 geboren den 10ten Februar 1868 getauft den 10ten Januar 1869.
 uneheliches Kind von Lidia Hoffmann, adoptirt von
@@ -44,43 +43,4 @@ Eltern:
   - Christian Dietrich Bischoff
   - Caroline geb: Block
   Pathen: Caroline Schamerloh und Christine Büttner
-
-## Translation
-
-1. James Andreas
-born on February 10, 1868, baptized on January 10, 1869.
-illegitimate child of Lidia Hoffmann, adopted by
-  - David Breuner
-  - and his wife Catharina, née Belz.
-  Godparents: Abraham Steudler and his wife Maria
-2. Emilie Louise Bertha
-born on January 19, 4:30 a.m., baptized on January 31, 1869.
-Parents:
-  - Conrad Christian Wilhelm Reinking
-  - Ernestine Bertha, née Busch.
-  Godparents: Emilie Reinking and Louise Reinking.
-3. Helene Wilhelmine Amalie.
-born on February 1 and baptized on February 13, 1869
-Parents:
-  - Christian Wilhelm Fells.
-  - Elisabeth, née Rup.
-  Godparents: Mrs. Wilhelmine Weiland and Amalie Thieme.
-4. Friederike Elise
-born on March 10 and baptized on March 21, 1869.
-Parents:
-  - Johan Heinrich Conrad Tells.
-  - Caroline née Feldner.
-  Godparents: Friederike Rücklos and Elisabeth Stöhr.
-5. Emilie Sophie Elise
-born on March 27 and baptized on April 4, 1869.
-Parents:
-  - Carl Dietrich Wilhelm Schamerloh.
-  - Caroline Philippine née Krückeberg.
-  Godparents: Sophie Koldewey and Elise Steger.
-6. Louise Caroline Christine
-born on March 31 and baptized on April 18, 1869.
-Parents:
-  - Christian Dietrich Bischoff
-  - Caroline née Block.
-  Gdparents: Caroline Schamerloh and Christine Büttner
-
+```

@@ -6,6 +6,7 @@
 
 ## Transliteration
 
+```text
 1. [+8/11/47]  Gottfried Heinrich
 geboren den 9tn Juni Vormittag 11 Uhr getauft den 20ten Juni 1869
 Eltern:
@@ -43,44 +44,4 @@ Eltern:
   - Conrad Dietrich Ferdinand Reinking.
   - Maria Louise Eleonore geb. Bleeke.
   Pathen: Heinrich Steger, Christian Schamerloh, Heinrich Heier
-
-## Translation
-
-1. [+8/11/47]  Gottfried Heinrich
-born 9th June morning 11 o’clock baptized 20th June 1869
-Parents:
-  - Friedrich August Haugk
-  - Doris
-  Godparents: Gottfried Thieme and Heinrich Büttner.
-2. [`] Anna Maria Caroline [`]
-born June 17, 7 1/2 o’clock in the morning baptized June 20, 1869
-Parents:
-  - Heinrich Steger
-  - Maria Elise née Stoppenhagen
-  Godparents: Anna Maria Stoppenhagen, Maria Reinking and Mrs.
-Pastor Caroline Fritze
-3. [+4/23/44] Wilhelm Theodor
-born June 16th. Baptized at 2 o’clock in the morning on 26 June 1869.
-Parents:
-Christian Fridrich Bleeke
-Anna Maria née Rup.
-  Godparents: Carl Grote, Fridrich Valsing and Johann Kupp.
-4. Gottfried Wilhelm
-born July 6, 6¾ o’clock in the evening, baptized July 18, 1869.
-Parents:
-  - Carl Heinrich Büttner
-  - Johanne Christine née Haugk.
-  Godparents: Wilhelm Weiland and Gottfried Thieme
-5. Maria Caroline
-born 21st July morning 8 o’clock baptized 1st August 1869
-Parents:
-  - Heinrich Dietrich Heier
-  - Isabelle née Bibelheimer.
-  Godparents: J. Maria Blecke and Mrs. Pastor Caroline Fritze
-6. [Cleveland] Heinrich Christian
-born the 16th of January and baptized the 23rd of January 1870.
-Parents:
-  - Conrad Dietrich Ferdinand Reinking.
-  - Maria Louise Eleonore née Bleeke.
-  Godparents: Heinrich Steger, Christian Schamerloh, Heinrich Heier
-
+```

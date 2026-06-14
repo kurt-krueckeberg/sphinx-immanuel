@@ -6,6 +6,7 @@
 
 ## Transliteration
 
+
 1. Heinrich Friedrich Wilhelm
 geboren den 21 September u. getauft den 2 October 1870
 Eltern:
@@ -60,6 +61,7 @@ Eltern:
 
 ## Translation
 
+```text
 1. Heinrich Friedrich Wilhelm
 born on September 21 and baptized on October 2, 1870
 Parents:
@@ -82,7 +84,7 @@ Parents:
 4. Friedrich Fe
 born: February 12th and died: February 26th, 1871.
 Parents:
-  - Hanrich Rücklos
+   Hanrich Rücklos
   - Friedricka, née Dauner
   Godparents: Friedrich Bleeke and Ferdinand Reinking.
 5. Sophia Christina
@@ -91,10 +93,13 @@ Parents:
   - Conrad Fells
   - Carolina, née Feldner
   Godparents: Sophia Thieme and Christina Büttner
+```
 
-**NOTE:** The next entry is unnumbered and appears in the right margin
+```{note} The next entry is unnumbered and appears in the right margin
 after entry #107 and prior to entry #108.
+```
 
+```text
 - [Calif.] Wilhelm Eduard
 born April 6, 1841.
 died April 15, 1821.
@@ -104,12 +109,14 @@ Parents:
   Godparents: H. Bleeke Ed Heckmann
 died by P. Rupprecht
 registered by St. G.
+```
 
-1. Anna Maria Sophia
+```text
+6. Anna Maria Sophia
  born March 26 and died April 9, 1871.
 [+3/12/39] geb: den 26 Maerz u. get. den 9te April 1871.
 Parents:
   - Wilhelm Schamerloh
   - Philippine, née Kruckeberg
   Godparents: Maria Bleeke, Sophia Grote.
-
+```

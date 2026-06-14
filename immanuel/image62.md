@@ -6,6 +6,7 @@
 
 ## Transliteration
 
+```text
 1. Anna Pauline Elisabeth [+]
 geboren den 18ten Januar und getauft den 1ten Februar 1870.
 Eltern:
@@ -81,4 +82,4 @@ Parents:
   - Christian Schamerloh
   - Karolina, née Krükeberg
   Godparents: Lauisa Reinking and Sophia Grote.
-
+```
