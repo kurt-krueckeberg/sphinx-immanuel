@@ -47,7 +47,7 @@
            Paten: Friedrich Thieme &+ Arthur Bleeke
           
 369   2    Hilda
-           [+2/16/01] geb. d. 15. Feb. get. den 16. Feb 1961. von Sophie Schamerloh gest. den. 16. Febr.
+[+2/16/01] geb. d. 15. Feb. get. den 16. Feb 1961. von Sophie Schamerloh gest. den. 16. Febr.
            Eltern: G. Lehrmann & Anna geb. Schamerloh
 ```       
           
