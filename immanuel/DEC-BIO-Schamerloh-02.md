@@ -1,6 +1,6 @@
 # Christian Dietrich Schamerloh Biography
 
-```{image} images/31.jpg
+```{figure} images/31.jpg
 :class: image-override
 ```
 

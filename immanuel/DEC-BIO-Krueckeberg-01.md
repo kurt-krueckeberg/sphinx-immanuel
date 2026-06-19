@@ -2,7 +2,7 @@
 
 ## Biography
 
-```{image} images/18.jpg
+```{figure} images/18.jpg
 :class: image-override
 ```
 

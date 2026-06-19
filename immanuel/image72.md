@@ -1,6 +1,6 @@
 # Page 103, Baptisms 139-145
 
-```{image} images/72.jpg
+```{figure} images/72.jpg
 :class: image-override
 ```
 

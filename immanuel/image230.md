@@ -1,6 +1,6 @@
 # Entries 8-14
 
-```{image} images/230.jpg
+```{figure} images/230.jpg
 :class: image-override
 ```
 

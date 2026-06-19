@@ -2,7 +2,7 @@
 
 ## Image
 
-```{image} images/26.jpg
+```{figure} images/26.jpg
 :class: image-override
 ```
 

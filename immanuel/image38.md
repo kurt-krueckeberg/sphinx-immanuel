@@ -1,6 +1,6 @@
 # continuation of marriage register
 
-```{image} images/38.jpg
+```{figure} images/38.jpg
 :class: image-override
 ```
 

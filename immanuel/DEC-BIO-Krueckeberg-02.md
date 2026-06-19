@@ -1,6 +1,6 @@
 # Carl Heinrich Wilhelm Krückeberg Biography
 
-```{image} images/24.jpg
+```{figure} images/24.jpg
 :class: image-override
 ```
 

@@ -1,6 +1,6 @@
 # Johann Heinrich Wilhelm Carl Grote Biography
 
-```{image} images/19.jpg
+```{figure} images/19.jpg
 :class: image-override
 ```
 

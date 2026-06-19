@@ -1,6 +1,6 @@
 # Page 12, Image 10
 
-```{image} images/10.jpg
+```{figure} images/10.jpg
 :class: image-override
 ```
 

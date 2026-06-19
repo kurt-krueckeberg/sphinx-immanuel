@@ -1,6 +1,6 @@
 # Carl Heinrich Ludwig Koldeweÿ Biography
 
-```{image} images/27.jpg
+```{figure} images/27.jpg
 :class: image-override
 ```
 

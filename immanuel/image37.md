@@ -1,6 +1,6 @@
 # Pastors of Immanuel Lutheran
 
-```{image} images/37.jpg
+```{figure} images/37.jpg
 :class: image-override
 ```
 

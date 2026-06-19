@@ -1,6 +1,6 @@
 # Jacob Fridrich Höringer
 
-```{image} images/32.jpg
+```{figure} images/32.jpg
 :class: image-override
 ```
 

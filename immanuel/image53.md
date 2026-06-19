@@ -1,6 +1,6 @@
 # Page 84, Baptisms 43-48
 
-```{image} images/53.jpg
+```{figure} images/53.jpg
 :class: image-override
 ```
 

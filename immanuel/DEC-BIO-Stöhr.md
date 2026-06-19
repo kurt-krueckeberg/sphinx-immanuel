@@ -1,6 +1,6 @@
 # Jakob Stöhr Biography
 
-```{image} images/28.jpg
+```{figure} images/28.jpg
 :class: image-override
 ```
 

@@ -1,6 +1,6 @@
 # Page 193
 
-```{image} images/117.jpg
+```{figure} images/117.jpg
 :class: image-override
 ```
 

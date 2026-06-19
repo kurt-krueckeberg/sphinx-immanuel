@@ -1,6 +1,6 @@
 # Page 90, Baptisms 79-84
 
-```{image} images/59.jpg
+```{figure} images/59.jpg
 :class: image-override
 ```
 

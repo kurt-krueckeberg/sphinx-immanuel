@@ -1,6 +1,6 @@
 # Cover Page
 
-```{image} images/3.jpg
+```{figure} images/3.jpg
 :class: image-override
 ```
 

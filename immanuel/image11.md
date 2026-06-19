@@ -1,6 +1,6 @@
 # Page 22
 
-```{image} images/11.jpg
+```{figure} images/11.jpg
 :class: image-override
 ```
 

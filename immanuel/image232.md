@@ -1,6 +1,6 @@
 # 1877-1879, Entries 24-30
 
-```{image} images/232.jpg
+```{figure} images/232.jpg
 :class: image-override
 ```
 

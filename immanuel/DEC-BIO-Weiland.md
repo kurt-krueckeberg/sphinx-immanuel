@@ -1,6 +1,6 @@
 # Heinrich Wilhelm Weÿland Biography
 
-```{image} images/21.jpg
+```{figure} images/21.jpg
 :class: image-override
 ```
 

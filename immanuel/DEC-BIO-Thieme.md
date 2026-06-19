@@ -1,6 +1,6 @@
 # Johann Andreas Thieme Biography
 
-```{image} images/22.jpg
+```{figure} images/22.jpg
 :class: image-override
 ```
 
