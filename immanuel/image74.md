@@ -9,41 +9,41 @@
 ## Transliteration
 
 1. Justinus Hermann  [Calif. ]
-geboren den 5 August u. getauft den 14 August 1881.
-Eltern:
-  - Wilhelm Holle.
-  - Sophie geb. Bleeke.
-  Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
+   geboren den 5 August u. getauft den 14 August 1881.\
+   Eltern:
+   - Wilhelm Holle.
+   - Sophie geb. Bleeke.
+   Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege\
 2. Hermann Jakob Ferdinand [+10/10/81]
-geboren den 27 September und getauft den 9t October 1881.
-Eltern:
-  - Christian Schamerloh.
-  - Emilie geb. Bürger.
-  Pathen: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.
+   geboren den 27 September und getauft den 9t October 1881.\
+   Eltern:
+   - Christian Schamerloh.
+   - Emilie geb. Bürger.
+   Pathen: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.\
 3. Frieda Caroline Maria [+1937]
-geboren den 2t und getauft den 8t September 1881.
-Eltern:
-  - Heinrich Bischoff.
-  - Christine geb. Bleeke.
-    Pathen: Caroline Bischoff u. Maria Bleeke (Großmütter)
-  **1882**
+   geboren den 2t und getauft den 8t September 1881.\
+   Eltern:
+   - Heinrich Bischoff.
+   - Christine geb. Bleeke.
+   Pathen: Caroline Bischoff u. Maria Bleeke (Großmütter)\
+   **1882**\
 4. Johanna Doris Elise
-geboren den 29t December 1881, getauft den 20 Januar 1882.
-Eltern:
-  - Hermann Büttner
-  - Louise. geb. Roth.
-  Pathen: Frau Doris Haugk und Frau Therese Roth.
+   geboren den 29t December 1881, getauft den 20 Januar 1882.\
+   Eltern:
+   - Hermann Büttner
+   - Louise. geb. Roth.
+    Pathen: Frau Doris Haugk und Frau Therese Roth.\
 5. Elise Maria Caroline [+]
-geboren den 14 Jannar u. getauft den 29 Januar 1882,
-Eltern:
-  - Wilhelm Reinking.
-  - Louise geb. Bleeke
-  Pathen: Frau Maria Reinking u. Caroline Ehrmann
+   geboren den 14 Jannar u. getauft den 29 Januar 1882,\
+   Eltern:
+   - Wilhelm Reinking.
+   - Louise geb. Bleeke
+   Pathen: Frau Maria Reinking u. Caroline Ehrmann\
 6. Marie Louise Rosine [+]
-geboren den 25 Januar und getauft den 3. Februar 1882.
-Eltern:
-  - Johann Ehrmann.
-  - Caroline geb. Bleeke
+   geboren den 25 Januar und getauft den 3. Februar 1882.\
+   Eltern:
+   - Johann Ehrmann.
+   - Caroline geb. Bleeke
   Pathen: Maria Bleeke, Louise Gerke u. Elisabeth Benz
 
 ## Translation
