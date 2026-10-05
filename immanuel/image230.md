@@ -55,7 +55,7 @@ und christl. bestattet den 21 Nov. 1871.
 
 ## Citation
 
-(image229)=
+(image230)=
 
 "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
 church, Image 230 of 242
