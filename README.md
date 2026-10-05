@@ -2,7 +2,7 @@
 
 ## Set up
 
-```{code-text}
+```text
 mkdir sphinx-immanuel
 cd sphinx-immanuel
 cp ~/gens/requirements.txt .
@@ -23,7 +23,7 @@ Change:
 - `url:`
 - If needed, adjust `intersphinx_mapping:` from something like
 
-  ```{code-text}
+  ```text
   sphinx:
     config:
       external_toc_exclude_missing: true

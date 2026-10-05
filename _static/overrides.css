@@ -46,3 +46,12 @@ img.image-override,
   max-width: none;
   height: auto;
 }
+
+/* Disable zebra striping on flat-tables with row/column spans */
+.no-zebra-rowspan-table tbody tr,
+.no-zebra-rowspan-table tbody tr:nth-child(odd),
+.no-zebra-rowspan-table tbody tr:nth-child(even),
+.no-zebra-rowspan-table tbody td,
+.no-zebra-rowspan-table tbody th {
+  background-color: transparent !important;
+}

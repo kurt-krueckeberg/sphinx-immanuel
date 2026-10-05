@@ -52,6 +52,7 @@ sphinx:
       - deflist
       - substitution
       - attrs_inline
+      - strikethrough
 
     nitpicky: true
 

@@ -8,7 +8,81 @@
                           der Communicanten
 ```
 
-```{include} _table-artifacts/image140-table-01.html
+```{flat-table}
+:class: no-zebra-rowspan-table
+
+* - 37
+  - Wilhelm Schamerloh
+  - 22
+  - Wilh. Bleeke
+  -
+
+* - 38
+  - Jacob Stöhr jun
+  - 23
+  - Wilh. Reinking
+  - 39
+
+* - dessen Frau
+  - 24
+  - Henr. Grote
+  - 40
+  - Wilhelm Weiland sen
+
+* - 25
+  - Heinr. Bleeke
+  - 41
+  - dessen Frau
+  - 26
+
+* - Herm. Büttner
+  - 42
+  - C. H. Wilh. Weilane
+  - 27
+  - Gottfr. Riedel
+
+* - 43
+  - Christian Bischoff u.
+  - 28
+  - F. Jac Stoehr sen u.
+  - 44
+
+* - dessen Frau
+  - 29
+  - dess. Frau Margr:
+  - 45
+  - Carl Grote u.
+
+* - 30
+  - H. Schoenstädt
+  - 46
+  - dessen Frau
+  - 31
+
+* - And. Thieme u.
+  - 47
+  - Wilhelm Fells
+  - 32
+  - dess. Frau Sophia.
+
+* - 48
+  - dessen Frau
+  - 33
+  - Ferd. Reinking
+  - 49
+
+* - Joh. H. Bleeke
+  - 34
+  - dess. Fr. Maria Luise
+  - 50
+  - Friedr. Bleeke
+
+* - 35
+  - Christ. Bleke
+  - Am Weihnachtsfest
+    1870
+  -
+  -
 ```
 
 ```{code-block} text
