@@ -8,7 +8,7 @@
 
 ## Citation
 
-The biography of Christian Fridrich Bleeke is [image 25](DEC-BIO-Bleeke-02) of 242 from the
+The biography of Christian Fridrich Bleeke is {ref}`image 25 <DEC-BIO-Bleeke-02>` of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 ## Transliteration

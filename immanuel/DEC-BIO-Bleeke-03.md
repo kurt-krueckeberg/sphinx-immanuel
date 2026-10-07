@@ -8,7 +8,7 @@
 
 ## Citation
 
-The biography of Carl Fridrich Wilhelm Bleeke is [image 23](DEC-BIO-Bleeke-03) of 242 from the
+The biography of Carl Fridrich Wilhelm Bleeke is {ref}`image 23 <DEC-BIO-Bleeke-03>` of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 ## Transliteration
